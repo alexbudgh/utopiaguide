@@ -1,6 +1,6 @@
 # Food
 
-**Food** is a resource, and it is needed to keep population of a [Province](/category/Province.md "Province") alive. It's measured in **bushels**.
+**Food** is a resource, and it is needed to keep population of a [Province](../category/Province.md) alive. It's measured in **bushels**.
 
 ## Food Consumed
 
@@ -11,9 +11,9 @@ Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
 |  |  |  |
 | --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
-| Race: [Undead](/main/Race.md "Race") | 0 | 1 |
-| Race: [Dwarf](/main/Race.md "Race") | 1.5 | 1 |
-| Spell: [Gluttony](/guide/Mystics.md "Mystics") | 1.25 | 1 |
+| Race: [Undead](../main/Race.md) | 0 | 1 |
+| Race: [Dwarf](../main/Race.md) | 1.5 | 1 |
+| Spell: [Gluttony](../guide/Mystics.md) | 1.25 | 1 |
 
 - If a province has zero food, it will enter into a state of starvation. While a province is starving, its population (peasants, military units and thieves) will die off at a rate proportional to the food deficit (this also includes armies away from home). Wizards are not affected. This rate is capped at 5% and will continue until the province has a value for food greater than 0.
 
@@ -28,8 +28,8 @@ Modified Food Production = Base Food Production * Production Science Mod * Ferti
 |  |  |
 | --- | --- |
 | **Condition** | **Modifier** |
-| [Fertile Lands](/guide/Mystics.md "Mystics") | 1.25 |
-| [Drought](/guide/Mystics.md "Mystics") | 0.75 |
+| [Fertile Lands](../guide/Mystics.md) | 1.25 |
+| [Drought](../guide/Mystics.md) | 0.75 |
 
 ## Food Decayed
 
@@ -41,7 +41,7 @@ Food Remaining = Food Stock * 0.99 + Modified Food Production - Bushels Eaten
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md "Getting Started with Utopia")  • Creating a province  • [Race](/main/Race.md "Race") & [Personality](/ages/Personality.md "Personality") |
-| The Menus | Throne  • Kingdom  • News [Explore](/misc/Explore.md "Explore")  • [Growth](/guide/Growth.md "Growth")  • [Science](/misc/Science.md "Science")  • [Military](/guide/Military.md "Military")  [Mystics](/guide/Mystics.md "Mystics")  • [Thievery](/misc/Thievery.md "Thievery")  • [War Room](/guide/War_Room.md "War Room") • Aid  • [Dragon](/category/Dragons.md "Dragons")  • [Ritual](/misc/Ritual.md "Ritual")  • Stances  Mail & Forums  Politics  • [Relations](/guide/Relations.md "Relations")  • Rankings  • Preferences |
-| Advanced | [MunkBot](/misc/MunkBot.md "MunkBot")  • Invitations  • [Reservations](/misc/Reservations.md "Reservations")  • [Utopia](/misc/Utopia.md "Utopia")  • [Province](/category/Province.md "Province")  • [World of Legends](/category/World_of_Legends.md "World of Legends")  • Formulas |
-| Rules | [Game Rules](/misc/Game_Rules.md "Game Rules") |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](Science.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| Rules | [Game Rules](Game_Rules.md) |

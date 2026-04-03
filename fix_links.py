@@ -111,7 +111,8 @@ def fix_file(path: Path, slug_to_path: dict[str, Path]) -> int:
             return f"({relative_link(path, target_file)})"
         return m.group(0)  # leave unchanged
 
-    text = re.sub(r'\((/[^\s\)#"]+\.md)\)', fix_absolute_link, text)
+    # Match absolute /path.md with optional "title" attribute
+    text = re.sub(r'\((/[^\s\)#"]+\.md)(?:\s+"[^"]*")?\)', fix_absolute_link, text)
 
     text = WB_LINK_RE.sub(replace_wb_link, text)
 

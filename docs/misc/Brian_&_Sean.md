@@ -24,12 +24,12 @@ Engine is written by Brian & Sean on Python with the Django web framework. It is
 
 User interface is based on HTML 4, CSS and Java Scripts.
 
-First Age used New Code of World of Legends [Utopian server](/misc/Utopian_server.md "Utopian server") was Age of Change.
-Ages before was used [Old Code](/misc/Mehul_Patel.md "Mehul Patel").
+First Age used New Code of World of Legends [Utopian server](Utopian_server.md) was Age of Change.
+Ages before was used [Old Code](Mehul_Patel.md).
 
 ## Utopia
 
-In February 2017, Brian & Sean sold Utopia to Dave & Jeff at [Muga Gaming](/misc/Muga_Gaming.md "Muga Gaming").
+In February 2017, Brian & Sean sold Utopia to Dave & Jeff at [Muga Gaming](Muga_Gaming.md).
 
 Here is the official announcement from the Utopia Blog:
 
@@ -49,7 +49,7 @@ Sean and Brian"
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md "Getting Started with Utopia")  • Creating a province  • [Race](/main/Race.md "Race") & [Personality](/ages/Personality.md "Personality") |
-| The Menus | Throne  • Kingdom  • News [Explore](/misc/Explore.md "Explore")  • [Growth](/guide/Growth.md "Growth")  • [Science](/misc/Science.md "Science")  • [Military](/guide/Military.md "Military")  [Mystics](/guide/Mystics.md "Mystics")  • [Thievery](/misc/Thievery.md "Thievery")  • [War Room](/guide/War_Room.md "War Room") • Aid  • [Dragon](/category/Dragons.md "Dragons")  • [Ritual](/misc/Ritual.md "Ritual")  • Stances  Mail & Forums  Politics  • [Relations](/guide/Relations.md "Relations")  • Rankings  • Preferences |
-| Advanced | [MunkBot](/misc/MunkBot.md "MunkBot")  • Invitations  • [Reservations](/misc/Reservations.md "Reservations")  • [Utopia](/misc/Utopia.md "Utopia")  • [Province](/category/Province.md "Province")  • [World of Legends](/category/World_of_Legends.md "World of Legends")  • Formulas |
-| Rules | [Game Rules](/misc/Game_Rules.md "Game Rules") |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](Science.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| Rules | [Game Rules](Game_Rules.md) |
