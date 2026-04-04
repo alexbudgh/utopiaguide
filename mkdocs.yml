@@ -79,6 +79,7 @@ nav:
   - Relations Meter: main/Relations_Meter.md
   - Overpopulation: formulas/Overpopulation.md
   - Multi-Attack Protection (MAP): misc/Multi-Attack_Protection_(MAP).md
+  - Reservations: misc/Reservations.md
   - Game Rules: misc/Game_Rules.md
   - Gold Status: misc/Gold_Status.md
   - Kingdom Recognition: misc/Kingdom_Recognition.md
@@ -133,6 +134,11 @@ nav:
     - Age 38: history/Age_38.md
   - Science Obsolete and historical data: history/Science_Obsolete_and_historical_data.md
   - Races and Personalities: history/Races_and_Personalities.md
+  - Game Theme History: misc/Theme.md
+  - Developers:
+    - Mehul Patel: misc/Mehul_Patel.md
+    - Brian & Sean: misc/Brian_&_Sean.md
+    - Muga Gaming: misc/Muga_Gaming.md
   - Genesis:
     - Genesis: history/Genesis.md
     - Genesis Change Log: history/Genesis_Change_Log.md
@@ -145,7 +151,8 @@ nav:
     - WoL Personalities (Age 46): history/WoL_Personalities_(Age_46).md
     - WoL Races (Age 45): history/WoL_Races_(Age_45).md
     - WoL Races (Age 46): history/WoL_Races_(Age_46).md
-- Tools & Community:
+- Community & Tools:
+  - Utopian Server: misc/Utopian_server.md
   - Externals: tools/Externals.md
   - UTools: misc/UTools.md
   - MunkBot: misc/MunkBot.md
@@ -155,14 +162,6 @@ nav:
   - UtopiaPimp V2: tools/UtopiaPimp_V2.md
   - Pimp Agent: tools/Pimp_Agent.md
   - Mozilla Firefox: tools/Firefox.md
-- About:
-  - Utopia: misc/Utopia.md
-  - Welcome to the Utopia Wiki: misc/Welcome_to_the_Utopia_Wiki.md
-  - Activation Code: misc/Activation_Code.md
-  - Net Safety: misc/Net_Safety.md
-  - Utopian server: misc/Utopian_server.md
-  - Reservations: misc/Reservations.md
-  - SpecialThanks: misc/SpecialThanks.md
   - Players:
     - Cyclops: players/Cyclops.md
     - Flogger: players/Flogger.md
@@ -177,9 +176,8 @@ nav:
     - Copy Cats: kingdoms/KingdomCopy_Cats.md
     - Pulse: kingdoms/KingdomPulse.md
     - Secrets: kingdoms/KingdomSecrets.md
-  - Misc:
-    - Brian & Sean: misc/Brian_&_Sean.md
-    - Mehul Patel: misc/Mehul_Patel.md
-    - Muga Gaming: misc/Muga_Gaming.md
-    - NewFAQ: misc/NewFAQ.md
-    - Theme: misc/Theme.md
+- About:
+  - Utopia: misc/Utopia.md
+  - Welcome to the Utopia Wiki: misc/Welcome_to_the_Utopia_Wiki.md
+  - Activation Code: misc/Activation_Code.md
+  - SpecialThanks: misc/SpecialThanks.md
