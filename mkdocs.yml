@@ -69,11 +69,9 @@ nav:
   - Hostile Meter: category/Hostile_Meter.md
   - Relations Meter: category/Relations_Meter.md
   - Overpopulation: formulas/Overpopulation.md
-  - Alliances: misc/Alliances.md
   - Game Rules: misc/Game_Rules.md
   - Gold Status: misc/Gold_Status.md
   - Kingdom Recognition: misc/Kingdom_Recognition.md
-  - Rankings: misc/Rankings.md
 - History:
   - Ages:
     - Age 114: misc/Age_114.md
@@ -86,12 +84,9 @@ nav:
     - Age 99: misc/Age_99.md
     - Age 98: misc/Age_98.md
     - Age 97: misc/Age_97.md
-    - Age 96: misc/Age_96.md
-    - Age 95: misc/Age_95.md
     - Age 94: misc/Age_94.md
     - Age 93: misc/Age_93.md
     - Age 92: misc/Age_92.md
-    - Age 91: misc/Age_91.md
     - Age 90: category/Age_90.md
     - Age 89: category/Age_89.md
     - Age 88: misc/Age_88.md
@@ -143,7 +138,6 @@ nav:
     - WoL Races (Age 46): category/WoL_Races_(Age_46).md
 - Tools & Community:
   - Externals: tools/Externals.md
-  - DragonPortal: utonet/DragonPortal.md
   - UTools: misc/UTools.md
   - MunkBot: misc/MunkBot.md
   - Metatron Plus: misc/Metatron_Plus.md
@@ -171,7 +165,6 @@ nav:
     - AllianceKnights Templar: category/AllianceKnights_Templar.md
     - AllianceLotus: category/AllianceLotus.md
     - Brian & Sean: misc/Brian_&_Sean.md
-    - Clarey: misc/Clarey.md
     - Cyclops: category/Cyclops.md
     - Firefox: category/Firefox.md
     - Island: category/Island.md
@@ -185,6 +178,5 @@ nav:
     - NewFAQ: category/NewFAQ.md
     - Rules: category/Rules.md
     - Northy: category/Northy.md
-    - The Utopian EncyclopediaBots: misc/The_Utopian_EncyclopediaBots.md
     - Theme: category/Theme.md
     - Utopia Time: misc/Utopia_Time.md

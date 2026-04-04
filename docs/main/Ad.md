@@ -238,7 +238,7 @@ Is Known: Age 1 ... now
 
 By focusing your mind and employing cunning techniques, you increase the Damage of your Spells and Operations.
 
-Is Known: [Age 90](../category/Age_90.md) ... [Age 92](../misc/Age_92.md), [Age 94](../misc/Age_94.md), [Age 95](../misc/Age_95.md), [Age 98](../misc/Age_98.md), [Age 104](../misc/Age_104.md)
+Is Known: [Age 90](../category/Age_90.md) ... [Age 92](../misc/Age_92.md), [Age 94](../misc/Age_94.md), Age 95, [Age 98](../misc/Age_98.md), [Age 104](../misc/Age_104.md)
 
 ```
  Available to: Dark Elf, Faery
@@ -1041,7 +1041,7 @@ Note that Mystic Aura does not activate on intel spells like Crystal Ball.
 
 This spell clears the minds of your scientists, allowing them to think more clearly and increasing the effectiveness of their research.
 
-Is Known: [Age 72](../misc/Age_72.md) ... [Age 92](../misc/Age_92.md), [Age 96](../misc/Age_96.md) ... [Age 98](../misc/Age_98.md), [Age 100](../misc/Age_100.md) ... [Age 103](../misc/Age_103.md)
+Is Known: [Age 72](../misc/Age_72.md) ... [Age 92](../misc/Age_92.md), Age 96 ... [Age 98](../misc/Age_98.md), [Age 100](../misc/Age_100.md) ... [Age 103](../misc/Age_103.md)
 
 ```
  Available to: Sage
