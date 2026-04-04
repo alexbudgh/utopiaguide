@@ -1,6 +1,6 @@
 # Personality
 
-Utopia currently has 8 personalities. This is a list of the bonuses and penalties for the Utopian Personalities on the [WoL](../misc/WoL.md) server for the current age, [Age 84](#).
+Utopia currently has 8 personalities. This is a list of the bonuses and penalties for the Utopian Personalities on the [WoL](../category/World_of_Legends.md) server for the current age, [Age 84](#).
 
 For previous bonuses, see [Age 83 - The Age of Adjudication](#)
 
@@ -162,6 +162,6 @@ Lived at: [Age 74](../misc/Age_74.md)... [Age 79](../category/Age_79.md)
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & **Personality** |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#)  • [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../misc/Science.md)  • [Military](../guide/Military.md)  • [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Mail & Forums](#)  • [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#)  • [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  • [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Mail & Forums](#)  • [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

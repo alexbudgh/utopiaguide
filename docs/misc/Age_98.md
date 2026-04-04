@@ -31,7 +31,7 @@ Original details can be found in the forums here: [Age 98 Finals](http://forums.
 
 - Watchtowers Sabotage Damage protection effect reduced to 2.5% base (62.5% max).
 
-### [Science](Science.md)
+### [Science](../main/Science_Formulas.md)
 
 - Science NW per Book reduced by ~15%.
 

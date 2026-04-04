@@ -137,7 +137,6 @@ nav:
   - Age 98: misc/Age_98.md
   - Age 99: misc/Age_99.md
   - Alliances: misc/Alliances.md
-  - Arcadia Games: misc/Arcadia_Games.md
   - Attacking & Calculating an Attack: misc/Attacking_&_Calculating_an_Attack.md
   - Brian & Sean: misc/Brian_&_Sean.md
   - Chaining: misc/Chaining.md
@@ -146,7 +145,6 @@ nav:
   - Explore: misc/Explore.md
   - Explore Pool: misc/Explore_Pool.md
   - Exploring, Construction & Building Formulas: misc/Exploring,_Construction_&_Building_Formulas.md
-  - External Sites: misc/External_Sites.md
   - Food: misc/Food.md
   - Game Rules: misc/Game_Rules.md
   - Genesis: misc/Genesis.md
@@ -155,7 +153,6 @@ nav:
   - Kingdom Recognition: misc/Kingdom_Recognition.md
   - Land Whoring Tips & Tricks: misc/Land_Whoring_Tips_&_Tricks.md
   - Leadership Logic: misc/Leadership_Logic.md
-  - Main Page: misc/Main_Page.md
   - Mehul Patel: misc/Mehul_Patel.md
   - Metatron Plus: misc/Metatron_Plus.md
   - Mozilla Firefox: misc/Mozilla_Firefox.md
@@ -166,10 +163,7 @@ nav:
   - Rankings: misc/Rankings.md
   - Reservations: misc/Reservations.md
   - Ritual: misc/Ritual.md
-  - Science: misc/Science.md
   - Science Obsolete and historical data: misc/Science_Obsolete_and_historical_data.md
-  - Server: misc/Server.md
-  - SoS: misc/SoS.md
   - SpecialThanks: misc/SpecialThanks.md
   - The Utopian EncyclopediaBots: misc/The_Utopian_EncyclopediaBots.md
   - Thievery: misc/Thievery.md
@@ -182,7 +176,6 @@ nav:
   - Warleader Guide to Attrition: misc/Warleader_Guide_to_Attrition.md
   - Welcome to the Utopia Wiki: misc/Welcome_to_the_Utopia_Wiki.md
   - Wizards: misc/Wizards.md
-  - WoL: misc/WoL.md
 - Out Of Date:
   - Multi-Attack Protection (MAP): out_of_date/Multi-Attack_Protection_(MAP).md
 - Tools:
@@ -227,7 +220,6 @@ nav:
   - Age 98: misc/Age_98.md
   - Age 99: misc/Age_99.md
   - Alliances: misc/Alliances.md
-  - Arcadia Games: misc/Arcadia_Games.md
   - Attacking & Calculating an Attack: misc/Attacking_&_Calculating_an_Attack.md
   - Brian & Sean: misc/Brian_&_Sean.md
   - Chaining: misc/Chaining.md
@@ -236,7 +228,6 @@ nav:
   - Explore: misc/Explore.md
   - Explore Pool: misc/Explore_Pool.md
   - Exploring, Construction & Building Formulas: misc/Exploring,_Construction_&_Building_Formulas.md
-  - External Sites: misc/External_Sites.md
   - Food: misc/Food.md
   - Game Rules: misc/Game_Rules.md
   - Genesis: misc/Genesis.md
@@ -245,7 +236,6 @@ nav:
   - Kingdom Recognition: misc/Kingdom_Recognition.md
   - Land Whoring Tips & Tricks: misc/Land_Whoring_Tips_&_Tricks.md
   - Leadership Logic: misc/Leadership_Logic.md
-  - Main Page: misc/Main_Page.md
   - Mehul Patel: misc/Mehul_Patel.md
   - Metatron Plus: misc/Metatron_Plus.md
   - Mozilla Firefox: misc/Mozilla_Firefox.md
@@ -256,10 +246,7 @@ nav:
   - Rankings: misc/Rankings.md
   - Reservations: misc/Reservations.md
   - Ritual: misc/Ritual.md
-  - Science: misc/Science.md
   - Science Obsolete and historical data: misc/Science_Obsolete_and_historical_data.md
-  - Server: misc/Server.md
-  - SoS: misc/SoS.md
   - SpecialThanks: misc/SpecialThanks.md
   - The Utopian EncyclopediaBots: misc/The_Utopian_EncyclopediaBots.md
   - Thievery: misc/Thievery.md
@@ -272,4 +259,3 @@ nav:
   - Warleader Guide to Attrition: misc/Warleader_Guide_to_Attrition.md
   - Welcome to the Utopia Wiki: misc/Welcome_to_the_Utopia_Wiki.md
   - Wizards: misc/Wizards.md
-  - WoL: misc/WoL.md

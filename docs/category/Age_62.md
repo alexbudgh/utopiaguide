@@ -1,23 +1,4 @@
-# Difference between revisions of "Age 62"
-
-| **[Revision as of 02:19, 1 September 2015](#) ([view source](#))**[Leonidas](#) ([talk](#) | [contribs](#))[← Older edit](#) | | **[Latest revision as of 19:29, 28 May 2017](#) ([view source](#))** [Utopia wolf](#) ([talk](#) | [contribs](#))m | |
-| (2 intermediate revisions by 2 users not shown) | | | |
-| Line 2: | | Line 2: | |
-|  | |name= not named yet |  | |name= not named yet |
-|  | |number= 62 |  | |number= 62 |
-| − | |status= online | + | |status= finished |
-|  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |
-| − | |start= not yet | + | |start= |
-| − | |end= | + | |end= 13 October 2014 |
-|  | |duration= |  | |duration= |
-|  | }} |  | }} |
-| − | '''Age of Books Of War''' (Age 62) - current nearest Age on [World of Legends](World_of_Legends.md) server. | + | '''Age of Books Of War''' (Age 62) - finished Age on [World of Legends](World_of_Legends.md) server. |
-|  |  |  |  |
-|  |  |  |  |
-
----
-
-## Latest revision as of 19:29, 28 May 2017
+# Age 62
 
 |  |  |
 | --- | --- |
@@ -27,14 +8,14 @@
 | **Official Information** | |
 | Server: | [World of Legends](World_of_Legends.md) |
 | Status: | finished |
-| Owner: | [Arcadia Games](../misc/Arcadia_Games.md) |
+| Owner: | Arcadia Games |
 | **Dates** | |
 | Start: |  |
 | End: | 13 October 2014 |
 | Duration (in days): |  |
 |  | |
 
-**Age of Books Of War** (Age 62) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Age of Books Of War** (Age 62) - finished Age on [World of Legends](World_of_Legends.md) server.
 
 # Changes in brief
 
@@ -255,6 +236,7 @@ Starts with 400 elites
 | Fanaticism, Greater Protection | Fools Gold, Quick Feet, Mystic Aura | Nightmares, Pitfalls, Mages Fury | Access to All Racial Spells |
 | - No Access to Stables - -20% Birth Rate | - Can't use Accelerated Construction - + 100% food consumption |  |  |
 | Elite: 6/2, 650gc, 5NW | Elite: 6/3, 900gc, 5.5NW | 5/4, 950gc, 5.75NW | Elite: 4/5, 1150gc, 5.5NW |
+| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
 
 | Halflings | Humans | Orcs | Undead |
 | --- | --- | --- | --- |
@@ -262,6 +244,7 @@ Starts with 400 elites
 | Invisibility, Town Watch, Aggression, Animate Dead | Tree of Gold, Fountain of Knowledge | Reflect Magic | Town Watch |
 | - - 10% Gains | - + 50% Cost of Science | - - 10% science effectiveness | - Basic Thievery (Intel operations only) - Cannot Train Elites |
 | Elite: 5/5, 900gc, 6.5NW | Elite: 6/4, 1250gc 7.0NW | Elite: 7/1, 800gc, 5.75NW | Elite: 7/2, 6.5NW |
+| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
 
 # Personalities
 
@@ -295,6 +278,6 @@ Starts with 400 elites
 | +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -8% from Military Efficiency |
 | All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
 
-| **[Ages](#)** | |
+| **Ages** | |
 | --- | --- |
-| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • [The Age of Darkness](#) (37)  •  **2008 - 2009 :** [The Age of Angels](../misc/Age_38.md) (38)  • [The Age of the Scholar](#) (39)  • [The Awakening](#) (40)  • [The Age of Renewal](#) (41)  • [The Age of Hope](#) (42)  • [The Age of Rebirth](#) (43)  • [The Age of Change](../misc/Age_44.md) (44)  • [The Age of Light](#) (45)  •  **2010 - 2011 :** [The Age of Distinction](#) (46)  • [The Age of Justice](#) (47)  • [The Age of Peril](../misc/Age_48.md) (48)  • [The Age of Conspiracy](../misc/Age_49.md) (49)  • [The Age of Resurrection](#) (50)  • [The Age of Domination](#) (51)  • [An Era of Supremacy](#) (52)  •  **2012 - 2013 :** [The Age of Havoc](../misc/Age_53.md) (53)  • [A Call to Arms](#) (54)  • [Veil of Shadows](../misc/Age_55.md) (55)  • [Strength in Union](../misc/Age_56.md) (56)  • [Relentless Onslaught](../misc/Age_57.md) (57)  • [Art of War](#) (58)  • [An Honorable Proposition](#) (59)  • [A Battle Joined](#) (60)  •  **2014 - 2015 :** [Age of Destruction](Age_61.md) (61)  • **Books of War** (62)  • [Iron Walls, Iron Heart](../misc/Age_63.md) (63)  • [The Spoils of War](Age_64.md) (64)  • [The Isles of Legion](../misc/Age_65.md) (65)  • [Thunder and Bedlam](#) (66)  •  **2016 - 2017 :** [The Age of Perception](#) (67)  • [The Age of Heresy](../misc/Age_68.md) (68)  • [The Age of Scholars and Scoundrels](#) (69)  • [The Age of Daunting Judgement](#) (70)  • [The Metamorphosis](Age_71.md) (71)  • [The Era of Venerated Bastions](../misc/Age_72.md) (72)  • [The Age of Tricksters and Mischief](Age_73.md) (73)  • [The Age of Affinity](../misc/Age_74.md) (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](Age_75.md) (75)  • [The Age of the Empyrean Advent](Age_76.md) (76)  • [The Age of Accession and Abrogation](Age_77.md)  (77)  • [The Age of Insight](../misc/Age_78.md)  (78)  • [The Age of Vanguards Acquiescence](Age_79.md) (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](../misc/Age_80.md) (80)  • [The Emergence](Age_81.md) (81)  • [The Grimoires of Glory](../misc/Age_82.md) (82)  • [Age of Adjudication](Age_83.md) (83)  • [Bethink the Fray](Age_84.md) (84)  • [Intuition](Age_85.md) (85)  • [Global Viction](../misc/Age_86.md) (86)  • [Age 87](../misc/Age_87.md) (87)  • [Age 88](../misc/Age_88.md) (88)  • [Reformation](Age_89.md) (89)  **2021 - 2022 :** [Age of Exile](Age_90.md) 90 |
+| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • The Age of Darkness (37)  •  **2008 - 2009 :** [The Age of Angels](../misc/Age_38.md) (38)  • The Age of the Scholar (39)  • The Awakening (40)  • The Age of Renewal (41)  • The Age of Hope (42)  • The Age of Rebirth (43)  • [The Age of Change](../misc/Age_44.md) (44)  • The Age of Light (45)  •  **2010 - 2011 :** The Age of Distinction (46)  • The Age of Justice (47)  • [The Age of Peril](../misc/Age_48.md) (48)  • [The Age of Conspiracy](../misc/Age_49.md) (49)  • The Age of Resurrection (50)  • The Age of Domination (51)  • An Era of Supremacy (52)  •  **2012 - 2013 :** [The Age of Havoc](../misc/Age_53.md) (53)  • A Call to Arms (54)  • [Veil of Shadows](../misc/Age_55.md) (55)  • [Strength in Union](../misc/Age_56.md) (56)  • [Relentless Onslaught](../misc/Age_57.md) (57)  • Art of War (58)  • An Honorable Proposition (59)  • A Battle Joined (60)  •  **2014 - 2015 :** [Age of Destruction](Age_61.md) (61)  • **Books of War** (62)  • [Iron Walls, Iron Heart](../misc/Age_63.md) (63)  • [The Spoils of War](Age_64.md) (64)  • [The Isles of Legion](../misc/Age_65.md) (65)  • Thunder and Bedlam (66)  •  **2016 - 2017 :** The Age of Perception (67)  • [The Age of Heresy](../misc/Age_68.md) (68)  • The Age of Scholars and Scoundrels (69)  • The Age of Daunting Judgement (70)  • [The Metamorphosis](Age_71.md) (71)  • [The Era of Venerated Bastions](../misc/Age_72.md) (72)  • [The Age of Tricksters and Mischief](Age_73.md) (73)  • [The Age of Affinity](../misc/Age_74.md) (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](Age_75.md) (75)  • [The Age of the Empyrean Advent](Age_76.md) (76)  • [The Age of Accession and Abrogation](Age_77.md)  (77)  • [The Age of Insight](../misc/Age_78.md)  (78)  • [The Age of Vanguards Acquiescence](Age_79.md) (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](../misc/Age_80.md) (80)  • [The Emergence](Age_81.md) (81)  • [The Grimoires of Glory](../misc/Age_82.md) (82)  • [Age of Adjudication](Age_83.md) (83)  • [Bethink the Fray](Age_84.md) (84)  • [Intuition](Age_85.md) (85)  • [Global Viction](../misc/Age_86.md) (86)  • [Age of the Sword](../misc/Age_87.md) (87)  • [Swift Strife](../misc/Age_88.md) (88)  • [Reformation](Age_89.md) (89)  **2021 - 2022 :** [Age of Exile](Age_90.md) 90  • [Age of Remembrance](../misc/Age_91.md) 91  • [Age of Ancestry](../misc/Age_92.md) 92  • [Occult Ordination](../misc/Age_93.md) 93  • [Ascent](../misc/Age_94.md) 94  • [Age of the Omen](../misc/Age_95.md) 95  • [The Eternal Rift](../misc/Age_96.md) 96  • [Dominance](../misc/Age_97.md) 97  • [Keen Transformation](../misc/Age_98.md) 98  •  **2023 - 2024 :** [Crossing Boundaries](../misc/Age_99.md) 99  • [Equilibrium](../misc/Age_100.md) 100  • [Crusades](../misc/Age_101.md) 101  • [Godsend](../misc/Age_102.md) 102  • [Unbound Dominion](../misc/Age_103.md) 103  • [Renascence](../misc/Age_104.md) 104  • [Devout Fervor](../misc/Age_105.md) 105 |

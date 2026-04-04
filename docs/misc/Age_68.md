@@ -8,7 +8,7 @@
 | **Official Information** | |
 | Server: | [World of Legends](../category/World_of_Legends.md) |
 | Status: | finished |
-| Owner: | [Arcadia Games](Arcadia_Games.md) |
+| Owner: | [Arcadia Games](Brian_&_Sean.md) |
 | **Dates** | |
 | Start: | 19 Apr 2016 |
 | End: | 5 Aug 2016 |

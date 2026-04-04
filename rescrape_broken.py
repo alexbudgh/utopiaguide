@@ -30,11 +30,17 @@ SESSION.headers.update(
 )
 
 
-def is_source_view(soup: BeautifulSoup) -> bool:
+def is_bad_page(soup: BeautifulSoup) -> bool:
+    """Return True for source views, diff views, or other non-article pages."""
     heading = soup.select_one("#firstHeading")
-    if heading and "View source" in heading.get_text():
+    if heading:
+        h = heading.get_text()
+        if "View source" in h or "Difference between revisions" in h:
+            return True
+    if soup.select_one("textarea#wpTextbox1"):
         return True
-    if soup.select_one("textarea#wpTextbox1"):  # wikitext editor textarea
+    # Diff tables
+    if soup.select_one("table.diff"):
         return True
     return False
 
@@ -92,7 +98,7 @@ def fetch_rendered(title: str) -> tuple[BeautifulSoup, str] | None:
             continue
 
         soup = BeautifulSoup(r.text, "html.parser")
-        if is_source_view(soup):
+        if is_bad_page(soup):
             print(f"  {ts}: source view, trying older…")
             time.sleep(0.5)
             continue
@@ -116,8 +122,10 @@ def rescrape_page(md_file: Path, page_title_to_path: dict) -> bool:
     # First heading gives us the title
     m = re.match(r'^#\s+(.+)$', text, re.MULTILINE)
     raw_title = m.group(1).strip() if m else md_file.stem.replace("_", " ")
-    # Strip "View source for " prefix if present
+    # Strip MediaWiki page-variant prefixes
     raw_title = re.sub(r'^View source for\s+', '', raw_title, flags=re.IGNORECASE)
+    raw_title = re.sub(r'^Difference between revisions of\s+"?', '', raw_title, flags=re.IGNORECASE)
+    raw_title = raw_title.rstrip('"')
     title = raw_title
 
     print(f"Re-scraping: {title!r}")
@@ -155,7 +163,11 @@ def main():
     # Find all docs with wikitext source content
     broken = [
         f for f in sorted(DOCS_DIR.rglob("*.md"))
-        if re.search(r"View source for|You do not have permission to edit", f.read_text())
+        if re.search(
+            r"View source for|You do not have permission to edit|^# Difference between revisions",
+            f.read_text(),
+            re.MULTILINE,
+        )
     ]
 
     if not broken:

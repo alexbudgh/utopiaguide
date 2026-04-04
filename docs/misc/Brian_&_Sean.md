@@ -50,6 +50,6 @@ Sean and Brian"
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](Science.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
 | Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |

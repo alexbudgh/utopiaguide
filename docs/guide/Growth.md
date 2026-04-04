@@ -324,6 +324,6 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • **Growth**  • [Science](../misc/Science.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • **Growth**  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

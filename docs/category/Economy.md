@@ -1,26 +1,4 @@
-# Difference between revisions of "Economy"
-
-| **[Revision as of 23:26, 18 April 2021](#) ([view source](#))**[Umajon911](#) ([talk](#) | [contribs](#))([→](#Military_Expenses_.2F_Wages)‎Military Expenses / Wages)[← Older edit](#) | | **[Revision as of 13:35, 25 April 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Money)‎Money)[Newer edit →](#) | |
-| Line 5: | | Line 5: | |
-|  | Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md#tree-_of-_gold). |  | Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md#tree-_of-_gold). |
-|  |  |  |  |
-| − | Spend money on Exploration, Building, Training and Wages. | + | Spend money on Exploration, Building, Training, Wages, Dragons or aid your teammates. |
-| − |  |  | |
-| − |  |  | |
-|  |  |  |  |
-|  | === Raw Income === |  | === Raw Income === |
-| Line 19: | | Line 17: | |
-|  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [Race Mod](../main/Race.md) \* [Personality Mod](../ages/Personality.md) \* max([Inspire Army](../guide/Mystics.md#inspire-_army) , [Hero's Inspiration](../guide/Mystics.md#hero-s-inspiration)) \* [Greed](../guide/Mystics.md#greed) \* [Bookkeeping Science Effect](../main/Science_Formulas.md#science-_categories-2c-_types-_and-_effects) |  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [Race Mod](../main/Race.md) \* [Personality Mod](../ages/Personality.md) \* max([Inspire Army](../guide/Mystics.md#inspire-_army) , [Hero's Inspiration](../guide/Mystics.md#hero-s-inspiration)) \* [Greed](../guide/Mystics.md#greed) \* [Bookkeeping Science Effect](../main/Science_Formulas.md#science-_categories-2c-_types-_and-_effects) |
-|  |  |  |  |
-| − | '''Note''' | + | '''Note:''' |
-| − | :Wages are not paid to basic soldiers. | + | \*Wages are not paid to basic soldiers |
-| − | :Greed affects provinces as a wage penalty, not an income penalty | + | \*Greed affects provinces as a wage penalty, not an income penalty |
-|  |  |  |  |
-|  | =Population= |  | =Population= |
-
----
-
-## Revision as of 13:35, 25 April 2021
+# Economy
 
 # Money
 
@@ -33,7 +11,7 @@ Spend money on Exploration, Building, Training, Wages, Dragons or aid your teamm
 ### Raw Income
 
 ```
-Raw Income = (3 * Employed Peasants) + (1 * Unemployed Peasants) + (0.75 * Prisoners) + (Banks * 25 * BE)
+Raw Income = (3 * Employed Peasants) + (1 * Unemployed Peasants) + (0.75 * Prisoners) + Racial Gold Generation + (Banks * 25 * BE) + Miner's Mystique Gold Generation
 ```
 
 ### Modified Total Income
@@ -46,10 +24,10 @@ Modified Income = Raw Income * Plague * Riots * Bank % Bonus * Income Sci * Hon
 ### Military Expenses / Wages
 
 ```
-Military Expenses = (((Def specs + Off specs )*0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero's Inspiration) * Greed * Bookkeeping Science Effect
+Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero's Inspiration) * Greed * Ritual * Dragon * Bookkeeping Science Effect
 ```
 
-**Note:**
+**Note**
 
 - Wages are not paid to basic soldiers
 - Greed affects provinces as a wage penalty, not an income penalty
@@ -61,12 +39,12 @@ Military Expenses = (((Def specs + Off specs )*0.5) + Elites * 0.75) * Wage Rate
 ```
 Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) + (Homes * Homes Capacity)  
 
-Mod Living Space = (((Raw Living Space - Homes Bonus) * Race Bonus) + Homes Bonus) * Population Science * Honor Population Bonus
+Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Population Bonus
 ```
 
 **Note**
 
-Honor Bonuses are calculated as 1+(Personality Mod \* Base Honor Bonus)
+- Honor Bonuses are calculated as 1 + (Personality Mod \* Honor Bonus)
 
 ### Current Population
 
@@ -77,14 +55,14 @@ Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + D
 
 **Note**
 
-Prisoners do not add to the population
+- Prisoners do not add to the population
 
 ## Peasants
 
 ### Hourly Change
 
 ```
-Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Homes Bonus * EOWCF * Chastity - Storms)) - Drafted Soldiers - Wizards Trained
+Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Race Bonus * Hospitals Bonus * EOWCF * Chastity - Storms)) + (Homes bonus * Chastity) - Drafted Soldiers - Wizards Trained
 ```
 
 |  |  |  |
@@ -92,12 +70,14 @@ Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Home
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Love & Peace** | 0.85% | 0 |
 | **Storms** | 1.5% | 0 |
-| **Chastity** | 0 | 1 |
+| **Chastity** | 0.5 | 1 |
+
+**Note**
 
 - Base birth rate is 2.05% and ranges from 1.9457% up to 2.1525% (± 5% of 2.05%)
 - Base birth rate is increased to ~3% during Protection
-- There must be enough living space for peasants to increase
-- When a province is overpopulated, the number of peasants will decrease by 10% per tick.
+- There must be enough population space for peasants to increase
+- When a province is overpopulated, the number of peasants will decrease by 10% per tick
 
 ## Employment
 
@@ -116,15 +96,17 @@ Unfilled Jobs = MAX ( Available Jobs - Peasants - ROUNDDOWN( Prisoners / 2 ) , 0
 ### Employed Peasants
 
 ```
-Employed Peasants = MIN ( Peasants - Available Jobs - ROUNDDOWN ( Prisoners* / 2 ) )
+Employed Peasants = MIN ( Peasants , Available Jobs - (ROUNDDOWN ( Prisoners* / 2 )) )
 ```
 
-- Note that Prisoners is included in the Employed Peasants calculation for Building Efficiency. Prisoners cannot be considered actual peasants as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment).
+**Note**
+
+- Prisoners are included in the Employed Peasants calculation for Building Efficiency. Prisoners are not considered actual peasants, as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment)
 
 ### Unemployed Peasants
 
 ```
-Unemployed Peasants = Peasants - Employed Peasants
+Unemployed Peasants = MIN(Peasants - Employed Peasants)
 ```
 
 ### Employment Rate
@@ -132,3 +114,10 @@ Unemployed Peasants = Peasants - Employed Peasants
 ```
 Employment Rate = (Employed Peasants / Peasants) * 100
 ```
+
+| **The Utopia Guide** | |
+| --- | --- |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](Province.md)  • [World of Legends](World_of_Legends.md)  • Formulas |
+| Rules | [Game Rules](../misc/Game_Rules.md) |

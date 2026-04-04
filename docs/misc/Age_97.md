@@ -35,7 +35,7 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - Training Grounds now also reduce Mercenary costs by 2% (max 50%)
 - Universities now increase Science Book generation of all Categories; base Book generation effect reduced to from 2% to 1% (max 25%)
 
-### [Science](Science.md)
+### [Science](../main/Science_Formulas.md)
 
 - Cunning Science has been split into Sorcery:'Increased Instant Spell Damage' and Cunning:'Increased Sabotage Operation Damage'
 - Cunning Science efficiency scaling reduced to ~2/3 of current

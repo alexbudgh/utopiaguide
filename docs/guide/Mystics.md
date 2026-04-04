@@ -1,26 +1,22 @@
-# Difference between revisions of "Mystics"
+# Mystics
 
-| **[Revision as of 16:59, 8 September 2021](#) ([view source](#))**[Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[← Older edit](#) | | **[Revision as of 17:00, 8 September 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[Newer edit →](#) | |
-| Line 44: | | Line 44: | |
-|  | \*[Self Spells](Mystics.md#the-_spell-_book--_the-_self-_spells) |  | \*[Self Spells](Mystics.md#the-_spell-_book--_the-_self-_spells) |
-|  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [here](Magic_Formulas.md#the-spell-book). |  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [here](Magic_Formulas.md#the-spell-book). |
-|  | | + | \*\*The caster gains honor from kd mates whom they cast support spells on. Those getting casted on lose honor when having a support spell casted on them, ~0.1%. |
-|  | \*[Offensive spells](Mystics.md#the-_spell-_book--_the-_offensive-_spells) |  | \*[Offensive spells](Mystics.md#the-_spell-_book--_the-_offensive-_spells) |
-|  |  |  |  |
-
----
-
-## Revision as of 17:00, 8 September 2021
-
-Unlike your fabled land of Earth, the citizens of [Utopia](../misc/Utopia.md) truly believe in and have witnessed the powers of magic. From the deadly plagues to the amazingly fertile land, so much has happened on this planet that cannot be explained away by science or nature. As ruler of your lands, you have access to some of the most amazing magical spells ever known. Below, I will try to explain to the best of my ability the powers of these spells and how to make magic your friend.
+Unlike your fabled land of Earth, the citizens of [Utopia](../misc/Utopia.md) truly believe in and have witnessed the powers of magic. From the deadly plagues to the amazingly fertile land, so much has happened on this planet that cannot be explained away by science or nature. As ruler of your lands, you have access to some of the most amazing magical spells ever known. Below, I will try to explain to the best of my ability the powers of these spells and how to make magic your friend. For more in-depth information on each Spell, check [Magic Formulas](Magic_Formulas.md).
 
 ### Essentials: Runes, Wizards, and Guilds
 
-Spells require [Runes](#), [Wizards](../misc/Units.md), and [Guilds](../category/Buildings.md) to be cast. [Towers](../category/Buildings.md) produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](../misc/Units.md) and reduce your number of available [workers](../category/Economy.md). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [thieves](../misc/Units.md), or [military](Military.md). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana Rating which determines whether or not they can cast spells. This rating rises automatically each day and drops each time you cast a spell. Your Wizards will not cast spells without at least a 5% Mana Rating. Casting spells is not without risks. Failed attempts can result in explosions and kill a small portion of your wizards.
+Spells require Runes, [Wizards](../misc/Units.md), and [Guilds](../category/Buildings.md) to be cast. [Towers](../category/Buildings.md) produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](../misc/Units.md) and reduce your number of available [workers](../category/Economy.md). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [Thieves](../misc/Units.md), or [Military](Military.md). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana level which determines whether or not they can cast Spells. This rating rises automatically each day and drops each time you cast a Spell. Your Wizards will not cast Spells without at least a 5% Mana level. Casting Spells is not without risks. Failed attempts can result in explosions and kill a small portion of your Wizards.
+
+### Rune Generation
+
+```
+Runes Generated = (( Towers * 12 * Race Land Effect Mod * Personality Land Effect Mod * Building Efficiency ) + ( Land * Land Rune Generation )) * Production Science * Honor Mod * Ritual Mod * Stance Mod
+```
+
+- Each tick, 1.2% of the total Runes in storage will decay.
 
 ### Determining Success
 
-To cast a spell, you must have [Guilds](Growth.md), wizards and mystic [Runes](#). For spells cast upon yourself, success is based on your Guild percentage and your Building Efficiency - the more guilds you have, the better you will do. For spells cast upon others, the success is based on your relative wizard population, measured as [Wizards Per Acre](#) (WPA), modified by the racial bonuses or penalties and your knowledge of Channeling science. The higher your WPA compared to an enemy, the better your success. However, there is always a great deal of chance in every spell. Furthermore, the duration of all spells is greatly impacted by your Guild percentage.
+To cast a spell, you must have [Guilds](Growth.md), wizards and mystic Runes. For spells cast upon yourself, success is based on your Guild percentage and your Building Efficiency - the more guilds you have, the better you will do. For spells cast upon others, the success is based on your relative wizard population, measured as Wizards Per Acre (WPA), modified by the racial bonuses or penalties and your knowledge of Channeling science. The higher your WPA compared to an enemy, the better your success. However, there is always a great deal of chance in every spell. Furthermore, the duration of all spells is greatly impacted by your Guild percentage.
 
 For support spells, the formula used to calculate success rate is adjusted to make casting self spells on your allies easier. A WPA vs WPA calculation will still be made which will require the caster to have WPA but the formula will make it so that all Kingdom members have an opportunity to receive the self spell bonuses from their support caster. In other words, although you still need WPA it won't be a very significant part of the formula.
 
@@ -54,6 +50,7 @@ The costs of spells are:
 - Offensive Spells (Hostile relations) - 2%
 - [Ritual](../misc/Ritual.md) Spells - 2%
 - Support Spells on others - 2%
+- Successful received Support Spells - 2%
 
 ### Restriction & Limits
 
@@ -62,8 +59,8 @@ Certain spells are designated Unfriendly, Hostile or [War](Relations.md) Only sp
 Spells are divided into two categories, as listed below:
 
 - [Self Spells](Mystics.md)
-  - Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [**here**](Magic_Formulas.md).
-  - The caster gains honor from kd mates whom they cast support spells on. Those getting casted on lose honor when having a support spell casted on them, ~0.1%.
+  - Some Self Spells can be cast on kingdom members by certain [Races](../main/Race.md). These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [**here**](Magic_Formulas.md).
+  - The caster gains honor from kd mates whom they cast support spells on. Those getting cast on lose honor when having a support spell casted on them, ~0.1%.
 - [Offensive spells](Mystics.md)
 
 There are 3 possible outcomes of casting a spell. It can be successful, it can fail, or it can fail and some wizards may die.
@@ -72,7 +69,7 @@ There are 3 possible outcomes of casting a spell. It can be successful, it can f
 - Fail message: Your wizards gather their runes and begin casting. The spell consumes X Runes and ... fizzles. Alas, we were not able to fulfill your expectations. Please forgive us.
 - Dying wizards message: "Leader name", something has gone terribly wrong with our spell. X of our wizards were killed in an explosion!
 
-Please note that Duration is in real time, spell messages are in [Utopia Time](../misc/Utopia_Time.md)
+Please note that Duration is in real time, spell messages are in [Utopia Time](../misc/Utopia_Time.md).
 
 ## The Spell Book: Self Spells
 
@@ -80,13 +77,13 @@ Listed here is a short reference guide to each of the spells available that can 
 
 ### Aggression
 
-This spell refocuses your soldiers from versatile fighting units into an offensive machine. Giving them a lust for attacking, Soldiers will gain 1 offensive point in all combat for the duration of the spell. During this period, though, they will lose 1 defensive point as well.
+This spell refocuses your soldiers from versatile fighting units into an offensive machine. Giving them a lust for attacking, Soldiers will gain 2 offensive point in all combat for the duration of the spell.
 
 Is Known: Age 14 ... now
 
 ```
  Available to: Orc
- Effect: Your soldiers gain 1 offense points at the cost of losing 1 defense points.
+ Effect: Your soldiers gain 2 Offense points. 
  Duration: max 24 days.
  Cast Message: Our soldiers will fight with unique aggression for X days!
  Mystic Advisor Message: Our soldiers will fight with unique aggression for X days!
@@ -96,7 +93,7 @@ Is Known: Age 14 ... now
 
 The power to raise the dead gives you the power to protect your people. By casting this spell, you can protect your people from the death and destruction of defending your lands. During your next defensive battle, half of your dead army will be restored into basic soldiers to help repopulate your army.
 
-Is Known: Age 1 ... [Age 87](../misc/Age_87.md), [Age 90](../category/Age_90.md)
+Is Known: Age 1 ... [Age 87](../misc/Age_87.md), [Age 90](../category/Age_90.md) ... now
 
 ```
  Available to: Undead
@@ -122,15 +119,17 @@ Is Known: Age 13 ... now
  Mystic Advisor Message: Our armies are surrounded by a cloud of anonymity for our next battle.
 ```
 
+- Note - Anon reduces target honor, attacker does not get honor.
+
 ### Bloodlust
 
 Bloodlust fires the blood of your troops, igniting in them a desire to cause destruction. This fury will increase the carnage among enemy troops at a cost of increased recklessness among your own troops.
 
-Is Known: Age 1 ... Age 22, [Age 49](../misc/Age_49.md) .. [Age 58](#), [Age 59](#) ... now
+Is Known: Age 1 ... Age 22, [Age 49](../misc/Age_49.md) .. Age 58, Age 59 ... now
 
 ```
- Available to: Faery
- Effect: A province under Bloodlust will have 10% increased Offensive Military Efficiency, inflict 10% more kills, and suffer 20% higher military losses while the spell is active.
+ Available to: Orc
+ Effect: A province under Bloodlust will have 10% increased Offensive Military Efficiency, inflict 15% more kills, and suffer 15% higher military losses while the spell is active.
  Duration: Not yet known.
  Cast Message: Our armies crave the scent of blood. They will savage the enemy, or die trying. 
  Mystic Advisor Message: Same as Cast Message
@@ -150,20 +149,6 @@ Is Known: Age 15 ... now
  Mystic Advisor Message: Same as cast message.
 ```
 
-### Cast Ritual
-
-Once your Monarch or Steward has declared what ritual to perform, this spell will increase your progress towards its completion with each cast. This spell has a very high difficulty and cost, and is accessible via the [Ritual](../misc/Ritual.md) tab.
-
-Is Known: [Age 73](../category/Age_73.md) ... now
-
-```
- Available to: All
- Effect: Progresses the ritual counter with each successful cast.
- Duration: Instant Cast
- Cast Message: We are now closer to completing our ritual project!
- Mystic Advisor Message: N/A
-```
-
 ### Clear Sight
 
 By granting your police the ability to see through the obvious and into the depths, you give them the ability to catch thieves who may wander into the lands. The spell, lasting potentially for weeks, gives you a base chance to catch opposing thieves, regardless of the strength of the guilds involved.
@@ -171,7 +156,7 @@ By granting your police the ability to see through the obvious and into the dept
 Is Known: Age 1 ... now
 
 ```
- Available to: Avian
+ Available to: Avians
  Effect: Automatically catches 25% of the thieves' operations conducted against your province.
  Duration: max 22 days
  Cast Message: Our police have been blessed with Clear Sight for X days!
@@ -180,9 +165,9 @@ Is Known: Age 1 ... now
 
 ### Divine Shield
 
-The cleric protects his people from the black magics of his enemies, granting them further protection against harmful spells.
+The caster protects his people from the dark magic of his enemies, granting them further protection against harmful Instant Spells.
 
-Is Known: [Age 72](../misc/Age_72.md) ... [Age 80](../misc/Age_80.md) ... [Age 87](../misc/Age_87.md) ... now
+Is Known: [Age 72](../misc/Age_72.md) ... [Age 80](../misc/Age_80.md) ... [Age 87](../misc/Age_87.md) ... [Age 103](../misc/Age_103.md)
 
 ```
  Available to: Cleric
@@ -199,10 +184,10 @@ Fanaticism focuses your army on combat, increasing their offensive efficiency fo
 Is Known: Age 14 ... now
 
 ```
- Available to: Cleric
- Effect: Increases your offensive military efficiency by 5%. Decreases your defensive military 
- efficiency by 5%.
- Duration: max 12 hours
+ Available to: All
+ Effect: Increases your Offensive Military Efficiency by 5%. Decreases your Defensive Military 
+ Efficiency by 5%.
+ Duration: max 9 hours
  Cast Message: Our army will fight with fanaticism for X days! 
  Mystic Advisor Message: Our army fights with fanatical fervor
 ```
@@ -228,25 +213,11 @@ Science is a fundamental building block for any and all of the other parts of yo
 Is Known: Age 39 ... [Age 68](../misc/Age_68.md), [Age 82](../misc/Age_82.md) ... now
 
 ```
- Available to: Elf
+ Available to: Faery, Human
  Effect: Increases your science book production by 10% while the spell is active.
  Duration: Moderate, max duration unknown
  Cast Message: Our students are blessed with excellent concentration for X Days!
  Mystic Advisor Message: Our students are blessed with excellent concentration for X days!
-```
-
-### Ghost Workers
-
-Creating ghostly workers to perform the duties of your peasants, this spell reduces reduces the amount of filled jobs for maximum efficiency. This spell is effective for several days until the ghosts disappear.
-
-Is Known: Age 13 ... Age 16 ... [Age 81](../category/Age_81.md) ... now
-
-```
- Available to: Faery
- Effect: The required number of jobs filled for maximum Building Efficiency is reduced by 20%.
- Duration: Moderate, max time unknown
- Cast Message: Magical auras enchant our buildings and begin working with increased productivity for XX days!
- Mystic Advisor Message: Same as cast message
 ```
 
 ### Greater Protection
@@ -256,8 +227,8 @@ A more powerful version of the Minor Protection spell, this spell functions simi
 Is Known: Age 1 ... now
 
 ```
- Available to: Cleric
- Effect: Increases defensive military efficiency by 5%.
+ Available to: Avian, Faery, Human
+ Effect: Increases Defensive Military Efficiency by 5%.
  Duration: max time unknown
  Cast Message: Our realm is now under a sphere of protection for X days. 
  Mystic Advisor Message: Our realm is now under a sphere of protection for X days!
@@ -265,13 +236,13 @@ Is Known: Age 1 ... now
 
 ### Guile
 
-By focusing your mind and employing cunning techniques, you increase the damage of your spells and operations.
+By focusing your mind and employing cunning techniques, you increase the Damage of your Spells and Operations.
 
-Is Known: [Age 90](../category/Age_90.md)
+Is Known: [Age 90](../category/Age_90.md) ... [Age 92](../misc/Age_92.md), [Age 94](../misc/Age_94.md), [Age 95](../misc/Age_95.md), [Age 98](../misc/Age_98.md), [Age 104](../misc/Age_104.md)
 
 ```
- Available to: Heretic
- Effect: Increases Instant Spell and Sabotage Operation Damage by 20%.
+ Available to: Dark Elf, Faery
+ Effect: Increases Instant Spell and Sabotage Operation Damage by 10%.
  Duration: Moderate, max time unknown
  Cast Message: Our thieves and wizards' assimilated concentration will increase their damage for X days!
  Mystic Advisor Message: Our thieves and wizards' assimilated concentration will increase their damage for X days!
@@ -308,13 +279,13 @@ Is Known: Age 7 ... [Age 71](../category/Age_71.md), [Age 74](../misc/Age_74.md)
 
 ### Invisibility
 
-Thieves rely on stealth to master their craft, but a little bit of invisibility never hurts. Through the duration of this spell, your thieves have a 20% bonus to any offensive thievery operations and incur 20% lower losses.
+Thieves rely on stealth to master their craft, but a little bit of invisibility never hurts. Through the duration of this spell, your thieves have a 10% bonus to any offensive thievery operations and incur 20% lower losses.
 
 Is Known: Age 1 ... now
 
 ```
- Available to: Rogue
- Effect: Increases your offensive thievery efficiency by 20%. Reduce thieves lost during thievery operations by 20%.
+ Available to: Dark Elf
+ Effect: Increases your Offensive Thievery Efficiency by 10%. Reduce Thieves lost during Thievery Operations by 20%.
  Duration: max 22 hours
  Cast Message: Our thieves have been made partially invisible for X Days!
  Mystic Advisor Message: Same as Cast Message
@@ -342,7 +313,7 @@ This spell sparks a destructive fervor in your Mages Guild. They increase their 
 Is Known: [Age 49](../misc/Age_49.md) ... now
 
 ```
- Available to: Dark Elf
+ Available to: Dark Elf, Faery, Mystic
  Effect: This spell increases the province's WPA by 25% for offensive purposes while decreasing 
  it by 25% for defensive
  purposes. No effect on self-spells.
@@ -366,6 +337,34 @@ Is Known: Age 1 ... now
  (Estimated: X more Days).
 ```
 
+### Mind Focus
+
+Wizard Production is a fundamental element for all parts of your province. While a Mind Focus spell is active, your guilds work harder and will produce more wizards than they would otherwise.
+
+Is Known: Age 1 ... [Age 38](../misc/Age_38.md), [Age 93](../misc/Age_93.md) ... [Age 99](../misc/Age_99.md), [Age 102](../misc/Age_102.md)
+
+```
+ Available to: Mystic
+ Effect: Increases Wizard Production by 25%.
+ Duration: max 20 hours
+ Cast Message: Your guilds will produce extra wizards for X days!
+ Mystic Advisor Message: Same as Cast Message
+```
+
+### Miner's Mystique
+
+Peasants generate a stable, supplemental source of income thru mining. By casting this unique spell, you can increase the money you collect for a period lasting several weeks.
+
+Is Known: Age 1 ... Age 21 ... [Age 97](../misc/Age_97.md) ... now
+
+```
+ Available to: Dwarf, Faery
+ Effect: Increases Income by 0.3 per Peasant.
+ Duration: Moderate, max time unknown
+ Cast Message: Unknown
+ Mystic Advisor Message: Unknown
+```
+
 ### Minor Protection
 
 Casting a sphere of protection over your province, this spell helps protect your province from invasion from others. This spell lasts for a few weeks.
@@ -387,33 +386,16 @@ Casting a sphere of protection over your province, this spell helps protect your
 Is Known: [Age 85](../category/Age_85.md) ... now
 
 ```
- Available to: Dwarf
- Effect: Lowers enemy gains by 10% on defensive battles for a duration.
+ Available to: Elf, Faery
+ Effect: Lowers enemy Gains by 10% on defensive battles for a duration.
  Duration: Short, max time unknown
  Cast Message: Our lands are protected by a sacred mist for X days from attacks against us!
  Mystic Advisor Message: Our lands are protected by a sacred mist for X days from attacks against us!
 ```
 
-### Mystic Aura
-
-A defense spell, creating a Mystic Aura around your lands will repel the next evil spell cast upon you from abroad. Unfortunately, the effect focuses only on the first spell cast upon you.
-
-Is Known: Age 1 ... [Age 58](#), [Age 60](#) ... now
-
-```
- Available to: Elf
- Effect: Repels the next offensive spell cast upon you (except own spells).
- Duration: N/A
- Cast Message: A Mystic Aura has been placed around our province, protecting us from the next evil
- spell from abroad. 
- Mystic Advisor Message: Same as Cast Message
-```
-
-Note that Mystic Aura does not activate on intel spells like Crystal Ball.
-
 ### Nature's Blessing
 
-Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing [the Plague](#) if your lands are affected by it.
+Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing the Plague if your lands are affected by it.
 
 Is Known: Age 1 ... now
 
@@ -462,8 +444,8 @@ By giving your men magical speed, they can go to battle and return more quickly 
 Is Known: Age 1 ... [Age 86](../misc/Age_86.md), [Age 88](../misc/Age_88.md) ... now
 
 ```
- Available to: Tactician
- Effect: Decreases your attack time by 15%.
+ Available to: Faery, Halfling
+ Effect: Decreases your Attack Time by 10%.
  Duration: Short
  Cast Message: Our armies have been blessed with excellent speed.
  Mystic Advisor Message: Our armies are blessed with incredible speed.
@@ -473,53 +455,63 @@ Is Known: Age 1 ... [Age 86](../misc/Age_86.md), [Age 88](../misc/Age_88.md) ...
 
 Reflect magic places a magical barrier around your lands for several days. During this period, successful spells cast upon your province may randomly be reflected upon the caster, doing unto them as they would have done to you.
 
-Is Known: Age 1 ... now
+Is Known: Age 1 ... [Age 98](../misc/Age_98.md), [Age 103](../misc/Age_103.md)
 
 ```
  Available to: Human
  Effect: Has a 25% chance of reflecting offensive spells cast upon your province.
  Duration: max 18 hours.
  Cast Message: Some of the spells cast upon our lands will be reflected back upon their creators for X days!
- Mystic Advisor Message: Same as Cast Message
 ```
 
 ### Revelation
 
 Science is a fundamental building block for any and all of the other parts of your province. While the Revelation spell is active, it increases the rate of a new scientist emerging.
 
-Is Known: [Age 69](#) ... now
+Is Known: Age 69 ... [Age 103](../misc/Age_103.md), Age 107
 
 ```
- Available to: Heretic, Mystic, Rogue
- Effect: Increases the rate of a new scientist emerging on by 30% while the spell is active.
- Duration: Short-moderate, max duration unknown
+ Available to: Cleric
+ Effect: Increases the rate of a new scientist emerging on by 20% while the spell is active.
+ Duration: Medium, max duration unknown
  Cast Message: Our students are blessed with excellent concentration for X Days!
  Mystic Advisor Message: Our students are blessed with excellent concentration for X days!
 ```
 
-### Scientific Insights
+### Righteous Aggressor
 
-This spell clears the minds of your scientists, allowing them to think more clearly and increasing the effectiveness of their research.
-
-Is Known: [Age 72](../misc/Age_72.md) ... now
+Convert offensive specialist to elites on successful attack (Trad, learns, massacres, and plunders).
 
 ```
- Available to: Sage
- Effect: Increase the science effectiveness of target province by 10%.
- Duration: Very short, max time unknown
- Cast Message: Your scientists have been imbued with mental energy, making them work harder for XX days! 
- Mystic Advisor Message: Same as cast message
+ Effect: Convert offensive specialist to elites on successful attack.
+ Duration: Short
+ Cast Message: Convinced of their righteous cause, our warriors strike with ever-increasing might for X days!
+ Mystic Advisor Message: Convinced of their righteous cause, our warriors strike with ever-increasing might for X days!
+```
+
+### Salvation
+
+Salvation protects Military in Combat, reducing all Military Casualties by 15%.
+
+Is Known: [Age 97](../misc/Age_97.md) ... now
+
+```
+ Available to: Elf, Cleric
+ Effect: Decrease Military Casualties of target province by 15%.
+ Duration: Moderate, max time unknown
+ Cast Message: 
+ Mystic Advisor Message:
 ```
 
 ### Shadowlight
 
-Shadowlight places a face upon a shadow, revealing the province associated with the next thievery operation against your lands. It does not, however, prevent them from being successful.
+Shadowlight places a face upon a shadow, revealing the province associated with the next thievery operation against your lands. It will also prevent the next operation from being successful.
 
 Is Known: Age 1 ... now
 
 ```
  Available to: All
- Effect: Reveals the name of the next province performing a successful thievery operation upon your province.
+ Effect: Reveals the name of the next province performing a successful thievery operation upon your province. Deflects the next operation.
  Duration: Expires on enemy thievery attempt
  Cast Message: Our lands are blessed with Shadowlight. The next time thieves enter our lands their identities will be revealed.
  Mystic Advisor Message: Same as Cast Message
@@ -532,7 +524,7 @@ Town Watch will create a peasant watch upon your town for several days. While th
 Is Known: Age 7 ... now
 
 ```
- Available to: Halfling
+ Available to: Faery, Halfling
  Effect: Every 5 of your peasants will defend your land with 1 point of defense.
  Duration: max 18 hours
  Cast Message: Our peasants will help defend our lands for X days!
@@ -557,24 +549,24 @@ Is Known: Age 1 ... now
 
 Ordinarily, any land captured in attacks require time to take control of and become available for your own use. War Spoils gives you the opportunity to get this land from combat immediately. The spell lasts just a few Utopian Days, but is more than enough to use on a couple of attacks. This allows you to begin the process of expanding much more quickly than otherwise.
 
-Is Known: Age 12 ... [Age 58](#), [Age 60](#) ... now
+Is Known: Age 12 ... Age 58, Age 60 ... [Age 101](../misc/Age_101.md), [Age 104](../misc/Age_104.md)...Now
 
 ```
- Available to: Tactician
+ Available to: All - with a minimum relationship of War
  Effect: Makes the land gained from Traditional March immediately available.
  Duration: max 6 hours
  Cast Message: Our army has been blessed with immediate War Spoils for X days! 
  Mystic Advisor Message: War Spoils give us quick returns on our attacks
 ```
 
-### Wrathful Smite
+### Wrath
 
-Smite foes who dare to inflict harm upon the target. Enemy attackers suffer increased casualties when attacking lands protected by this spell.
+Smite foes who dare to inflict harm upon the target. Enemy attackers suffer increased Military Casualties when attacking lands protected by this spell.
 
 Is Known: [Age 72](../misc/Age_72.md) ... now
 
 ```
- Available to: Cleric
+ Available to: Elf, Faery, General
  Effect: Increases enemy casualties when attacking the protected province by 20%.
  Duration: Moderate, max time unknown
  Cast Message: Your magic will smite attackers for XX days! 
@@ -592,11 +584,12 @@ Reduces the strength of an enemy kingdom's province and has a high cost/difficul
 Is Known: [Age 73](../category/Age_73.md) ... now
 
 ```
- Available to: All with minimum relationship of Unfriendly.
+ Available to: All - with minimum relationship of Unfriendly.
  Effect: Reduces ritual strength by 2%. Limited to 10 casts on a single enemy province.
  Duration: Instant
  Cast Message: Your mages infest the guilds of X. Their ritual is now x% destroyed! This province can still be targeted X times! 
  Mystic Advisor Message: N/A
+ Meter Movement:     0.15
 ```
 
 ### Amnesia
@@ -607,49 +600,52 @@ Is Known: Age 1 ... now
 
 ```
  Available to: All - with a minimum relationship of War
- Effect: Reduces the effectiveness of target's science by ~2%. Reduced science effectiveness will be removed upon entering End of War Cease-Fire.
- Duration: Instant with duration effect: Relation length dependent
+ Effect: Temporarily removes ~5% of target's current total allocated Science Books. These Books return over 48 ticks, not affected by EOWCF. 
+ Duration: Instant with duration effect: 48Ticks
  Cast Message: N/A
  Mystic Advisor Message: N/A
  Throne Room Notification: N/A
+ Meter Movement:     0 (War Only)
 ```
 
 ### Blizzard
 
 Reduces the building effectiveness of a province for a short duration.
 
-Is Known: [Age 69](#) ... now
+Is Known: Age 69 ... now
 
 ```
- Available to: Faery
- Effect: Reduces the building effectiveness of a province by 10%.
+ Available to: Dark Elf, Faery
+ Effect: Reduces the Building Effectiveness of a province by 10%.
  Duration: Short
  Cast Message: Your wizards gather n runes and begin casting, and the spell succeeds. Blizzards will beset the works of [province name] (#:#) for X days!
  Mystic Advisor Message: N/A
  Throne Room Notification: Blizzards are besetting our works, and our building efficiency will be crippled by 10% for for X days!
+ Meter Movement:     0.3
 ```
 
 ### Chastity
 
 Introducing Chastity amongst the peasants of your opponents is an effective way to grind their population growth to a halt.
 
-Is Known: [Age 47](#) ... now
+Is Known: Age 47 ... now
 
 ```
- Available to: Faery - with a minimum relationship of Unfriendly
- Effect: Suspends births, preventing population from growing naturally.
- Duration: 
+ Available to: Faery,  Mystic - with a minimum relationship of Unfriendly
+ Effect: Decreases Birth Rate by 50%.
+ Duration: Medium
  Cast Message: Much to the chagrin of their men, the womenfolk of [Province Name] have taken a vow
  of chastity for X days!
  Mystic Advisor Message: Our womenfolk have taken a vow of chastity preventing population growth for
  X days!
+ Meter Movement:     0.15
 ```
 
 ### Crystal Ball
 
 Knowing more about your friends and opponents is vital to your success as a leader. This spell gives you insight into the workings of any province of your choice.
 
-Is Known: Age 1 ... [Age 47](#), [Age 88](../misc/Age_88.md) ... now
+Is Known: Age 1 ... Age 47, [Age 88](../misc/Age_88.md) ... now
 
 ```
  Available to: All
@@ -657,11 +653,27 @@ Is Known: Age 1 ... [Age 47](#), [Age 88](../misc/Age_88.md) ... now
  Duration: Instant
  Cast Message: 
  Mystic Advisor Message: N/A
+ Meter Movement:     0
+```
+
+### Crystal Eye
+
+Cast on a kingdom instead of an individual province, this option gives a bird's eye view of all that has happened across the Kingdom of the current and previous Months.
+
+Is Known: Age 1 ... Age 47, [Age 105](../misc/Age_105.md)
+
+```
+ Available to: All
+ Effect: Displays the targeted provinces Kingdom Paper.
+ Duration: Instant
+ Cast Message: 
+ Mystic Advisor Message: 
+ Meter Movement:     0
 ```
 
 ### Droughts
 
-The opposite of storms, droughts can do significant damage as well. Without the rains necessary for fertile land, food production will be lower than usual, possibly resulting in starvation throughout the lands. In addition, the harsh conditions slow interest in the military and interferes with the soldier draft. Horses across the province may die as well due to lack of water and food. Droughts negate any Storms currently ravaging the target's land.
+The opposite of storms, droughts can do significant damage as well. Without the rains necessary for fertile land, food production will be lower than usual, possibly resulting in starvation throughout the lands. In addition, the harsh conditions slow interest in the military and interferes with the soldier draft. Horses across the province may die as well due to lack of water and food. Droughts negate any Storms currently ravaging the target's land. Increases Arson damage taken by 15%.
 
 Is Known: Age 1 ... now
 
@@ -669,9 +681,11 @@ Is Known: Age 1 ... now
  Available to: All
  Effect: Decreases food production by 25%, military draft rate by 15% and horses production by 50%.
  Some horses may also die as a result.
- Duration: 
+ Increases Arson damage taken by 15%.
+ Duration: Medium
  Cast Message: A drought will reign over the lands of [Province Name] for X days! 
  Mystic Advisor Message:
+ Meter Movement:     0.06
 ```
 
 ### Explosions
@@ -686,6 +700,7 @@ Is Known: Age 10 ... now
  Duration: 
  Cast Message: Explosions will rock aid shipments to and from [Province Name] for X days! 
  Mystic Advisor Message: Explosions will rock aid shipments to and from our province for X days!
+ Meter Movement:     0.18
 ```
 
 ### Expose Thieves
@@ -695,12 +710,13 @@ Thieves rely on stealth and surprise to be effective at their jobs. Casting this
 Is Known: Age 1 ... now
 
 ```
- Available to: All with a minimum relationship of Unfriendly
- Effect: Decreases available stealth of target province to between 80% and 90% of its original amount.
- Duration: Instant
+ Available to: All - with a minimum relationship of Unfriendly
+ Effect: Reduces Stealth level by 5% of current level each Tick, before Stealth regeneration.
+ Duration: Medium
  Cast Message: Our mages have illuminated the lands of our enemies and exposed the thieves that walk
  through their lands.
  Mystic Advisor Message: N/A
+ Meter Movement:     0.36
 ```
 
 ### Fireball
@@ -710,12 +726,13 @@ If you want to directly go after an enemy, launching a fireball at their peasant
 Is Known: Age 1 ... now
 
 ```
- Available to: All with minimum relationship of Unfriendly 
- Effect: Kills a small and random portion of peasants (4.95-8.47%).
+ Available to: All - with minimum relationship of Unfriendly 
+ Effect: Kills a small and random portion of peasants (4.5-7.5%).
  Duration: Instant
  Cast Message: A fireball burns through the skies of [province name] (##:##). X peasants are killed
  in the destruction!
  Mystic Advisor Message: N/A
+ Meter Movement:     0.24
 ```
 
 ### Fool's Gold
@@ -725,12 +742,28 @@ The art of turning lead into gold has always been a confusing mystery. Is it pos
 Is Known: Age 12 ... now
 
 ```
- Available to: Heretic with a minimum relationship of Unfriendly
+ Available to: Heretic - with a minimum relationship of Unfriendly
  Effect: Destroys up to 25% of target's gold.
  Duration: Instant
  Cast Message: Our mages have turned X gold coins in [Province Name] to worthless lead.
  Mystic Advisor Message: N/A
  Throne Room Notification: X gold coins have been turned into worthless lead.
+ Meter Movement:     0.42
+```
+
+### Gluttony
+
+One of the seven deadly sins, your population will consume more food.
+
+Is Known: [Age 68](../misc/Age_68.md) ... now
+
+```
+ Available to: All
+ Effect: Increases food required by 25%.
+ Duration: 
+ Cast Message: The gluttony of [target] has increased for X days.
+ Mystic Advisor Message: A fit of gluttony has descended upon our people, and they will not be sated until for X days.
+ Meter Movement:     0.09
 ```
 
 ### Greed
@@ -746,20 +779,7 @@ Is Known: Age 12 ... now
  Cast Message: Our mages have caused our enemy's soldiers to turn greedy for X days.
  Mystic Advisor Message: 
  Throne Room Notification: Enemies have convinced our soldiers to demand more money for upkeep.
-```
-
-### Gluttony
-
-One of the seven deadly sins, your population will consume more food.
-
-Is Known: [Age 68](../misc/Age_68.md) ... now
-
-```
- Available to: All
- Effect: Increases food required by 25%.
- Duration: 
- Cast Message: The gluttony of [target] has increased for X days.
- Mystic Advisor Message: A fit of gluttony has descended upon our people, and they will not be sated until for X days.
+ Meter Movement:     0.15
 ```
 
 ### Lightning Strike
@@ -769,11 +789,12 @@ The power of a direct Lightning Strike is arguably the most deadly force on the 
 Is Known: Age 1 ... now
 
 ```
- Available to: All with a minimum relationship of Unfriendly
+ Available to: All - with a minimum relationship of Unfriendly
  Effect: Destroys a random portion of runes between 30-65%.
  Duration: Instant
  Cast Message: Lightning strikes the Towers in [province name] (##:##) and incinerates X runes!
  Mystic Advisor Message: N/A
+ Meter Movement:     0.18
 ```
 
 ### Land Lust
@@ -783,12 +804,13 @@ Land is the defining strength of any province, and this spell is the Mage's way 
 Is Known: Age 15 ... now
 
 ```
- Available to: All with minimum relationship of Unfriendly.
- Effect: Captures a small and random (up to 1.35%) of the enemy land.
+ Available to: All - with minimum relationship of Unfriendly.
+ Effect: Captures a small and random (up to 1.25%) of the enemy land.
  Duration: Instant
  Cast Message: Our Land Lust over Enemy Province (location) has given us X new acres of land!
  Mystic Advisor Message: N/A
  Throne Room Notification: X acres of land have disappeared from our control!
+ Meter Movement:     0.6
 ```
 
 ### Magic Ward
@@ -798,11 +820,12 @@ Projects a magical ward into the skies above an enemy province, forcing the enem
 Is Known: [Age 72](../misc/Age_72.md) ... [Age 81](../category/Age_81.md), [Age 86](../misc/Age_86.md)... now
 
 ```
- Available to: Dark_Elf, with minimum relationship of Unfriendly.
- Effect: Increases target's rune costs by 50%.
+ Available to: Dark Elf, Mystic - with minimum relationship of Unfriendly.
+ Effect: Increases target's rune costs by 100%.
  Duration: 
  Cast Message: Unknown
  Mystic Advisor Message: Unknown
+ Meter Movement:     0.15
 ```
 
 ### Meteor Showers
@@ -812,13 +835,14 @@ This spell will rain Meteors across the lands of an opponent for several days, k
 Is Known: Age 12 ... now
 
 ```
- Available to: Mystics with minimum relationship of Unfriendly
+ Available to: Mystic - with minimum relationship of Hostile
  Effect: Kills peasants and troops (soldiers, specialists and elites) at home each Utopian Day the
  spell is active.
  Duration: Short-moderate
  Cast Message: Meteors will rain across the lands of [province name] (##:##) for X days
  Mystic Advisor Message: Meteors rain across our lands, and are not expected to stop for X days. 
  Throne Room Notification: Meteors rain across the lands and kill X peasants and X troops!
+ Meter Movement:     0.75
 ```
 
 ### Mystic Vortex
@@ -828,13 +852,14 @@ The Mystic Vortex is one of the more powerful spells in the Utopian World. A suc
 Is Known: Age 1 ... now
 
 ```
- Available to: All with a minimum relationship of Unfriendly
+ Available to: All - with a minimum relationship of Unfriendly
  Effect: Nullifies spells on the enemy province (50% chance per spell).
  Duration: Instant
  Cast Message: A magic vortex overcomes the province of [province name] (##:##), negating X active
  spells. 
  Mystic Advisor Message: N/A
  Throne Room Notification: A magic vortex rendered many of our spells inactive!
+ Meter Movement:     0.45
 ```
 
 ### Nightmares
@@ -844,11 +869,11 @@ The effects fear can have on an individual are amazing. By causing nightmares wi
 Is Known: Age 1 ... now
 
 ```
- Available to: Heretic with a minimum relationship of Unfriendly
- Effect: Returns around 1.5% of the military troops (specialists, elites and thieves) under training for 8 days. 
+ Available to: Heretic - with a minimum relationship of Unfriendly
+ Effect: Instantly returns around 1.5% of the military troops (specialists, elites and thieves) under training for 8 days. 
  Will only affect the troops that are at home.
  Soldiers simply quit the army.
- Duration: Instant with duration effect: Troops in training queue stretching 8 days.
+ Duration: Instant damage spell, with duration effect: Troops in training queue stretching 8 days (not affected by Train Time or Spell Duration).
  Cast Message: During the night, X of the men in the armies and thieves' guilds of [Province Name]
  had nightmares. 
  Some were forced into rehabilitation, but the soldiers simply quit the army!
@@ -856,50 +881,57 @@ Is Known: Age 1 ... now
  Throne Room Notification: 
    This morning, X of our men from our armies and thieves' guild turned up unfit. 
    The Soldiers quit, while the rest are being retrained. They should be available again in 8 days.
+ Meter Movement:     0.45
+```
+
+### Nightfall
+
+Darkness falls on the land and it is a darker night than most, the minds of mages are clouded by the psychic fog and the magical energies within the towers dims.
+
+Is Known: Age 110 ... now
+
+```
+ Available to: Undead - with a minimum relationship of Unfriendly
+ Effect: Reduces enemy Guild and Tower effectiveness by 50% for 8 ticks. (High Difficulty/High Rune Cost)
+ Duration: Instant damage spell, with duration effect: Reduce enemy Guild and Tower Effectiveness by 50%, Effects last for 8 ticks.
+ Cast Message: TBD
+ Mystic Advisor Message: N/A
+ Throne Room Notification: 
+   TBD
+ Meter Movement:     TBD
 ```
 
 ### Pitfalls
 
-Placing magical pitfalls throughout an enemy's lands will cause them to suffer higher defensive losses in combat for several days. This is an effective way to frustrate attackers and strengthen your own position in the midst of [war](Relations.md).
+Placing magical pitfalls throughout an enemy's lands will cause them to suffer higher Military Defensive Casualties in combat for several days. This is an effective way to frustrate attackers and strengthen your own position in the midst of [war](Relations.md).
 
 Is Known: Age 14 ... now
 
 ```
- Available to: Mystic
- Effect: Increases defensive military losses by 25%.
- Duration: 
+ Available to: Elf, Faery
+ Effect: Increases defensive military losses by 20%.
+ Duration: Medium
  Cast Message: Pitfalls will haunt the lands of [province name] (##:##) for X days. They will suffer
  increased defensive losses during battle. 
  Mystic Advisor Message:
-```
-
-### Sloth
-
-Originally called Barrier of Integrity, this spell enchants the enemy's peasantry, calling upon their deep-rooted morals to family and preventing them from signing up for military service.
-
-Is Known: [Age 72](../misc/Age_72.md) ... [Age 81](../category/Age_81.md), [Age 87](../misc/Age_87.md) ... now
-
-```
- Available to: Dark Elf, with minimum relationship of Unfriendly.
- Effect: Reduces drafting within a target province by 50%.
- Duration: Short
- Cast Message: Unknown
- Mystic Advisor Message: Unknown
+ Meter Movement:     0.18
 ```
 
 ### Storms
 
-The power of mother nature is amongst the most powerful in existence. Sending storms over another province will cause destruction and death across the lands for days. The Storm Spell will cancel any Droughts affecting the target province.
+The power of mother nature is amongst the most powerful in existence. Sending storms over another province will cause destruction and death across the lands for days. The Storm Spell will cancel any Droughts affecting the target province. Increases Tornado damage taken by 15%.
 
 Is Known: Age 1 ... now
 
 ```
  Available to: All
  Effect: Kills 1.5% of peasant population per day.
+ Increases Tornado damage taken by 15%.
  Duration: 
  Cast Message: Storms will ravage [province name] (##:##) for X days!
  Mystic Advisor Message:
  Throne Room Notification: Storms are ravaging our lands!
+ Meter Movement:     0.06
 ```
 
 ### Tornadoes
@@ -909,7 +941,7 @@ One of the most dangerous and destructive offensive spells, casting this will ra
 Is Known: Age 14 ... now
 
 ```
- Available to: All with minimum relationship of Unfriendly.
+ Available to: All - with minimum relationship of Unfriendly.
  Effect: Destroys a small and random portion of buildings.
  Duration: Instant
  Cast Message: Tornadoes scour the lands of [province name] (##:##), laying waste to X acres of
@@ -917,43 +949,39 @@ Is Known: Age 14 ... now
  Mystic Advisor Message: N/A
  Throne Room Notification: Tornadoes scour the lands, causing the destruction of X acres of
  buildings!
+ Meter Movement:     0.3
 ```
 
 ### Vermin
 
-Sending vermin scurrying into the food supplies of an opponent forces the destruction of a great deal of their reserves.
+Sending vermin scurrying into the Food supplies of an opponent forces the destruction of a great deal of their reserves.
 
-Is Known: Age 1 ... [Age 67](#), [Age 82](../misc/Age_82.md) ... [Age 86](../misc/Age_86.md), [Age 90](../category/Age_90.md) ... now
+Is Known: Age 1 ... Age 67, [Age 82](../misc/Age_82.md) ... [Age 86](../misc/Age_86.md), [Age 90](../category/Age_90.md) ... now
 
 ```
- Available to: Halfling
- Effect: Destroys (on average) about 50% of target's food supplies.
+ Available to: Faery, Halfling
+ Effect: Destroys (on average) about 50% of target's Food supplies.
  Duration: Instant
  Cast Message: Unknown
  Mystic Advisor Message: N/A
+ Meter Movement:     0.00 (incorrect value)
 ```
 
-## Retired Spells
+## Forgotten Spells
 
-### Crystal Eye
+### Barrier of Integrity
 
-Cast on a kingdom instead of an individual province, this option gives a Bird's Eye view of all that has happened across the kingdom of the current and previous months.
+Stops all drafting that would normally take place in target province.
 
-Is Known: Age 1 ... [Age 47](#)
+Was upgraded to [Sloth](Mystics.md)
 
-```
- Available to: All
- Effect: Displays the targeted provinces Kingdom Paper
- Duration: instant spell
- Cast Message: 
- Mystic Advisor Message:
-```
+Is Known: Age 72 ... [Age 80](../misc/Age_80.md)
 
 ### Fog
 
 Casting a sphere of protection over your province, this spell helps protect your province from invasion from others. This spell can last for a couple of days.
 
-Is Known: Age 1 ... [Age 50](#)
+Is Known: Age 1 ... Age 50
 
 ```
  Available to: Dwarf, Faery
@@ -963,15 +991,35 @@ Is Known: Age 1 ... [Age 50](#)
  Mystic Advisor Message: Our lands are filled with fog, slowing opposing armies for X days!
 ```
 
+### Ghost Workers
+
+Creating ghostly workers to perform the duties of your peasants, this spell reduces reduces the amount of filled jobs for maximum efficiency. This spell is effective for several days until the ghosts disappear.
+
+Is Known: Age 13 ... Age 16 ... [Age 81](../category/Age_81.md) ... now
+
+```
+ Available to: Faery, Undead
+ Effect: The required number of jobs filled for maximum Building Efficiency is reduced by 25%.
+ Duration: Moderate, max time unknown
+ Cast Message: Magical auras enchant our buildings and begin working with increased productivity for XX days!
+ Mystic Advisor Message: Same as cast message
+```
+
+### Haste
+
+Haste makes your workers build faster and harder than otherwise. All buildings constructed while the Haste spell is active will be completed faster than otherwise would be expected.
+
+Is Known: Age 3 ... Age 14
+
 ### Hero's Inspiration
 
 The spell helps make your military train harder on their own, thus reducing the daily wages you pay your military for several days. This is especially useful in times of limited cash. This spell also increases the intensity of training, allowing your troops to be ready more quickly; provided the spell is cast before the troops are ordered to be trained.
 
-Is Known: [Age 72](../misc/Age_72.md) ... [Age 80](../misc/Age_80.md), [Age 82](../misc/Age_82.md), [Age 85](../category/Age_85.md) ... [Age 86](../misc/Age_86.md)
+Is Known: [Age 72](../misc/Age_72.md) ... [Age 80](../misc/Age_80.md), [Age 82](../misc/Age_82.md), [Age 85](../category/Age_85.md) ... [Age 86](../misc/Age_86.md), [Age 93](../misc/Age_93.md) ... [Age 98](../misc/Age_98.md), [Age 101](../misc/Age_101.md) ... now
 
 ```
  Available to: War Hero
- Effect: Decreases your military wages by 30%. Decreases your military training time by 25%. Does not stack with Inspire Army.
+ Effect: Decreases your military wages by 30%. Decreases your military training time by 30%. Does not stack with Inspire Army.
  Duration: max 24 hours
  Cast Message: Our army has been inspired to train even harder. We expect maintenance costs to be reduced for X days! 
  Mystic Advisor Message: Same as Cast Message
@@ -983,64 +1031,101 @@ By creating illusionary forces throughout your lands, it is possible to make an 
 
 Is Known: Age 1 ... Age 11
 
-### Miner's Mystique
+### Mystic Aura
 
-Mines generally serve as a stable, supplemental source of income. By casting this unique spell, you can substantially increase the money you collect through mining for a period lasting several weeks.
+A defense spell, creating a Mystic Aura around your lands will repel the next evil spell cast upon you from abroad. Unfortunately, the effect focuses only on the first spell cast upon you.
 
-Is Known: Age 1 ... Age 21
+Is Known: Age 1 ... Age 58, Age 60 ... now
 
-### Haste
+```
+ Available to: Dwarf
+ Effect: Repels the next offensive spell cast upon you (except own spells).
+ Duration: N/A
+ Cast Message: A Mystic Aura has been placed around our province, protecting us from the next evil
+ spell from abroad. 
+ Mystic Advisor Message: Same as Cast Message
+```
 
-Haste makes your workers build faster and harder than otherwise. All buildings constructed while the Haste spell is active will be completed faster than otherwise would be expected.
+Note that Mystic Aura does not activate on intel spells like Crystal Ball.
 
-Is Known: Age 3 ... Age 14
+### Scientific Insights
 
-### Mind Focus
+This spell clears the minds of your scientists, allowing them to think more clearly and increasing the effectiveness of their research.
 
-Science is a fundamental building block for any and all of the other parts of your province. While a Mind Focus spell is active, your students work harder and will learn more than they would otherwise.
+Is Known: [Age 72](../misc/Age_72.md) ... [Age 92](../misc/Age_92.md), [Age 96](../misc/Age_96.md) ... [Age 98](../misc/Age_98.md), [Age 100](../misc/Age_100.md) ... [Age 103](../misc/Age_103.md)
 
-Was upgraded to [Fountain of Knowledge](Mystics.md)
+```
+ Available to: Sage
+ Effect: Increase the science effectiveness of target province by 10%.
+ Duration: Medium, max time unknown
+ Cast Message: Your scientists have been imbued with mental energy, making them work harder for XX days! 
+ Mystic Advisor Message: Same as cast message
+```
 
-Is Known: Age 1 ... [Age 38](../misc/Age_38.md)
+### Sloth
 
-### Barrier of Integrity
+This spell enchants the enemy's peasantry, calling upon their deep-rooted morals to family and preventing them from signing up for military service.
 
-Stops all drafting that would normally take place in target province.
+Is Known: [Age 72](../misc/Age_72.md) ... [Age 81](../category/Age_81.md), [Age 87](../misc/Age_87.md) ... now
 
-Was upgraded to [Sloth](Mystics.md)
+```
+ Available to: Dark Elf - with minimum relationship of Unfriendly.
+ Effect: Reduces drafting within a target province by 50%. Also increases Draft Cost by 100%.
+ Duration: Short
+ Cast Message: Unknown
+ Mystic Advisor Message: Unknown
+```
 
-Is Known: Age 72 ... [Age 80](../misc/Age_80.md)
+## Genesis Spells
+
+### Soul Blight
+
+Causes death among the peasants of an enemy, turning some into the caster's soldiers
+
+```
+ Effect: Kills x% of peasants and then adds x% of those killed to the caster's soldiers
+ Duration: N/A
+ Cast Message: A Pall of death descends upon enemy (x:x), taking xxx peasent's lives. Your legion is reinforced by xx of their fallen.
+ Mystic Advisor Message: Unknown
+```
+
+## Changelog
+
+- Age 106: Meter movements updated to reflect forum changes of "all values have tripled" on 6 May 2024.
+- Age 107: Updated spell availability and bonuses.
+- Age 110: Updated spell availability and bonuses.
 
 |  |  |
 | --- | --- |
 | « Previous:  **[Military](Military.md)** | Next:  **[Thievery](../misc/Thievery.md)** » |
 
-| **The Spellbook** | | | |
-| --- | --- | --- | --- |
-| Self Spells | Army Spells | Defensive Spells | [Wrathful Smite](Mystics.md)  • [Minor Protection](Mystics.md)  • [Greater Protection](Mystics.md)  • [Animate Dead](Mystics.md)  • [Town Watch](Mystics.md)  • †[Fog](Mystics.md) |
-|  |  | Offensive Spells | [Quick Feet](Mystics.md)  • [Anonymity](Mystics.md)  • [War Spoils](Mystics.md)  • [Fanaticism](Mystics.md)  • [Aggression](Mystics.md)  • [Bloodlust](Mystics.md) |
-|  |  | Army Spells | [Paladin's Inspiration](Mystics.md)  • [Patriotism](Mystics.md)  • †[Inspire Army](Mystics.md) |
-|  | Civil Spells | Mystic Security Spells | [Divine Shield](Mystics.md)  • [Magic Shield](Mystics.md)  • [Mystic Aura](Mystics.md)  • [Nature's Blessing](Mystics.md)  • [Mage's Fury](Mystics.md)  • [Reflect Magic](Mystics.md) |
-|  |  | Thievery Spells | [Illuminate Shadows](Mystics.md)  • [Invisibility](Mystics.md)  • [Clear Sight](Mystics.md)  • [Shadowlight](Mystics.md)  • [Crystal Ball](Mystics.md)  • †[Crystal Eye](Mystics.md) |
-|  |  | Economy Spells | [Scientific Insights](Mystics.md)  • [Fertile Lands](Mystics.md)  • [Love & Peace](Mystics.md)  • [Tree of Gold](Mystics.md)  • [Builders' Boon](Mystics.md)  • [Revelation](Mystics.md)  • [Paradise](Mystics.md)  • †[Fountain of Knowledge](Mystics.md) |
-|  |
-| Combat Spells | Economy Damage Spells | Friendly | [Magic Ward](Mystics.md) • [Droughts](Mystics.md) • [Gluttony](Mystics.md)  • [Greed](Mystics.md)  • [Fool's Gold](Mystics.md)  • [Lightning Strike](Mystics.md)  • [Explosions](Mystics.md)  • [Blizzard](Mystics.md)  • †[Vermin](Mystics.md) |
-|  |  | Unfriendly | [Magic Ward](Mystics.md) • [Barrier of Integrity](Mystics.md) • [Amnesia](Mystics.md)  • [Tornadoes](Mystics.md)  • [Land Lust](Mystics.md) |
-|  | Population Damage Spells | Friendly | [Chastity](Mystics.md)  • [Storms](Mystics.md) |
-|  |  | Unfriendly | [Fireball](Mystics.md)  • [Nightmares](Mystics.md)  • [Meteor Showers](Mystics.md) |
-|  | Interaction Spells | Friendly | [Expose Thieves](Mystics.md)  • [Pitfalls](Mystics.md) |
-|  |  | Unfriendly | [Mystic Vortex](Mystics.md) |
+| **The Utopia Guide** | |
+| --- | --- |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • [Military](Military.md)  **Mystics**  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| Rules | [Game Rules](../misc/Game_Rules.md) |
 
 | **Races & Personalities** | |
 | --- | --- |
-| Races | [Avians](../main/Race.md)  • [Dark Elves](../main/Race.md)  • [Dwarves](../main/Race.md)  • [Elves](../main/Race.md)  • [Faery](../main/Race.md)  • [Halflings](../main/Race.md)  • [Humans](../main/Race.md)  • [Orcs](../main/Race.md)  • [Undead](../main/Race.md) |
-| Extinct Races | [Bocans](../main/Race.md)  • [Dryads](../main/Race.md)  • [Gnomes](../main/Race.md) |
-| Personalities | [The Cleric](../ages/Personality.md)  • [The Heretic](../ages/Personality.md)  • [The Mystic](../ages/Personality.md)  • [The Artisan](../ages/Personality.md)  • [The Rogue](../ages/Personality.md)  • [The Tactician](../ages/Personality.md)  • [The War Hero](../ages/Personality.md)  • [The Warrior](../ages/Personality.md)  • [The Sage](../ages/Personality.md) |
-| Extinct Personalities | [The Raider](../ages/Personality.md)  • [The Freak](../ages/Personality.md)  • [The General](../ages/Personality.md)  • [The Merchant](../ages/Personality.md)  • [The Paladin](../ages/Personality.md)  • [The Shepherd](../ages/Personality.md)  • [The Undead](../ages/Personality.md) |
+| Races | [Avians](../main/Race.md)  • [Dark Elves](../main/Race.md)  • [Dryads](../main/Race.md)  • [Dwarves](../main/Race.md)  • [Elves](../main/Race.md)  • [Faeries](../main/Race.md)  • [Halflings](../main/Race.md)  • [Humans](../main/Race.md)  • [Orcs](../main/Race.md)  • [Undead](../main/Race.md) |
+| Extinct Races | [Bocans](../main/Race.md)  • [Gnomes](../main/Race.md) |
+| Personalities | [The Artisan](../ages/Personality.md)  • [The Cleric](../ages/Personality.md)  • [The General](../ages/Personality.md)  • [The Heretic](../ages/Personality.md)  • [The Mystic](../ages/Personality.md)  • [The Rogue](../ages/Personality.md)  • [The Tactician](../ages/Personality.md)  • [The Warrior](../ages/Personality.md) |
+| Extinct Personalities | [The Freak](../ages/Personality.md)  • [The Paladin](../ages/Personality.md)  • [The Raider](../ages/Personality.md)  • [The Undead](../ages/Personality.md)  • [The Necromancer](../ages/Personality.md)  • [The Merchant](../ages/Personality.md)  • [The Sage](../ages/Personality.md)  • [The Shepherd](../ages/Personality.md)  • [The War Hero](../ages/Personality.md) |
 
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../misc/Science.md)  • [Military](Military.md)  **Mystics**  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |
+| **The Spellbook** | | | |
+| --- | --- | --- | --- |
+| Self Spells | Army Spells | Defensive Spells | [Animate Dead](Mystics.md)  • [Greater Protection](Mystics.md)  • [Minor Protection](Mystics.md)  • [Town Watch](Mystics.md)  • [Wrathful Smite](Mystics.md)  • †[Fog](Mystics.md) |
+|  |  | Offensive Spells | [Aggression](Mystics.md)  • [Anonymity](Mystics.md)  • [Bloodlust](Mystics.md)  • [Fanaticism](Mystics.md)  • [Quick Feet](Mystics.md)  • [War Spoils](Mystics.md) |
+|  |  | Army Spells | [Inspire Army](Mystics.md)  • †[Hero's Inspiration](Mystics.md)  • [Patriotism](Mystics.md) |
+|  | Civil Spells | Mystic Security Spells | [Divine Shield](Mystics.md)  • [Mage's Fury](Mystics.md)  • [Magic Shield](Mystics.md)  • †[Mystic Aura](Mystics.md)  • [Nature's Blessing](Mystics.md)  • [Reflect Magic](Mystics.md) |
+|  |  | Thievery Spells | [Clear Sight](Mystics.md)  • [Illuminate Shadows](Mystics.md)  • [Invisibility](Mystics.md)  • [Shadowlight](Mystics.md) |
+|  |  | Economy Spells | [Builders' Boon](Mystics.md)  • [Fertile Lands](Mystics.md)  • [Fountain of Knowledge](Mystics.md)  • [Love & Peace](Mystics.md)  • [Mind Focus](Mystics.md)  • [Paradise](Mystics.md) • [Tree of Gold](Mystics.md)  • [Revelation](Mystics.md)  • †[Scientific Insights](Mystics.md) |
+|  |
+| Combat Spells | Economy Damage Spells | Friendly | [Blizzard](Mystics.md)  • [Droughts](Mystics.md)  • [Explosions](Mystics.md)  • [Greed](Mystics.md)  • [Gluttony](Mystics.md)  • [Vermin](Mystics.md) |
+|  |  | Unfriendly | [Amnesia](Mystics.md)  • [Fool's Gold](Mystics.md)  • [Land Lust](Mystics.md)  • [Lightning Strike](Mystics.md)  • [Magic Ward](Mystics.md)  • [Nightfall](Mystics.md)  • †[Sloth](Mystics.md)  • [Tornadoes](Mystics.md)  • †[Barrier of Integrity](Mystics.md) |
+|  | Population Damage Spells | Friendly | [Storms](Mystics.md) |
+|  |  | Unfriendly | [Chastity](Mystics.md)  • [Fireball](Mystics.md)  • [Nightmares](Mystics.md) |
+|  |  | Hostile | [Meteor Showers](Mystics.md) |
+|  | Interaction Spells | Friendly | [Crystal Ball](Mystics.md)  • [Crystal Eye](Mystics.md)  • [Pitfalls](Mystics.md) |
+|  |  | Unfriendly | [Expose Thieves](Mystics.md)  • [Mystic Vortex](Mystics.md) |

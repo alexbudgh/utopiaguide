@@ -37,4 +37,4 @@ Total Networth =  (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Off
 | [Gold](#) | 1/1000 |
 | Food | 0 |
 | Runes | 0 |
-| [Science Book](../misc/Science.md) | Acres \* 0.000007 |
+| [Science Book](../main/Science_Formulas.md) | Acres \* 0.000007 |

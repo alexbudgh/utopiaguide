@@ -18,7 +18,7 @@ Build strong infrastructure to support power and [growth](../guide/Growth.md). P
 
 ## Arts & Sciences
 
-Invest in [science](Science.md) for steady, long-term bonuses. Though subtle initially, these benefits grow and provide valuable advantages.
+Invest in [science](../main/Science_Formulas.md) for steady, long-term bonuses. Though subtle initially, these benefits grow and provide valuable advantages.
 
 ## Military
 
@@ -31,6 +31,6 @@ Balance troop drafting and wages carefully to maintain a strong defense without 
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | **Getting Started with Utopia**  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](Science.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
 | Advanced | [MunkBot](MunkBot.md)  • [Invitations](#)  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](Game_Rules.md) |

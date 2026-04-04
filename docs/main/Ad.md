@@ -1091,7 +1091,7 @@ Causes death among the peasants of an enemy, turning some into the caster's sold
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../misc/Science.md)  • [Military](../guide/Military.md)  **Mystics**  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](Science_Formulas.md)  • [Military](../guide/Military.md)  **Mystics**  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |
 
