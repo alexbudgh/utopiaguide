@@ -10,7 +10,7 @@ In Utopia, focusing on a clear role helps shape your strategy. The four main rol
 
 ## Race & Personality
 
-Choose [Races and Personalities](Races_and_Personalities.md) that fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
+Choose [Races and Personalities](../history/Races_and_Personalities.md) that fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
 
 ## Buildings
 
@@ -27,6 +27,6 @@ Balance troop drafting and wages carefully to maintain a strong defense without 
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | **Getting Started with Utopia**  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
-| Advanced | [MunkBot](MunkBot.md)  • [Invitations](#)  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • [Formulas](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
+| Advanced | [MunkBot](MunkBot.md)  • [Invitations](#)  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](Game_Rules.md) |

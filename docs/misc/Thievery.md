@@ -350,8 +350,8 @@ Attempts to convince enemy peasants, military, or wizards to revolt and join you
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • **Thievery**  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • **Thievery**  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |
 
 | **Races & Personalities** | |

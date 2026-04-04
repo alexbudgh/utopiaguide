@@ -28,7 +28,7 @@ This is the default relation between all kingdoms from the start of the [Age](#)
 Also known as a **Non Aggression Pact** (as seen on the opposing kingdom page and when targeting with spells/ops).
 
 - Prohibits any [Attacks](War_Room.md), Spells, or Ops between opposing kingdoms
-- Annuls [Hostility Meter](../category/Hostile_Meter.md)
+- Annuls [Hostility Meter](../main/Hostile_Meter.md)
 - Minimum duration of 1  [Utopian Month](../misc/Utopia_Time.md)
 - Can be enforced for a max of 3 [Utopian Years](../misc/Utopia_Time.md)
 
@@ -60,7 +60,7 @@ An Aggressor Kingdom can enter into a 96 Ticks unbreakable Ceasefire with a Defe
 
 - Unlocks certain (Unfriendly / Hostile) spells and thievery operations to the **opposing** Kingdom
 
-When the [Hostility Meter](../category/Hostile_Meter.md) reaches **15** hostility points, the aggressor kingdom becomes **Unfriendly** towards the opposing Kingdom. If the meter decays below this limit, **Normal** relations are resumed.
+When the [Hostility Meter](../main/Hostile_Meter.md) reaches **15** hostility points, the aggressor kingdom becomes **Unfriendly** towards the opposing Kingdom. If the meter decays below this limit, **Normal** relations are resumed.
 
 Unfriendly relations permit the use of more complex (and damaging) operations and spells to the enemy kingdom.
 
@@ -69,7 +69,7 @@ Unfriendly relations permit the use of more complex (and damaging) operations an
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
 - Unlocks [Meteor Showers](Mystics.md)
 
-When the [Hostile Meter](../category/Hostile_Meter.md) reaches **30** hostility points, the Aggressor Kingdom becomes **Hostile** towards the opposing Kingdom. If the Meter decays below this limit, **Unfriendly** relations are resumed.
+When the [Hostile Meter](../main/Hostile_Meter.md) reaches **30** hostility points, the Aggressor Kingdom becomes **Hostile** towards the opposing Kingdom. If the Meter decays below this limit, **Unfriendly** relations are resumed.
 
 #### The Hostility Meter
 
@@ -267,6 +267,6 @@ Provinces are expected to interact respectfully and obey the Code of Conduct. An
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • **Relations**  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • [Formulas](#) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • **Relations**  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

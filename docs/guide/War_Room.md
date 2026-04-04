@@ -14,13 +14,13 @@
 ## Additional Information
 
 - [Attacking & Calculating an Attack](../misc/Attacking_&_Calculating_an_Attack.md)
-- [Attacking & Defending](../category/Attacking_&_Defending.md)
+- [Attacking & Defending](../main/Attacking_&_Defending.md)
 - [Military](Military.md)
 - War
 
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • **War Room** • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • **War Room** • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

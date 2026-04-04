@@ -8,7 +8,7 @@ Mozilla Firefox, also known as Firefox for short, is a web browser which is part
 
 ## Add Ons for Mozilla Firefox for Utopia
 
-- [Pimp Agent](../category/Pimp_Agent.md)
+- [Pimp Agent](../tools/Pimp_Agent.md)
 - Pimp Agent 2
 - [Metatron Plus](Metatron_Plus.md)
 - Seraphiel

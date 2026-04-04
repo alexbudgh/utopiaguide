@@ -26,7 +26,7 @@ As of age 103, the random factor has been removed. Attacks will now always succe
 
 ### War Horses
 
-War Horses are produced from [stables](../category/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers 2 additional point of offensive strength.
+War Horses are produced from [stables](../main/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers 2 additional point of offensive strength.
 
 ### Mercenaries
 
@@ -36,7 +36,7 @@ In addition to your own troops, you will may also hire mercenaries to help in at
 
 Prisoners are taken from the total number of enemies that would've been killed after an attack, usually at a 2/3 prisoner to total kills ratio - IF there is room in your dungeons for them.
 
-Prisoners have no upkeep, every 2 prisoners fill 1 job (only for BE calculations), and every prisoner produces 0.75gc per hour (regardless of whether or not there are unfilled jobs). For the formula, please refer to [Economy](../category/Economy.md).
+Prisoners have no upkeep, every 2 prisoners fill 1 job (only for BE calculations), and every prisoner produces 0.75gc per hour (regardless of whether or not there are unfilled jobs). For the formula, please refer to [Economy](../main/Economy.md).
 
 About one third of the prisoners sent are lost in the fight. They are then again immediately available to your general. Each prisoner sent in your attack will provide 8 offensive points.
 
@@ -87,12 +87,12 @@ Be sure to check out the Ambush Guide if you are still unclear.
 
 ## Addition Information
 
-- [Attacking & Defending](../category/Attacking_&_Defending.md)
+- [Attacking & Defending](../main/Attacking_&_Defending.md)
 - [Units](../misc/Units.md)
 
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • **Military**  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • **Military**  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

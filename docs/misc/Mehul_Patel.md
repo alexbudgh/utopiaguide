@@ -18,7 +18,7 @@ Engine is written by Mehul Pattel on Delphi with records serialized into text fi
 
 User interface is based on HTML 4, pre-CSS style HTML is embedded directly into the application code, later CSS libraries were added.
 
-Old Code was used on from beginning till Age of Rebirth on [World of Legends](../category/World_of_Legends.md) server, all Ages on Battlefields server and most Ages of [Genesis](Genesis.md), Utopian Standoff, Great Utopian War and Second Great Utopian War.
+Old Code was used on from beginning till Age of Rebirth on [World of Legends](../history/World_of_Legends.md) server, all Ages on Battlefields server and most Ages of [Genesis](../history/Genesis.md), Utopian Standoff, Great Utopian War and Second Great Utopian War.
 
 ### CGI Error
 
@@ -37,6 +37,6 @@ At July 2008 Mehul sold Swirve.com to [OMAC](Brian_&_Sean.md) under the stewards
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |

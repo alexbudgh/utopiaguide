@@ -53,15 +53,15 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 ```
 
 - The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.
-- Building Efficiency affects all [Flat Rate](../category/Buildings.md) and [Percentage-Based](../category/Buildings.md) buildings.
-- Building Efficiency has **NO** effect on Capacity component of Capacity Buildings as well as [Universities](../category/Buildings.md).
+- Building Efficiency affects all [Flat Rate](../main/Buildings.md) and [Percentage-Based](../main/Buildings.md) buildings.
+- Building Efficiency has **NO** effect on Capacity component of Capacity Buildings as well as [Universities](../main/Buildings.md).
 
 - Changes in Building Efficiency take effect gradually.
 
 | **Modifier Type** | **Active** | **Otherwise** |
 | --- | --- | --- |
 | **Race: Dwarf** | 1.25 | 1 |
-| **Dragon: [Topaz](../category/Dragons.md)** | 0.75 | 1 |
+| **Dragon: [Topaz](../main/Dragons.md)** | 0.75 | 1 |
 | **Spell: [Blizzard](../guide/Mystics.md)** | 0.9 | 1 |
 
 ### Building Effects
@@ -80,13 +80,13 @@ Flat Rate Buildings = Base Effect * (Number of Buildings * (1 + Race)) * BE
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |
 
 | **Buildings** | |
 | --- | --- |
-| Civil Buildings | [Barren Lands](../category/Buildings.md)  • [Homes](../category/Buildings.md)  • [Farms](../category/Buildings.md)  • [Mills](../category/Buildings.md)  • [Banks](../category/Buildings.md) |
-| Military Buildings | [Training Grounds](../category/Buildings.md)  • [Armouries](../category/Buildings.md)  • [Barracks](../category/Buildings.md)  • [Forts](../category/Buildings.md)  • [Castles](../category/Buildings.md)  • [Hospitals](../category/Buildings.md)  • [Stables](../category/Buildings.md)  • [Dungeons](../category/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](../category/Buildings.md)  • [Towers](../category/Buildings.md)  • [Thieves' Dens](../category/Buildings.md)  • [Watchtowers](../category/Buildings.md) |
-| Science Buildings | [Universities](../category/Buildings.md)  • [Libraries](../category/Buildings.md) |
+| Civil Buildings | [Barren Lands](../main/Buildings.md)  • [Homes](../main/Buildings.md)  • [Farms](../main/Buildings.md)  • [Mills](../main/Buildings.md)  • [Banks](../main/Buildings.md) |
+| Military Buildings | [Training Grounds](../main/Buildings.md)  • [Armouries](../main/Buildings.md)  • [Barracks](../main/Buildings.md)  • [Forts](../main/Buildings.md)  • [Castles](../main/Buildings.md)  • [Hospitals](../main/Buildings.md)  • [Stables](../main/Buildings.md)  • [Dungeons](../main/Buildings.md) |
+| Thievery and Mystic Buildings | [Guilds](../main/Buildings.md)  • [Towers](../main/Buildings.md)  • [Thieves' Dens](../main/Buildings.md)  • [Watchtowers](../main/Buildings.md) |
+| Science Buildings | [Universities](../main/Buildings.md)  • [Libraries](../main/Buildings.md) |

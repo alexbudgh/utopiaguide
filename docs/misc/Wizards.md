@@ -5,8 +5,8 @@
 | Here are the unit types that are available in [Utopia](Utopia.md) (racial/personality bonuses are not included) | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
 | Units | Description | Offense | Defense | Cost | Networth |
-| **Peasants** | Peasants are responsible for working and [generating income](../category/Economy.md) for your province. |  |  |  | 0.25 |
-| **Soldiers** | The basic unit for every province. They are drafted from Peasants and can be trained into Specialists, Elites or Thieves. You are not required to pay [Wages](../category/Economy.md) for Soldiers. | 3† | 0† | Varies | 0.25 networth per point of power |
+| **Peasants** | Peasants are responsible for working and [generating income](../main/Economy.md) for your province. |  |  |  | 0.25 |
+| **Soldiers** | The basic unit for every province. They are drafted from Peasants and can be trained into Specialists, Elites or Thieves. You are not required to pay [Wages](../main/Economy.md) for Soldiers. | 3† | 0† | Varies | 0.25 networth per point of power |
 | **Wizards** | Wizards are required to cast spells. They do not count towards your military size. Check out the [Mystics Guide](../guide/Mystics.md) as well as the [Mystic Formulas](../guide/Magic_Formulas.md). |  |  |  | 7 |
 | **Thieves** | The part of your military which will conduct [Thievery ops](Thievery.md). Be sure to check out Thievery Formulas as well |  |  | 500gc | 5 |
 | **Horses** | Sending horses with your attacks adds raw offensive point per horse. You may include up to one horse per military unit sent in combat. | 2† |  |  | 0.3 per point of power |
@@ -30,7 +30,7 @@ Soldiers Drafted per Tick = Peasants * Draft Speed * Race Bonus * Personality Bo
 | --- | --- | --- |
 | **[Patriotism](../guide/Mystics.md)** | 1.3 | 1 |
 | **[Sloth](../guide/Mystics.md)** | 0.5 | 1 |
-| **Ruby [Dragon](../category/Dragons.md)** | 0.75 | 1 |
+| **Ruby [Dragon](../main/Dragons.md)** | 0.75 | 1 |
 | **Expedient Ritual** | 1.2 | 1 |
 
 ### Draft Cost Formula
@@ -71,13 +71,13 @@ Full training time = 24 * Race Bonus * Personality Bonus * MAX (Inspire Army,Her
 
 ### Maintenance cost
 
-[**Click here for the Formula**](../category/Economy.md)
+[**Click here for the Formula**](../main/Economy.md)
 
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../category/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md)  • Formulas |
+| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
+| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |
 
 | **Races & Personalities** | |

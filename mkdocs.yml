@@ -30,11 +30,11 @@ nav:
   - Race: main/Race.md
   - Personality: ages/Personality.md
   - Science Formulas: main/Science_Formulas.md
-  - Buildings: category/Buildings.md
-  - Economy: category/Economy.md
-  - Honor: category/Honor.md
-  - Networth: category/Networth.md
-  - Province: category/Province.md
+  - Buildings: main/Buildings.md
+  - Economy: main/Economy.md
+  - Honor: main/Honor.md
+  - Networth: main/Networth.md
+  - Province: main/Province.md
   - Units: misc/Units.md
   - Unique Abilities: misc/Unique_Abilities.md
   - Wizards: misc/Wizards.md
@@ -48,7 +48,7 @@ nav:
   - Magic Formulas: guide/Magic_Formulas.md
   - War Room: guide/War_Room.md
   - Relations: guide/Relations.md
-  - Attacking & Defending: category/Attacking_&_Defending.md
+  - Attacking & Defending: main/Attacking_&_Defending.md
 - Player Guides:
   - A Players Guide to Utopia: misc/A_Players_Guide_to_Utopia.md
   - Attacking & Calculating an Attack: misc/Attacking_&_Calculating_an_Attack.md
@@ -57,102 +57,100 @@ nav:
   - Ethics of Waving and War: misc/Ethics_of_Waving_and_War.md
   - Land Whoring Tips & Tricks: misc/Land_Whoring_Tips_&_Tricks.md
   - Leadership Logic: misc/Leadership_Logic.md
-  - Dual Monarch: category/Dual_Monarch.md
+  - Dual Monarch: misc/Dual_Monarch.md
 - Mechanics:
   - Explore: misc/Explore.md
   - Explore Pool: misc/Explore_Pool.md
   - Exploring, Construction & Building Formulas: misc/Exploring,_Construction_&_Building_Formulas.md
   - Thievery: misc/Thievery.md
-  - Dragons: category/Dragons.md
-  - Dragons, Aid & Stances: category/Dragons,_Aid_&_Stances.md
+  - Dragons: main/Dragons.md
+  - Dragons, Aid & Stances: main/Dragons,_Aid_&_Stances.md
   - Ritual: misc/Ritual.md
-  - Hostile Meter: category/Hostile_Meter.md
-  - Relations Meter: category/Relations_Meter.md
+  - Hostile Meter: main/Hostile_Meter.md
+  - Relations Meter: main/Relations_Meter.md
   - Overpopulation: formulas/Overpopulation.md
   - Game Rules: misc/Game_Rules.md
   - Gold Status: misc/Gold_Status.md
   - Kingdom Recognition: misc/Kingdom_Recognition.md
 - History:
   - Ages:
-    - Age 114: misc/Age_114.md
-    - Age 105: misc/Age_105.md
-    - Age 104: misc/Age_104.md
-    - Age 103: misc/Age_103.md
-    - Age 102: misc/Age_102.md
-    - Age 101: misc/Age_101.md
-    - Age 100: misc/Age_100.md
-    - Age 99: misc/Age_99.md
-    - Age 98: misc/Age_98.md
-    - Age 97: misc/Age_97.md
-    - Age 94: misc/Age_94.md
-    - Age 93: misc/Age_93.md
-    - Age 92: misc/Age_92.md
-    - Age 90: category/Age_90.md
-    - Age 89: category/Age_89.md
-    - Age 88: misc/Age_88.md
-    - Age 87: misc/Age_87.md
-    - Age 86: misc/Age_86.md
-    - Age 85: category/Age_85.md
-    - Age 84: category/Age_84.md
-    - Age 83: category/Age_83.md
-    - Age 82: misc/Age_82.md
-    - Age 81: category/Age_81.md
-    - Age 80: misc/Age_80.md
-    - Age 79: category/Age_79.md
-    - Age 78: misc/Age_78.md
-    - Age 77: category/Age_77.md
-    - Age 76: category/Age_76.md
-    - Age 75: category/Age_75.md
-    - Age 74: misc/Age_74.md
-    - Age 73: category/Age_73.md
-    - Age 72: misc/Age_72.md
-    - Age 71: category/Age_71.md
-    - Age 68: misc/Age_68.md
-    - Age 65: misc/Age_65.md
-    - Age 64: category/Age_64.md
-    - Age 63: misc/Age_63.md
-    - Age 62: category/Age_62.md
-    - Age 61: category/Age_61.md
-    - Age 57: misc/Age_57.md
-    - Age 56: misc/Age_56.md
-    - Age 55: misc/Age_55.md
-    - Age 53: misc/Age_53.md
-    - Age 49: misc/Age_49.md
-    - Age 48: misc/Age_48.md
-    - Age 44: misc/Age_44.md
-    - Age 38: misc/Age_38.md
-  - Science Obsolete and historical data: misc/Science_Obsolete_and_historical_data.md
-  - Races and Personalities: misc/Races_and_Personalities.md
+    - Age 114: history/Age_114.md
+    - Age 105: history/Age_105.md
+    - Age 104: history/Age_104.md
+    - Age 103: history/Age_103.md
+    - Age 102: history/Age_102.md
+    - Age 101: history/Age_101.md
+    - Age 100: history/Age_100.md
+    - Age 99: history/Age_99.md
+    - Age 98: history/Age_98.md
+    - Age 97: history/Age_97.md
+    - Age 94: history/Age_94.md
+    - Age 93: history/Age_93.md
+    - Age 92: history/Age_92.md
+    - Age 90: history/Age_90.md
+    - Age 89: history/Age_89.md
+    - Age 88: history/Age_88.md
+    - Age 87: history/Age_87.md
+    - Age 86: history/Age_86.md
+    - Age 85: history/Age_85.md
+    - Age 84: history/Age_84.md
+    - Age 83: history/Age_83.md
+    - Age 82: history/Age_82.md
+    - Age 81: history/Age_81.md
+    - Age 80: history/Age_80.md
+    - Age 79: history/Age_79.md
+    - Age 78: history/Age_78.md
+    - Age 77: history/Age_77.md
+    - Age 76: history/Age_76.md
+    - Age 75: history/Age_75.md
+    - Age 74: history/Age_74.md
+    - Age 73: history/Age_73.md
+    - Age 72: history/Age_72.md
+    - Age 71: history/Age_71.md
+    - Age 68: history/Age_68.md
+    - Age 65: history/Age_65.md
+    - Age 64: history/Age_64.md
+    - Age 63: history/Age_63.md
+    - Age 62: history/Age_62.md
+    - Age 61: history/Age_61.md
+    - Age 57: history/Age_57.md
+    - Age 56: history/Age_56.md
+    - Age 55: history/Age_55.md
+    - Age 53: history/Age_53.md
+    - Age 49: history/Age_49.md
+    - Age 48: history/Age_48.md
+    - Age 44: history/Age_44.md
+    - Age 38: history/Age_38.md
+  - Science Obsolete and historical data: history/Science_Obsolete_and_historical_data.md
+  - Races and Personalities: history/Races_and_Personalities.md
   - Genesis:
-    - Genesis: genesis/index.md
-    - Genesis (misc): misc/Genesis.md
-    - Genesis Change Log: category/Genesis_Change_Log.md
-    - Genesis Mechanics: category/Genesis_Mechanics.md
-    - Genesis Personalities: category/Genesis_Personalities.md
-    - Genesis Races: category/Genesis_Races.md
+    - Genesis (WoL): history/Genesis_WoL.md
+    - Genesis (misc): history/Genesis.md
+    - Genesis Change Log: history/Genesis_Change_Log.md
+    - Genesis Mechanics: history/Genesis_Mechanics.md
+    - Genesis Personalities: history/Genesis_Personalities.md
+    - Genesis Races: history/Genesis_Races.md
   - World of Legends:
-    - World of Legends: category/World_of_Legends.md
-    - WoL Personalities (Age 45): category/WoL_Personalities_(Age_45).md
-    - WoL Personalities (Age 46): category/WoL_Personalities_(Age_46).md
-    - WoL Races (Age 45): category/WoL_Races_(Age_45).md
-    - WoL Races (Age 46): category/WoL_Races_(Age_46).md
+    - World of Legends: history/World_of_Legends.md
+    - WoL Personalities (Age 45): history/WoL_Personalities_(Age_45).md
+    - WoL Personalities (Age 46): history/WoL_Personalities_(Age_46).md
+    - WoL Races (Age 45): history/WoL_Races_(Age_45).md
+    - WoL Races (Age 46): history/WoL_Races_(Age_46).md
 - Tools & Community:
   - Externals: tools/Externals.md
   - UTools: misc/UTools.md
   - MunkBot: misc/MunkBot.md
   - Metatron Plus: misc/Metatron_Plus.md
-  - Target Finder: category/Target_Finder.md
-  - UtopiaPimp: category/UtopiaPimp.md
-  - UtopiaPimp V2: category/UtopiaPimp_V2.md
-  - Pimp Agent: category/Pimp_Agent.md
-  - Flogger: category/Flogger.md
-  - ABS: category/ABS.md
+  - Target Finder: tools/Target_Finder.md
+  - UtopiaPimp: tools/UtopiaPimp.md
+  - UtopiaPimp V2: tools/UtopiaPimp_V2.md
+  - Pimp Agent: tools/Pimp_Agent.md
+  - Flogger: tools/Flogger.md
+  - Mozilla Firefox: tools/Firefox.md
 - About:
   - Utopia: misc/Utopia.md
   - Welcome to the Utopia Wiki: misc/Welcome_to_the_Utopia_Wiki.md
-  - Game Rules: misc/Game_Rules.md
   - Activation Code: misc/Activation_Code.md
-  - Gold Status: misc/Gold_Status.md
   - Net Safety: misc/Net_Safety.md
   - Utopian server: misc/Utopian_server.md
   - Reservations: misc/Reservations.md
@@ -160,23 +158,23 @@ nav:
   - Out Of Date:
     - Multi-Attack Protection (MAP): out_of_date/Multi-Attack_Protection_(MAP).md
   - Misc:
-    - Absalom: category/Absalom.md
+    - ABS: misc/ABS.md
+    - Absalom: misc/Absalom.md
     - Ad: main/Ad.md
-    - AllianceKnights Templar: category/AllianceKnights_Templar.md
-    - AllianceLotus: category/AllianceLotus.md
+    - AllianceKnights Templar: misc/AllianceKnights_Templar.md
+    - AllianceLotus: misc/AllianceLotus.md
     - Brian & Sean: misc/Brian_&_Sean.md
-    - Cyclops: category/Cyclops.md
-    - Firefox: category/Firefox.md
-    - Island: category/Island.md
-    - KingdomBring It On: category/KingdomBring_It_On.md
-    - KingdomCopy Cats: category/KingdomCopy_Cats.md
-    - KingdomPulse: category/KingdomPulse.md
-    - KingdomSecrets: category/KingdomSecrets.md
+    - Cyclops: misc/Cyclops.md
+    - Firefox: tools/Firefox.md
+    - Island: misc/Island.md
+    - KingdomBring It On: misc/KingdomBring_It_On.md
+    - KingdomCopy Cats: misc/KingdomCopy_Cats.md
+    - KingdomPulse: misc/KingdomPulse.md
+    - KingdomSecrets: misc/KingdomSecrets.md
     - Mehul Patel: misc/Mehul_Patel.md
-    - Mozilla Firefox: misc/Mozilla_Firefox.md
+    - Mozilla Firefox: tools/Firefox.md
     - Muga Gaming: misc/Muga_Gaming.md
-    - NewFAQ: category/NewFAQ.md
-    - Rules: category/Rules.md
-    - Northy: category/Northy.md
-    - Theme: category/Theme.md
-    - Utopia Time: misc/Utopia_Time.md
+    - NewFAQ: misc/NewFAQ.md
+    - Northy: misc/Northy.md
+    - Rules: misc/Rules.md
+    - Theme: misc/Theme.md
