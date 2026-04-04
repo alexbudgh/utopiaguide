@@ -1,7 +1,5 @@
 # Attacking & Calculating an Attack
 
-| |  | | --- | | **THIS PAGE** is a guide aimed to cover Attacking & Calculating an Attack. It comprises of tips and tricks written by other players, for regular utopians. Please be civil in your discussions if you disagree with a point made on the page. | |
-
 ## Before Attacking
 
 1. Check that your target isn't in a war.
