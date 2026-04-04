@@ -44,13 +44,17 @@ The GitHub Actions workflow builds and deploys automatically on every push to `m
 ```
 docs/
 ├── index.md              # Home page
-├── main/                 # Core game reference (Race, Science, etc.)
-├── guide/                # Official guides
-├── category/             # Category pages
-├── misc/                 # Miscellaneous pages
-├── ages/                 # Age-specific content
-├── formulas/             # Game formulas
-└── tools/                # External tools
+├── main/                 # Core game reference (Race, Science, Buildings, etc.)
+├── guide/                # Guides (Growth, Military, Mystics, War Room, etc.)
+├── ages/                 # Age-specific content (Personality)
+├── history/              # Age history, Genesis, World of Legends, developers
+├── misc/                 # Player guides, mechanics, tools, community pages
+├── formulas/             # Game formulas (Overpopulation, etc.)
+├── tools/                # External tools (UtopiaPimp, Target Finder, etc.)
+├── alliances/            # Alliance pages
+├── kingdoms/             # Kingdom pages
+├── players/              # Player profile pages
+└── stylesheets/          # Custom CSS (extra.css)
 scrape_wiki.py            # Wayback Machine scraper
 rescrape_broken.py        # Re-scrape garbled pages
 fix_links.py              # Fix internal links
