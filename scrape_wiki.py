@@ -323,7 +323,15 @@ def scrape_page(title: str, info: dict, page_title_to_path: dict[str, str]) -> d
 # Phase 3: Organise into docs/ directory
 # ---------------------------------------------------------------------------
 
+# Namespace prefixes to strip from filenames (keeps the page name after the colon)
+STRIP_NS_PREFIXES = ("Guide:", "Category:")
+
+
 def safe_filename(title: str) -> str:
+    for ns in STRIP_NS_PREFIXES:
+        if title.startswith(ns):
+            title = title[len(ns):]
+            break
     slug = slugify(title)
     # Truncate to 200 chars to avoid filesystem limits
     return slug[:200] + ".md"

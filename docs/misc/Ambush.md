@@ -1,19 +1,5 @@
 # Ambush
 
-|  |
-| --- |
-| **This is part of the Utopia WIKI Mini Guide Series.** |
-
-|  |  |
-| --- | --- |
-| |  | | --- | | **THIS PAGE** describes a game mechanism - Guide:Ambush in utopia. It also aims to discuss the implications of this game mechanism & how others have utilized it. To discuss further implications or ask questions with regards to Guide:Ambush, be sure to check out the discussions page. | |
-
-|  |  |
-| --- | --- |
-| **!** | *The information or formula below is not up to date. Please refer to the discussions tab to contribute to ongoing research or start a new topic.* |
-
- if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
-
 ## Why Ambush?
 
 1. To Kill Elites (especially if your target is an orc).
@@ -91,5 +77,3 @@ June 4th, YR5 piercing through (9:11) invaded Kzagl Elven Grave (3:17) and captu
 June 4th, YR5 I just been (9:11) invaded KZAGL ELVEN GRAVE (3:17) and captured 25 acres of land.*
 
 You would have to ambush the hit for 25 acres before you could ambush the hit for 139 acres. You wouldn't necessarily have to be successful though, because once you've ambushed a hit by a province, you can't ambush that hit again, so the game moves onto the next hit.
-
-Retrieved from "/index.php?title=Guide:Ambush"Categories: Out of Date | Mini Guides
