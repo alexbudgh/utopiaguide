@@ -1,7 +1,5 @@
 # Multi-Attack Protection (MAP)
 
-| **This is part of the Utopia WIKI [Mini Guide Series](#).** |
-
 Multi-Attack Protection (**MAP**) (formerly known as Gangbang Protection **GBP**) is a game mechanism introduced which aims to increase the protection conferred to provinces which have been recently hit.
 
 ## Effects of Attacking MAP

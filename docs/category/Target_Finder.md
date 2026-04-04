@@ -1,7 +1,5 @@
 # Target Finder
 
-| **This is part of the Utopia WIKI Player written guides.** |
-
 ## Target Finder
 
 Utopia offers 2 different target finders. There is an in-game target finder in the War Room, or you can utilize the target finder in the Intel Site.

@@ -1,7 +1,5 @@
 # Mozilla Firefox
 
-| **This is part of the Utopia WIKI [Tools Series](#).** |
-
 ## What is Mozilla Firefox?
 
 Mozilla Firefox, also known as Firefox for short, is a web browser which is particularly favored by many Utopian players due to the number of add ons available for Firefox which modifies (and improves) the utopian experience.

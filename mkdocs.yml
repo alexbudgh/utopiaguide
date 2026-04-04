@@ -42,7 +42,6 @@ nav:
   - Utopia Time: misc/Utopia_Time.md
 - Guides:
   - Getting Started with Utopia: misc/Getting_Started_with_Utopia.md
-  - A Players Guide to Utopia: misc/A_Players_Guide_to_Utopia.md
   - Growth: guide/Growth.md
   - Military: guide/Military.md
   - Mystics: guide/Mystics.md
@@ -50,6 +49,8 @@ nav:
   - War Room: guide/War_Room.md
   - Relations: guide/Relations.md
   - Attacking & Defending: category/Attacking_&_Defending.md
+- Player Guides:
+  - A Players Guide to Utopia: misc/A_Players_Guide_to_Utopia.md
   - Attacking & Calculating an Attack: misc/Attacking_&_Calculating_an_Attack.md
   - Chaining: misc/Chaining.md
   - Warleader Guide to Attrition: misc/Warleader_Guide_to_Attrition.md

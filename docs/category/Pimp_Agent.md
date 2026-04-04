@@ -1,7 +1,5 @@
 # Pimp Agent
 
-| **This is part of the Utopia WIKI [Tools Series](#).** |
-
 ## What is Pimp Agent?
 
 An Add-on for [Mozilla Firefox](../misc/Mozilla_Firefox.md) which makes it which links directly to your kingdom's [UtopiaPimp](UtopiaPimp.md) account without the use of [Forum Agent](#). Pimp Agent builds itself right into the Utopia page, so you can get all the data you'll ever send to Utopiapimp sent directly without any copy/pasting or opening of extra browser windows. Seriously, sending data will never get easier than this.
