@@ -8,7 +8,11 @@ This site is a community wiki for [Utopia](https://utopia-game.com), converted f
 
 | Getting Started |
 | --- |
-| - [Getting Started with Utopia](misc/Getting_Started_with_Utopia.md) - **Current Age: Age 110** - [Race](main/Race.md) - [Personality](ages/Personality.md) - [Unique Abilities](misc/Unique_Abilities.md) - [Units](misc/Units.md) - [Game Rules](misc/Game_Rules.md) - [Genesis](misc/Genesis.md) - [Gold Status](misc/Gold_Status.md) |
+| - [Getting Started with Utopia](misc/Getting_Started_with_Utopia.md) - **Current Age: [Age 114 — The Age of Convergence](misc/Age_114.md)** - [Race](main/Race.md) - [Personality](ages/Personality.md) - [Unique Abilities](misc/Unique_Abilities.md) - [Units](misc/Units.md) - [Game Rules](misc/Game_Rules.md) - [Genesis](misc/Genesis.md) - [Gold Status](misc/Gold_Status.md) |
+
+| Age 114 Highlights |
+| --- |
+| **New this age:** [War Doctrines](main/Race.md#war-doctrines) — each race contributes a kingdom-wide bonus in war · [Unique Abilities](main/Race.md#unique-abilities) for every race and personality · [6 named Dragons](category/Dragons.md) with distinct roles · [7 Ritual types](misc/Ritual.md) · 10 Personalities including new General, Necromancer and Paladin |
 
 | Guides by In-game Menus |
 | --- |
