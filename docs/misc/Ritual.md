@@ -1,29 +1,21 @@
 # Ritual
 
-**Kingdom Rituals** (KR) are a new mechanic introduced in [Age 72](Age_72.md) that serves as a kingdom-wide bonus. The [Monarch](#) or [Steward](#) can being a ritual.
+Kingdom Rituals (KR) are a kingdom-wide bonus mechanic. The Monarch or Steward can initiate a ritual. Only one KR can be active at a time, though a new one can be started before the current one expires (it will replace the active one on completion).
 
-## Kingdom Ritual Page
+*Last updated: Age 114*
 
-The Kingdom Ritual page will also display various information such as:
+## Completing a Ritual
 
-- current KR status (type and strength)
-- whether a new ritual is being cast
-- how many more successful casts are necessary
+The kingdom must cast the ritual spell **100 times within 48 hours** of starting. The ritual spell has a high rune cost and difficulty similar to the hardest self spell. A successful ritual lasts **120 hours (5 months)**.
 
-For enemies: an active Kingdom Ritual will be displayed via Spy on Throne, where you will see which KR is active and current strength
+## Ritual Types
 
-## Types of Kingdom Ritual
-
-There are three kinds of Kingdom Rituals:
-
-1. Barrier - Increases defensive TPA and WPA by 25%; reduces gains via attacks against the kingdom by 10% (similar to Guard Stations); +10% DME
-2. Affluent (WAR ONLY, not EOWCF) - Increases income by 25%, Birth Rate by 20%, and draft speed by 25%
-3. Onslaught - Increases OME by 10% and enemy casualties on your offensive attacks by 15%
-
-- Note: The Affluent Kingdom Ritual can be initiated and completed at any time regardless of your stance (relations) however, if it is active and you are NOT in war you will receive no effects from it.
-
-## Completing A Ritual
-
-To complete the ritual the Kingdom must cast a new 'ritual spell' 100 times within 48 hours of the ritual being started. The ritual spell will have a very expensive rune casting cost; and have a difficulty similar to the most difficult self spell.
-
-A successful Kingdom Ritual will last for 120 hours. While only one KR can be active, another KR can be started before the active KR ends, very similar to Dragons. Once the KR is completed, the previous KR will be replaced. All users will have a KR page; only on this page you will have the KR spell available to help initiate the KR.
+| Ritual | Effects |
+| --- | --- |
+| **Ascendancy** | +50% Wizard Production · -50% Wizard Losses on Failed Spells · -25% Science Book Production |
+| **Barrier** | +20% Birth Rates · -25% Damage from Enemy Instant Magic and Thievery Operations · -20% Massacre Damage · -10% Battle (Resource) Losses |
+| **Expedient** | +20% Building Efficiency · -25% Construction Cost · -25% Construction Time · -25% Military Wages |
+| **Haste** | -10% Attack Time · -25% Training Time · -25% Construction Time |
+| **Havoc** | +20% Offensive WPA · +20% Offensive TPA · +20% Spell Damage · +20% Sabotage Damage |
+| **Onslaught** | +10% Offensive Military Efficiency · +15% Enemy Military Casualties on Attacks |
+| **Stalwart** | +5% Defensive Military Efficiency · -20% Military Casualties |
