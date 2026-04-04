@@ -1,4 +1,4 @@
-# Kingdom:Bring It On
+# Bring It On
 
 | **Kingdom:Bring It On** | |
 | --- | --- |

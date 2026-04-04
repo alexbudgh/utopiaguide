@@ -1,4 +1,4 @@
-# Kingdom:Pulse
+# Pulse
 
 | **Kingdom:Pulse** | |
 | --- | --- |

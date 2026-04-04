@@ -1,4 +1,4 @@
-# Alliance:Absalom
+# Absalom
 
 | **Alliance:Absalom** | |
 | --- | --- |

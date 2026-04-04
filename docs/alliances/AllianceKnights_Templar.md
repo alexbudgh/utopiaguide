@@ -1,4 +1,4 @@
-# Alliance:Knights Templar
+# Knights Templar
 
 | **Alliance:Knights Templar** | |
 | --- | --- |

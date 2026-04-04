@@ -1,4 +1,4 @@
-# Kingdom:Copy Cats
+# Copy Cats
 
 | **Kingdom:Copy Cats** | |
 | --- | --- |

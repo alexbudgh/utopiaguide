@@ -124,8 +124,7 @@ nav:
   - Science Obsolete and historical data: history/Science_Obsolete_and_historical_data.md
   - Races and Personalities: history/Races_and_Personalities.md
   - Genesis:
-    - Genesis (WoL): history/Genesis_WoL.md
-    - Genesis (misc): history/Genesis.md
+    - Genesis: history/Genesis.md
     - Genesis Change Log: history/Genesis_Change_Log.md
     - Genesis Mechanics: history/Genesis_Mechanics.md
     - Genesis Personalities: history/Genesis_Personalities.md
@@ -157,22 +156,22 @@ nav:
   - SpecialThanks: misc/SpecialThanks.md
   - Out Of Date:
     - Multi-Attack Protection (MAP): out_of_date/Multi-Attack_Protection_(MAP).md
+  - Alliances:
+    - Absalom (ABS): alliances/ABS.md
+    - Absalom: alliances/Absalom.md
+    - Knights Templar: alliances/AllianceKnights_Templar.md
+    - Lotus: alliances/AllianceLotus.md
+  - Kingdoms:
+    - Bring It On: kingdoms/KingdomBring_It_On.md
+    - Copy Cats: kingdoms/KingdomCopy_Cats.md
+    - Pulse: kingdoms/KingdomPulse.md
+    - Secrets: kingdoms/KingdomSecrets.md
   - Misc:
-    - ABS: misc/ABS.md
-    - Absalom: misc/Absalom.md
     - Ad: main/Ad.md
-    - AllianceKnights Templar: misc/AllianceKnights_Templar.md
-    - AllianceLotus: misc/AllianceLotus.md
     - Brian & Sean: misc/Brian_&_Sean.md
     - Cyclops: misc/Cyclops.md
-    - Firefox: tools/Firefox.md
     - Island: misc/Island.md
-    - KingdomBring It On: misc/KingdomBring_It_On.md
-    - KingdomCopy Cats: misc/KingdomCopy_Cats.md
-    - KingdomPulse: misc/KingdomPulse.md
-    - KingdomSecrets: misc/KingdomSecrets.md
     - Mehul Patel: misc/Mehul_Patel.md
-    - Mozilla Firefox: tools/Firefox.md
     - Muga Gaming: misc/Muga_Gaming.md
     - NewFAQ: misc/NewFAQ.md
     - Northy: misc/Northy.md

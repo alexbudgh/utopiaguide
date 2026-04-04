@@ -1,4 +1,4 @@
-# Kingdom:Secrets
+# Secrets
 
 | **Kingdom:Secrets** | |
 | --- | --- |
