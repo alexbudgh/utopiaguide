@@ -26,8 +26,6 @@
 Soldiers Drafted per Tick = Peasants * Draft Speed * Race Bonus * Personality Bonus * Patriotism * Affluent Ritual * Sloth * Dragon * Heroism Science Effect
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **[Patriotism](../guide/Mystics.md)** | 1.3 | 1 |
 | **[Sloth](../guide/Mystics.md)** | 0.5 | 1 |
@@ -53,8 +51,6 @@ Draft Rate = Base Draft Rate * Patriotism Bonus * Heroism Science Effect * Sloth
 
 - [Drought](../guide/Mystics.md) reduces draft rate by 15%
 
-|  |  |  |
-| --- | --- | --- |
 | **Base Draft Rate** | **Draft Speed** | **Cost per soldier** |
 | **Reservist** | 0.5% | 30gc |
 | **Normal** | 1.0% | 50gc |

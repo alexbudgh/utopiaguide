@@ -1,15 +1,9 @@
 # Kingdom:Secrets
 
-|  |  |
-| --- | --- |
 | |  | | --- | |  |  **Kingdom - Kingdom:Secrets** |
 
-|  |
-| --- |
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
-|  |  |
-| --- | --- |
 | **Kingdom:Secrets** | |
 | Alliance Affliations: | None |
 | **Contact** | |
@@ -19,4 +13,3 @@
 | Contact: | #secrets |
 | **Founded** | |
 | Age: | 42 |
-|  | |

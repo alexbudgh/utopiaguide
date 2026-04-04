@@ -1,7 +1,5 @@
 # Age 78
 
-|  |  |
-| --- | --- |
 | **Age 78** | |
 | Name: | **The Age of Insight** |
 | Number: | 78 |
@@ -13,7 +11,6 @@
 | Start: | 8 Oct 2018 |
 | End: | 17 Nov 2018 |
 | Duration (in days): | 5 weeks |
-|  | |
 
 **The Age of Insight**  (Age 78) - completed Age on [World of Legends](../category/World_of_Legends.md) server.
 

@@ -1,7 +1,5 @@
 # Age 82
 
-|  |  |
-| --- | --- |
 | **Age 82** | |
 | Name: | **The Grimoires of Glory** |
 | Number: | 82 |
@@ -13,7 +11,6 @@
 | Start: | 24 Jul 2019 |
 | End: | 28 Sep 2019 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **The Grimoires of Glory** - completed Age on [World of Legends](../category/World_of_Legends.md) server.
 

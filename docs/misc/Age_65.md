@@ -1,7 +1,5 @@
 # Age 65
 
-|  |  |
-| --- | --- |
 | **Age 65** | |
 | Name: | **Isles of Legion** |
 | Number: | 65 |
@@ -13,7 +11,6 @@
 | Start: | 11 May 2015 |
 | End: | 30 August 2015 |
 | Duration (in days): |  |
-|  | |
 
 **Age of Isles of Legion** (Age 65) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

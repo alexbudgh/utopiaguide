@@ -1,7 +1,5 @@
 # Age 38
 
-|  |  |
-| --- | --- |
 | **Age 38** | |
 | Name: | **The Age of Angels** |
 | Number: | 38 |
@@ -13,7 +11,6 @@
 | Start: | 26 January 2008 |
 | End: | 28 April 2008 |
 | Duration (in days): | 94 |
-|  | |
 
 **The Age of Angels** (Age 38) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

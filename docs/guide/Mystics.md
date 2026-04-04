@@ -1095,9 +1095,6 @@ Causes death among the peasants of an enemy, turning some into the caster's sold
 - Age 107: Updated spell availability and bonuses.
 - Age 110: Updated spell availability and bonuses.
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

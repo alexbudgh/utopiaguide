@@ -264,9 +264,6 @@ In the War Forum Provinces from either Kingdom can interact by starting new thre
 
 Provinces are expected to interact respectfully and obey the Code of Conduct. Any offending material can be removed by either Kingdom's Monarch or Steward.
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

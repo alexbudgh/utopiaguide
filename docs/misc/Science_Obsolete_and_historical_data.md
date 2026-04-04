@@ -10,8 +10,6 @@ Science Bonus = [ MIN( Science Multiplier * Skill points , Cap ) + MAX( 0, Scien
 Skill points = Number of Novices + 1.5 * Number of Graduates + 2 * Number of Professors
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Multiplier** | **Science Category** |
 | Personality: [Heretic](../ages/Personality.md) | 1.3 | Crime |
 | Personality: [Heretic](../ages/Personality.md) | 1.3 | Channeling |
@@ -22,8 +20,6 @@ Skill points = Number of Novices + 1.5 * Number of Graduates + 2 * Number of Pro
 
 **\*NOTE\* Starting Age 73: Science no longer has a hard maximum for all categories. Science will scale in a linear fashion up to stated maximums (Cap) as normal. Once this point is reached, additional scientists will yield diminishing returns.**
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | **Science Category** | **Effect** | **Multiplier** | **Cap** | **Scientist Cap** |
 | **Alchemy** | Income | 0.500% | 30% | 30 |
 | **Tools** | Building Effectiveness | 0.333% | 20% | 30 |
@@ -52,8 +48,6 @@ Every tick each province builds progress towards a new random scientist. Laborat
 Scientists Spawn Rate = 9.5 * Race Mod * Laboratories Effect * Revelation Mod
 ```
 
-|  |  |
-| --- | --- |
 | **Modifier Type** | **Multiplier** |
 | Race: [Human](../main/Race.md) | 1.25 |
 | Spell: [Revelation](../guide/Mystics.md) | 1.3 |
@@ -85,8 +79,6 @@ Networth Per Scientist = ~1.7gc * tick of experience
 
 **Old scientist multipliers and caps, during Age 76:**
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Science Category** | **Effect** | **Multiplier** | **Soft Cap** |
 | **Alchemy** | Income | 0.428 | 30% |
 | **Tools** | Building Effectiveness | 0.287 | 20% |
@@ -98,8 +90,6 @@ Networth Per Scientist = ~1.7gc * tick of experience
 
 **Old scientist multipliers and caps, Age 71 - Age 75:**
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | **Science Category** | **Effect** | **Multiplier** | **Cap** | **Scientist Cap** |
 | **Alchemy** | Income | 0.5 | 30% | 30 |
 | **Tools** | Building Effectiveness | 0.33 | 20% | 31 |
@@ -124,8 +114,6 @@ Books per Acre = Books / MAX(Acres,300)
 Science Bonus = Race Mod * Personality Mod * Science Multiplier * SQRT( Books per Acre ) * Library Effect
 ```
 
-|  |  |
-| --- | --- |
 | **Science Category** | **Multiplier** |
 | **Alchemy** | 1.4 |
 | **Tools** | 1 |
@@ -141,8 +129,6 @@ Science Bonus = Race Mod * Personality Mod * Science Multiplier * SQRT( Books pe
 Science Cost = Raw Cost (Table Below) * Race Mod * Schools Effect
 ```
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Science Rate** | **BPA** | **GC / Book** | **GC / Acre** |
 | **No Research** | 0 | 0 | 0 |  |
 | **Minimal** | 0.3 | 6 | 1.8 |

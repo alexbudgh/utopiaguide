@@ -1,7 +1,5 @@
 # Age 71
 
-|  |  |
-| --- | --- |
 | **Age 71** | |
 | Name: | **The Metamorphosis** |
 | Number: | 71 |
@@ -13,7 +11,6 @@
 | Start: | 11 Mar 2017 |
 | End: | 20 May 2017 |
 | Duration (in days): | 10 weeks |
-|  | |
 
 **The Metamorphosis** (Age 71) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
 

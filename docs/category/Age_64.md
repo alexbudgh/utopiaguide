@@ -1,7 +1,5 @@
 # Age 64
 
-|  |  |
-| --- | --- |
 | **Age 64** | |
 | Name: | **The Spoils of War** |
 | Number: | 64 |
@@ -13,7 +11,6 @@
 | Start: | 26 January 2015 |
 | End: | 8 May 2015 |
 | Duration (in days): |  |
-|  | |
 
 **The Spoils of War** (Age 64) - finished Age on [World of Legends](World_of_Legends.md) server.
 

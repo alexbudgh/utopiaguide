@@ -1,7 +1,5 @@
 # Age 84
 
-|  |  |
-| --- | --- |
 | **Age 84** | |
 | Name: | **Bethink the Fray** |
 | Number: | 84 |
@@ -13,7 +11,6 @@
 | Start: | 19 Dec 2019 |
 | End: | 29 Feb 2020 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Bethink the Fray**  - completed [Age](#) on [World of Legends](World_of_Legends.md) server.
 

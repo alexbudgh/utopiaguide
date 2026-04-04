@@ -1,11 +1,7 @@
 # Mozilla Firefox
 
-|  |
-| --- |
 | **This is part of the Utopia WIKI [Tools Series](#).** |
 
-|  |  |
-| --- | --- |
 | |  | | --- | | **THIS PAGE** describes the Mozilla Firefox tool/addon for Utopia. If you have any queries with regards to the tool, direct your enquiries to the specific developer (refer below). | |
 
 ## What is Mozilla Firefox?

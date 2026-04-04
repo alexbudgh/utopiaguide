@@ -1,7 +1,5 @@
 # Age 55
 
-|  |  |
-| --- | --- |
 | **Age 55** | |
 | Name: | **Veil of Shadows** |
 | Number: | 55 |
@@ -13,7 +11,6 @@
 | Start: | 10 August 2012 |
 | End: | 13 November 2012 |
 | Duration (in days): | 95 |
-|  | |
 
 **Veil of Shadows** (Age 55) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

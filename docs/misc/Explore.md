@@ -40,9 +40,6 @@ The following penalties apply during war:
 - Exploration costs increased to 600% during active War and End of War Cease-Fire (or 300% during End-of-War Cease-Fire for Provinces below the Kingdom Median, including incoming explored Acres).
 - During End-of-War Cease-Fire, when under Median, explore time is reduced by 50%.
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

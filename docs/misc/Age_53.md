@@ -1,7 +1,5 @@
 # Age 53
 
-|  |  |
-| --- | --- |
 | **Age 53** | |
 | Name: | **The Age of Havoc** |
 | Number: | 53 |
@@ -13,7 +11,6 @@
 | Start: | 8 February 2012 |
 | End: | 8 May 2012 |
 | Duration (in days): | 90 |
-|  | |
 
 **The Age of Havoc** (Age 53) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

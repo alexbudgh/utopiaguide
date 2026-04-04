@@ -8,8 +8,6 @@ At any given time, a kingdom can only be producing one dragon. In addition, a ki
 Cost Metric = Target Kingdom NW * 0.656
 ```
 
-|  |  |
-| --- | --- |
 | **Dragon Type** | **Cost Mod** |
 | **Sapphire** | 2 |
 | **Topaz** | 2 |
@@ -25,8 +23,6 @@ Cost Metric = Target Kingdom NW * 0.656
 Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 132)
 ```
 
-|  |  |
-| --- | --- |
 | **Dragon Type** | **HP Mod** |
 | **Sapphire** | 3.1875 |
 | **Topaz** | 3.1875 |
@@ -34,8 +30,6 @@ Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 13
 | **Ruby** | 3.825 |
 | **Emerald** | 4.78125 |
 
-|  |  |
-| --- | --- |
 | **Relations** | **Relations Modifier** |
 | **Relations: None** | 0.5 |
 | **Relations: [Unfriendly](../guide/Relations.md)** | 0.5 |

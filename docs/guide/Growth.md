@@ -242,8 +242,6 @@ While imprisoned, prisoners will be assigned to province duties, providing you s
 Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **[Builders Boon](Mystics.md)** | 0.75 | 1 |
 | **Double Speed** | 0.5 | 1 |
@@ -259,8 +257,6 @@ Note that construction speed is rounded at .5 That means if the build time is 15
 Construction Costs = 2/31 * (land + 11600) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Double Speed** | 2 | 1 |
 | **Race: Dwarf** | 0.5 | 1 |
@@ -292,8 +288,6 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 
 - Changes in Building Efficiency take effect gradually.
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Race: Dwarf** | 1.2 | 1 |
 | **Dragon: [Topaz](../category/Dragons.md)** | 0.75 | 1 |
@@ -309,9 +303,6 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 - In general, the Max Effect of a %-Based Building is 25 x Base Effect (exceptions apply, refer to table)
 - If your BE is less than 100%, the effect you would have with 50% of that building is the maximum.
 - If you have less than 100% BE, additional buildings past 50% will have no effect.
-
-|  |  |
-| --- | --- |
 
 | **Buildings** | |
 | --- | --- |

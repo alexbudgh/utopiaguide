@@ -1,7 +1,5 @@
 # Age 62
 
-|  |  |
-| --- | --- |
 | **Age 62** | |
 | Name: | **not named yet** |
 | Number: | 62 |
@@ -13,7 +11,6 @@
 | Start: |  |
 | End: | 13 October 2014 |
 | Duration (in days): |  |
-|  | |
 
 **Age of Books Of War** (Age 62) - finished Age on [World of Legends](World_of_Legends.md) server.
 

@@ -1,7 +1,5 @@
 # NewFAQ
 
-|  |
-| --- |
 | **This is the FAQ Page for [Utopia](../misc/Utopia.md). If you have questions, it is suggested you post them at the [discussions page](#) or put them up on the [Utopian Forums](http://forums.utopia-game.com/forumdisplay.php?1527-Utopia).** |
 
 ### Getting Started Questions

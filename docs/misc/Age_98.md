@@ -1,7 +1,5 @@
 # Age 98
 
-|  |  |
-| --- | --- |
 | **Age 98** | |
 | Name: | **Keen Transformation** |
 | Number: | 98 |
@@ -13,7 +11,6 @@
 | Start: | Wednesday Sept 7, 2022 @ 18:00 GMT |
 | End: | Saturday, November 19, 2022 @ 00:00 GMT |
 | Duration (in days): | 74 |
-|  | |
 
 # Keen Transformation
 

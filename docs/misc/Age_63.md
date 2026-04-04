@@ -1,7 +1,5 @@
 # Age 63
 
-|  |  |
-| --- | --- |
 | **Age 63** | |
 | Name: | **Iron Walls Iron Heart** |
 | Number: | 63 |
@@ -13,7 +11,6 @@
 | Start: | 13 October 2014 |
 | End: | 23 January 2015 |
 | Duration (in days): |  |
-|  | |
 
 **Iron Walls Iron Heart** (Age 63) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

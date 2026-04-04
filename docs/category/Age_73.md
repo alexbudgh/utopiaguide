@@ -1,7 +1,5 @@
 # Age 73
 
-|  |  |
-| --- | --- |
 | **Age 73** | |
 | Name: | **The Age of Tricksters and Mischief** |
 | Number: | 73 |
@@ -13,7 +11,6 @@
 | Start: | 11 Aug 2017 |
 | End: |  |
 | Duration (in days): |  |
-|  | |
 
 **The Age of Tricksters and Mischief** (Age 73) - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

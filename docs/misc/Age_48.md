@@ -1,7 +1,5 @@
 # Age 48
 
-|  |  |
-| --- | --- |
 | **Age 48** | |
 | Name: | **The Age of Peril** |
 | Number: | 48 |
@@ -13,7 +11,6 @@
 | Start: | 10 September 2011 |
 | End: | 10 December 2011 |
 | Duration (in days): | 92 |
-|  | |
 
 **The Age of Peril** (Age 48) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

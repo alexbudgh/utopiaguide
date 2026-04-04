@@ -1,7 +1,5 @@
 # Age 79
 
-|  |  |
-| --- | --- |
 | **Age 79** | |
 | Name: | **Vanguards Acquiescence** |
 | Number: | 79 |
@@ -13,7 +11,6 @@
 | Start: | Nov 2018 |
 | End: |  |
 | Duration (in days): |  |
-|  | |
 
 **Vanguards Acquiescence**  - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

@@ -1,7 +1,5 @@
 # Age 89
 
-|  |  |
-| --- | --- |
 | **Age 89** | |
 | Name: | **Reformation** |
 | Number: | 89 |
@@ -13,7 +11,6 @@
 | Start: | 23 November 2020 |
 | End: | 30 January 2021 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Reformation** - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

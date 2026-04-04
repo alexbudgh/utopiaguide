@@ -1,7 +1,5 @@
 # Age 97
 
-|  |  |
-| --- | --- |
 | **Age 97** | |
 | Name: | **Dominance** |
 | Number: | 97 |
@@ -13,7 +11,6 @@
 | Start: | Wednesday June 29, 2022 @ 18:00 GMT |
 | End: | Saturday, September 3, 2022 @ 00:00 GMT |
 | Duration (in days): | 67 |
-|  | |
 
 # Dominance
 

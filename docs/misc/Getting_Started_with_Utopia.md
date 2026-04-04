@@ -24,9 +24,6 @@ Invest in [science](../main/Science_Formulas.md) for steady, long-term bonuses. 
 
 Balance troop drafting and wages carefully to maintain a strong defense without harming your economy. Collaborate with kingdom allies to improve your military strength.
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | **Getting Started with Utopia**  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

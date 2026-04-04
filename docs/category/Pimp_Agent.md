@@ -1,11 +1,7 @@
 # Pimp Agent
 
-|  |
-| --- |
 | **This is part of the Utopia WIKI [Tools Series](#).** |
 
-|  |  |
-| --- | --- |
 | |  | | --- | | **THIS PAGE** describes the Pimp Agent tool/addon for Utopia. If you have any queries with regards to the tool, direct your enquiries to the specific developer (refer below). | |
 
 ## What is Pimp Agent?
@@ -25,8 +21,6 @@ An Add-on for [Mozilla Firefox](../misc/Mozilla_Firefox.md) which makes it which
 
 ## Features of Pimp Agent
 
-|  |
-| --- |
 | **Features List** |
 | Send all ops (attack, thief, mage) straight to Utopiapimp with a single mouse click |
 | Send all self-intelligence and enemy-intelligence, including kingdom pages and CE/kingdom news |

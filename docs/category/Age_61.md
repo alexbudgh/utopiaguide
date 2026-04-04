@@ -1,7 +1,5 @@
 # Age 61
 
-|  |  |
-| --- | --- |
 | **Age 61** | |
 | Name: | **Age of Destruction** |
 | Number: | 61 |
@@ -13,7 +11,6 @@
 | Start: | 21 March 2014 |
 | End: |  |
 | Duration (in days): |  |
-|  | |
 
 **Age of Destruction** (Age 61) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
 

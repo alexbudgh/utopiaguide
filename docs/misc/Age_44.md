@@ -1,7 +1,5 @@
 # Age 44
 
-|  |  |
-| --- | --- |
 | **Age 44** | |
 | Name: | **The Age of Change** |
 | Number: | 44 |
@@ -13,7 +11,6 @@
 | Start: | 07 August 2009 |
 | End: | 14 October 2009 |
 | Duration (in days): | 69 |
-|  | |
 
 **The Age of Change** (Age 44) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

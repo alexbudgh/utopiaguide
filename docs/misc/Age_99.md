@@ -1,7 +1,5 @@
 # Age 99
 
-|  |  |
-| --- | --- |
 | **Age 99** | |
 | Name: | **Crossing Boundaries** |
 | Number: | 99 |
@@ -13,7 +11,6 @@
 | Start: | Monday, November 21, 2022 @ 18:00 GMT |
 | End: | Saturday, February 4, 2023 @ 00:00 GMT |
 | Duration (in days): | 76 |
-|  | |
 
 # Crossing Boundaries
 

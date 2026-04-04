@@ -1,7 +1,5 @@
 # Age 68
 
-|  |  |
-| --- | --- |
 | **Age 68** | |
 | Name: | **Heresy** |
 | Number: | 68 |
@@ -13,7 +11,6 @@
 | Start: | 19 Apr 2016 |
 | End: | 5 Aug 2016 |
 | Duration (in days): | 15 weeks |
-|  | |
 
 **The Age of Heresy** (Age 68) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

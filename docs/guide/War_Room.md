@@ -18,9 +18,6 @@
 - [Military](Military.md)
 - War
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

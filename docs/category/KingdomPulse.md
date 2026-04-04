@@ -1,15 +1,9 @@
 # Kingdom:Pulse
 
-|  |  |
-| --- | --- |
 | |  | | --- | |  |  **Kingdom - Kingdom:Pulse** |
 
-|  |
-| --- |
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
-|  |  |
-| --- | --- |
 | **Kingdom:Pulse** | |
 | Alliance Affliations: | TCL |
 | **Contact** | |
@@ -19,7 +13,6 @@
 | Contact: | #Pulse @ Utonet |
 | **Founded** | |
 | Age: |  |
-|  | |
 
 *"""The best there is, the best there was, and the best there ever will be." - Bret the Hitman Hart" - Michael Scott" - Pulse*
 

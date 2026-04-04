@@ -12,8 +12,6 @@ Deprecated. Already added content to the [Explore](Explore.md) and [Growth](../g
 Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **[Builders Boon](../guide/Mystics.md)** | 0.75 | 1 |
 | **Double Speed** | 0.5 | 1 |
@@ -27,8 +25,6 @@ Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double S
 Construction Costs = 0.05*(land+10000) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Double Speed** | 2 | 1 |
 | **Race: Dwarf** | 0.5 | 1 |
@@ -60,8 +56,6 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 
 - Changes in Building Efficiency take effect gradually.
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Race: Dwarf** | 1.25 | 1 |
 | **Dragon: [Topaz](../category/Dragons.md)** | 0.75 | 1 |

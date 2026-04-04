@@ -1,7 +1,5 @@
 # Age 85
 
-|  |  |
-| --- | --- |
 | **Age 85** | |
 | Name: | **Intuition** |
 | Number: | 85 |
@@ -13,7 +11,6 @@
 | Start: | 4 Mar 2020 |
 | End: |  |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Intuition**  - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

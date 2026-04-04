@@ -1,7 +1,5 @@
 # Age 94
 
-|  |  |
-| --- | --- |
 | **Age 94** | |
 | Name: | ' |
 | Number: | 94 |
@@ -13,7 +11,6 @@
 | Start: | Monday Nov 22, 2021 @ 18:00 GMT |
 | End: | Saturday Jan 29, 2022 @ 00:00 GMT |
 | Duration (in days): | 69 |
-|  | |
 
 # Age 94
 

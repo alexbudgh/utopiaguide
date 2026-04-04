@@ -1,7 +1,5 @@
 # Age 93
 
-|  |  |
-| --- | --- |
 | **Age 93** | |
 | Name: | **Occult Ordination** |
 | Number: | 93 |
@@ -13,7 +11,6 @@
 | Start: | Tuesday Sept 7, 2021 @ 18:00 GMT |
 | End: | Saturday Nov 20, 2021 @ 00:00 GMT |
 | Duration (in days): | 74 |
-|  | |
 
 # **Occult Ordination**
 

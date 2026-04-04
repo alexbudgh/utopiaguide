@@ -1,7 +1,5 @@
 # Age 77
 
-|  |  |
-| --- | --- |
 | **Age 77** | |
 | Name: | **The Age of Accession and Abrogation** |
 | Number: | 77 |
@@ -13,7 +11,6 @@
 | Start: | 16 Jul 2018 |
 | End: | 6 Oct 2018 |
 | Duration (in days): | 12 weeks |
-|  | |
 
 **The Age of Accession and Abrogation**  (Age 77) - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

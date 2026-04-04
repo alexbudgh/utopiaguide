@@ -1,7 +1,5 @@
 # Age 81
 
-|  |  |
-| --- | --- |
 | **Age 81** | |
 | Name: | **The Emergence** |
 | Number: | 81 |
@@ -13,7 +11,6 @@
 | Start: | 1 May 2019 |
 | End: | 20 Jul 2019 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **The Emergence**  - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

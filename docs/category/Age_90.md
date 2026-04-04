@@ -1,7 +1,5 @@
 # Age 90
 
-|  |  |
-| --- | --- |
 | **Age 90** | |
 | Name: | **Age of Exile** |
 | Number: | 90 |
@@ -13,7 +11,6 @@
 | Start: | February 1, 2021 @ 18:00 GMT+0 |
 | End: | April 10, 2021 @ 00:00 GMT +0 |
 | Duration (in days): | 69 |
-|  | |
 
 **Age of Exile** - current [Age](#) on [World of Legends](World_of_Legends.md) server.
 

@@ -65,8 +65,6 @@ Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + D
 Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Race Bonus * Hospitals Bonus * EOWCF * Chastity - Storms)) + (Homes bonus * Chastity) - Drafted Soldiers - Wizards Trained
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Love & Peace** | 0.85% | 0 |
 | **Storms** | 1.5% | 0 |

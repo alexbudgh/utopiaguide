@@ -1,7 +1,5 @@
 # Age 80
 
-|  |  |
-| --- | --- |
 | **Age 80** | |
 | Name: | **Age of Reconnaissance** |
 | Number: | 80 |
@@ -13,7 +11,6 @@
 | Start: | 6 Feb 2019 |
 | End: | 27 Apr 2019 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Age of Reconnaissance**  - completed Age on [World of Legends](../category/World_of_Legends.md) server.
 

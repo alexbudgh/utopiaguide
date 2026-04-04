@@ -1,7 +1,5 @@
 # Age 75
 
-|  |  |
-| --- | --- |
 | **Age 75** | |
 | Name: | **The Age of Empowering Enchantments** |
 | Number: | 75 |
@@ -13,7 +11,6 @@
 | Start: | 30 Jan 2018 |
 | End: | 20 Apr 2018 |
 | Duration (in days): | 12 weeks |
-|  | |
 
 **The Age of Empowering Enchantments** (Age 75) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
 

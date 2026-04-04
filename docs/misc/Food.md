@@ -8,8 +8,6 @@
 Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
 ```
 
-|  |  |  |
-| --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | Race: [Undead](../main/Race.md) | 0 | 1 |
 | Race: [Dwarf](../main/Race.md) | 1.5 | 1 |
@@ -25,8 +23,6 @@ Base Food Production     = ((Farms * 60) * Building Efficiency) + (Barren Land *
 Modified Food Production = Base Food Production * Production Science Mod * Fertile Lands Mod * Drought Mod * Honor Mod
 ```
 
-|  |  |
-| --- | --- |
 | **Condition** | **Modifier** |
 | [Fertile Lands](../guide/Mystics.md) | 1.25 |
 | [Drought](../guide/Mystics.md) | 0.75 |

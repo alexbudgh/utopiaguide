@@ -90,9 +90,6 @@ Be sure to check out the Ambush Guide if you are still unclear.
 - [Attacking & Defending](../category/Attacking_&_Defending.md)
 - [Units](../misc/Units.md)
 
-|  |  |
-| --- | --- |
-
 | **The Utopia Guide** | |
 | --- | --- |
 | Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |

@@ -1,7 +1,5 @@
 # Age 49
 
-|  |  |
-| --- | --- |
 | **Age 49** | |
 | Name: | **The Age of Conspiracy** |
 | Number: | 49 |
@@ -13,7 +11,6 @@
 | Start: | 15 December 2011 |
 | End: | 30 March 2011 |
 | Duration (in days): | 106 |
-|  | |
 
 **The Age of Conspiracy** (Age 49) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

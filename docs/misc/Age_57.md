@@ -1,7 +1,5 @@
 # Age 57
 
-|  |  |
-| --- | --- |
 | **Age 57** | |
 | Name: | **Relentless Onslaught** |
 | Number: | 57 |
@@ -13,7 +11,6 @@
 | Start: | 15 February 2013 |
 | End: | 4 June 2013 |
 | Duration (in days): | 110 |
-|  | |
 
 **Relentless Onslaught** (Age 57) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

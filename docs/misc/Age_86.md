@@ -1,7 +1,5 @@
 # Age 86
 
-|  |  |
-| --- | --- |
 | **Age 86** | |
 | Name: | **Global Viction** |
 | Number: | 86 |
@@ -13,7 +11,6 @@
 | Start: | 18 May 2020 |
 | End: |  |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Global Viction**
 

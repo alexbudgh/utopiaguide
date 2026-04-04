@@ -1,7 +1,5 @@
 # Age 56
 
-|  |  |
-| --- | --- |
 | **Age 56** | |
 | Name: | **Strength in Union** |
 | Number: | 56 |
@@ -13,7 +11,6 @@
 | Start: | 16 November 2012 |
 | End: | 12 February 2013 |
 | Duration (in days): | 88 |
-|  | |
 
 **Strength in Union** (Age 56) - finished Age on [World of Legends](../category/World_of_Legends.md) server.
 

@@ -1,7 +1,5 @@
 # Age 83
 
-|  |  |
-| --- | --- |
 | **Age 83** | |
 | Name: | **Age of Adjudication** |
 | Number: | 83 |
@@ -13,7 +11,6 @@
 | Start: | 2 Oct 2019 |
 | End: | 14 Dec 2019 |
 | Duration (in days): | 11 weeks |
-|  | |
 
 **Age of Adjudication**  - completed [Age](#) on [World of Legends](World_of_Legends.md) server.
 
