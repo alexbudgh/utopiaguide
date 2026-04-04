@@ -8,10 +8,17 @@ As Honor can be gained, it can also be lost. Because Honor is captured and not c
 
 # Titles of Nobility
 
-| *Honor Ranks* | | | *Effects* | | | | | | | |
+| **♂ Rank** | **♀ Rank** | **Range** | **Pop** | **OME** | **Income** | **Food** | **Runes** | **WPA** | **TPA** | **Votes** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **♂**         **Rank**         **♀** | **Lower Range** | **Upper Limit** | **Population** | **Offensive Military Efficiency** | **Income** | **Food** | **Runes** | **Mod WPA** | **Mod TPA** | **Votes** |
-| | Peasant | | | | --- | --- | --- | | **Knight**  **Lord**  **Baron**  **Viscount**  **Count**  **Marquis**  **Duke**  **Prince** | /  /  /  /  /  /  /  / | Lady  Noble Lady  Baroness  Viscountess  Countess  Marchioness  Duchess  Princess | | 0  751  1501  2251  3001  3751  4501  5251 6001 | 750  1500  2250  3000  3750  4500  5250  6000 ∞ | 1  1.01  1.02  1.03  1.04  1.06  1.08  1.1 1.12 | 1  1.01  1.02  1.03  1.04  1.06  1.08  1.1 1.12 | 1  1.02  1.04  1.06  1.08  1.12  1.16  1.2 1.24 | 1  1.02  1.04  1.06  1.08  1.12  1.16  1.2 1.24 | 1  1.02  1.04  1.06  1.08  1.12  1.16  1.2 1.24 | 1  1.03  1.06  1.09  1.12  1.18  1.24  1.3 1.36 | 1  1.03  1.06  1.09  1.12  1.18  1.24  1.3 1.36 | 1  2  3  4  5  7  9  10 10 |
+| Peasant | Peasant | 0 – 750 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 1 |
+| Knight | Lady | 751 – 1500 | 1.01 | 1.01 | 1.02 | 1.02 | 1.02 | 1.03 | 1.03 | 2 |
+| Lord | Noble Lady | 1501 – 2250 | 1.02 | 1.02 | 1.04 | 1.04 | 1.04 | 1.06 | 1.06 | 3 |
+| Baron | Baroness | 2251 – 3000 | 1.03 | 1.03 | 1.06 | 1.06 | 1.06 | 1.09 | 1.09 | 4 |
+| Viscount | Viscountess | 3001 – 3750 | 1.04 | 1.04 | 1.08 | 1.08 | 1.08 | 1.12 | 1.12 | 5 |
+| Count | Countess | 3751 – 4500 | 1.06 | 1.06 | 1.12 | 1.12 | 1.12 | 1.18 | 1.18 | 7 |
+| Marquis | Marchioness | 4501 – 5250 | 1.08 | 1.08 | 1.16 | 1.16 | 1.16 | 1.24 | 1.24 | 9 |
+| Duke | Duchess | 5251 – 6000 | 1.10 | 1.10 | 1.20 | 1.20 | 1.20 | 1.30 | 1.30 | 10 |
+| Prince | Princess | 6001+ | 1.12 | 1.12 | 1.24 | 1.24 | 1.24 | 1.36 | 1.36 | 10 |
 
 ## Honor when province is created
 
@@ -61,7 +68,7 @@ If you enter vacation mode within the first days of the game you will not gain h
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](Province.md)  • [World of Legends](World_of_Legends.md)  • [Formulas](#) |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](Province.md)  • [World of Legends](World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |
