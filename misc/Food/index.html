@@ -5436,37 +5436,10 @@
 <h2 id="food-consumed">Food Consumed</h2>
 <pre><code>Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
 </code></pre>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Modifier Type</strong></td>
-<td><strong>Active</strong></td>
-<td><strong>Otherwise</strong></td>
-</tr>
-<tr>
-<td>Race: <a href="../../main/Race/">Undead</a></td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Race: <a href="../../main/Race/">Dwarf</a></td>
-<td>1.5</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Spell: <a href="../../guide/Mystics/">Gluttony</a></td>
-<td>1.25</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
+<p>| <strong>Modifier Type</strong> | <strong>Active</strong> | <strong>Otherwise</strong> |
+| Race: <a href="../../main/Race/">Undead</a> | 0 | 1 |
+| Race: <a href="../../main/Race/">Dwarf</a> | 1.5 | 1 |
+| Spell: <a href="../../guide/Mystics/">Gluttony</a> | 1.25 | 1 |</p>
 <ul>
 <li>If a province has zero food, it will enter into a state of starvation. While a province is starving, its population (peasants, military units and thieves) will die off at a rate proportional to the food deficit (this also includes armies away from home). Wizards are not affected. This rate is capped at 5% and will continue until the province has a value for food greater than 0.</li>
 </ul>
@@ -5475,28 +5448,9 @@
 
 Modified Food Production = Base Food Production * Production Science Mod * Fertile Lands Mod * Drought Mod * Honor Mod
 </code></pre>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Condition</strong></td>
-<td><strong>Modifier</strong></td>
-</tr>
-<tr>
-<td><a href="../../guide/Mystics/">Fertile Lands</a></td>
-<td>1.25</td>
-</tr>
-<tr>
-<td><a href="../../guide/Mystics/">Drought</a></td>
-<td>0.75</td>
-</tr>
-</tbody>
-</table>
+<p>| <strong>Condition</strong> | <strong>Modifier</strong> |
+| <a href="../../guide/Mystics/">Fertile Lands</a> | 1.25 |
+| <a href="../../guide/Mystics/">Drought</a> | 0.75 |</p>
 <h2 id="food-decayed">Food Decayed</h2>
 <pre><code>Food Remaining = Food Stock * 0.99 + Modified Food Production - Bushels Eaten
 </code></pre>
