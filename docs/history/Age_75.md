@@ -13,7 +13,7 @@
 | End: | 20 Apr 2018 |
 | Duration (in days): | 12 weeks |
 
-**The Age of Empowering Enchantments** (Age 75) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
+**The Age of Empowering Enchantments** (Age 75) - finished age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

@@ -13,7 +13,7 @@
 | End: |  |
 | Duration (in days): | 11 weeks |
 
-**Intuition**  - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Intuition**  - current age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

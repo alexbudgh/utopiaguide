@@ -13,7 +13,7 @@
 | End: | 20 May 2017 |
 | Duration (in days): | 10 weeks |
 
-**The Metamorphosis** (Age 71) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
+**The Metamorphosis** (Age 71) - finished age on [World of Legends](World_of_Legends.md) server.
 
 # Changes in brief
 

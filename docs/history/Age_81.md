@@ -13,7 +13,7 @@
 | End: | 20 Jul 2019 |
 | Duration (in days): | 11 weeks |
 
-**The Emergence**  - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**The Emergence**  - current age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

@@ -150,4 +150,4 @@ Science Cost = Raw Cost (Table Below) * Race Mod * Schools Effect
 
 | **Obsolete and historical data** | |
 | --- | --- |
-|  | **Science**  • [Stances](#) |
+|  | **Science**  • [Stances](../main/Dragons,_Aid_&_Stances.md) |

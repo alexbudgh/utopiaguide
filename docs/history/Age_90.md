@@ -13,7 +13,7 @@
 | End: | April 10, 2021 @ 00:00 GMT +0 |
 | Duration (in days): | 69 |
 
-**Age of Exile** - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Age of Exile** - current age on [World of Legends](World_of_Legends.md) server.
 
 Original details can be found in the forums here: [http://forums.utopia-game.com/showthread.php?640093-Age-90-Final-Changes](http://forums.utopia-game.com/showthread.php?640093-Age-90-Final-Changes)
 

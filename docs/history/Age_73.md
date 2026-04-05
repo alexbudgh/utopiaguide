@@ -13,7 +13,7 @@
 | End: |  |
 | Duration (in days): |  |
 
-**The Age of Tricksters and Mischief** (Age 73) - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**The Age of Tricksters and Mischief** (Age 73) - current age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

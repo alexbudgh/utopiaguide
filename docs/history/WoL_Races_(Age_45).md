@@ -1,6 +1,6 @@
 # WoL Races (Age 45)
 
-This is a list of the current benefits and limitations for the Utopian Races on the WoL server for [Age](#) 45
+This is a list of the current benefits and limitations for the Utopian Races on the WoL server for Age 45
 
 ## Humans
 

@@ -13,7 +13,7 @@
 | End: |  |
 | Duration (in days): |  |
 
-**Age of Destruction** (Age 61) - finished [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Age of Destruction** (Age 61) - finished age on [World of Legends](World_of_Legends.md) server.
 
 # Changes in brief
 

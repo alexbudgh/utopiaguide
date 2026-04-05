@@ -1,6 +1,6 @@
 # WoL Personalities (Age 45)
 
-This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](World_of_Legends.md) server for [Age](#) 45
+This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](World_of_Legends.md) server for Age 45
 
 ### The Merchant
 

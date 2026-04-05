@@ -13,7 +13,7 @@
 | End: | ~14 Jul 2018 |
 | Duration (in days): | 12 weeks |
 
-**The Age of the Empyrean Advent**  (Age 76) - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**The Age of the Empyrean Advent**  (Age 76) - current age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

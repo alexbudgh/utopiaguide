@@ -13,7 +13,7 @@
 | End: | 29 Feb 2020 |
 | Duration (in days): | 11 weeks |
 
-**Bethink the Fray**  - completed [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Bethink the Fray**  - completed age on [World of Legends](World_of_Legends.md) server.
 
 # Mechanics Changes
 

@@ -13,7 +13,7 @@
 | End: | 30 January 2021 |
 | Duration (in days): | 11 weeks |
 
-**Reformation** - current [Age](#) on [World of Legends](World_of_Legends.md) server.
+**Reformation** - current age on [World of Legends](World_of_Legends.md) server.
 
 Original details can be found in the forums here: [http://forums.utopia-game.com/showthread.php?640039-A89-FINAL-Changes](http://forums.utopia-game.com/showthread.php?640039-A89-FINAL-Changes)
 
