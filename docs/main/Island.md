@@ -1,6 +1,6 @@
 # Island
 
-The world is divided into islands with an ocean. As the age progresses, more islands will become available to view using the [Kingdom](#) view page.
+The world is divided into islands with an ocean. As the age progresses, more islands will become available to view using the kingdom view page.
 
 The last island and first one are neighbors. On the World of Legends server, there are currently 20 islands.
 
