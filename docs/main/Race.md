@@ -29,11 +29,22 @@ No doctrine may exceed 7.5% total. Additional provinces beyond the cap provide n
 
 ## Avian
 
-**Bonuses:** -20% Attack Time · -40% Training Time
+**Bonuses:**
 
-**Penalties:** Cannot Ambush · No Access to Stables and War Horses
+- -20% Attack Time
+- -40% Training Time
 
-**Spell Book:** Town Watch, Illuminate Shadows, Divine Shield, Salvation
+**Penalties:**
+
+- Cannot Ambush
+- No Access to Stables and War Horses
+
+**Spell Book:**
+
+- Town Watch
+- Illuminate Shadows
+- Divine Shield
+- Salvation
 
 **War Doctrine — Attack Time:** Up to -5.0% Attack Time to your kingdom (cap reached at 5 provinces)
 
@@ -55,11 +66,23 @@ Learn and Plunder attacks return armies 1 tick faster (after modifiers).
 
 ## Dark Elf
 
-**Bonuses:** +25% Instant Spell Damage · -50% Rune Cost (excluding Rituals) · Can train Thieves using Specialist Credits
+**Bonuses:**
 
-**Penalties:** -25% Birth Rates
+- +25% Instant Spell Damage
+- -50% Rune Cost (excluding Rituals)
+- Can train Thieves using Specialist Credits
 
-**Spell Book:** Blizzard, Mage's Fury, Illuminate Shadows, Pitfalls, Quick Feet
+**Penalties:**
+
+- -25% Birth Rates
+
+**Spell Book:**
+
+- Blizzard
+- Mage's Fury
+- Illuminate Shadows
+- Pitfalls
+- Quick Feet
 
 **War Doctrine — Instant Spell Damage:** Up to +7.5% Instant Spell Damage to your kingdom
 
@@ -81,11 +104,23 @@ Successful offensive instant spells refund 20% of the rune cost.
 
 ## Dwarf
 
-**Bonuses:** +25% Building Efficiency · -50% Construction Time · +20% Building Credits in Combat
+**Bonuses:**
 
-**Penalties:** Cannot Accelerate Construction · +10% Attack Time
+- +25% Building Efficiency
+- -50% Construction Time
+- +20% Building Credits in Combat
 
-**Spell Book:** Miner's Mystique, Town Watch, Reflect Magic, Mist
+**Penalties:**
+
+- Cannot Accelerate Construction
+- +10% Attack Time
+
+**Spell Book:**
+
+- Miner's Mystique
+- Town Watch
+- Reflect Magic
+- Mist
 
 **War Doctrine — Specialist Credits:** Up to +7.5% Specialist Credits gained in combat to your kingdom
 
@@ -107,11 +142,21 @@ Incoming Raze damage is reduced by 15%. Your Raze attacks destroy 20% additional
 
 ## Elf
 
-**Bonuses:** +30% Magic Effectiveness (WPA) · +1 Mana Per Tick in War
+**Bonuses:**
 
-**Penalties:** -20% TPA
+- +30% Magic Effectiveness (WPA)
+- +1 Mana Per Tick in War
 
-**Spell Book:** Pitfalls, Wrath, Fountain of Knowledge, Revelation
+**Penalties:**
+
+- -20% TPA
+
+**Spell Book:**
+
+- Pitfalls
+- Wrath
+- Fountain of Knowledge
+- Revelation
 
 **War Doctrine — Military Casualties Taken:** Up to -7.5% Military Casualties Taken to your kingdom
 
@@ -133,11 +178,30 @@ While mana is below 40%, offensive spells deal +25% spell damage. The boost disa
 
 ## Faery
 
-**Bonuses:** +25% Spell Duration (offensive and self) · +25% WPA · +1 Mana Recovery per Tick
+**Bonuses:**
 
-**Penalties:** -10% Building Efficiency · +15% Military Wages
+- +25% Spell Duration (offensive and self)
+- +25% WPA
+- +1 Mana Recovery per Tick
 
-**Spell Book:** Tree of Gold, Quick Feet, Town Watch, Blizzard, Mage's Fury, Greater Protection, Fountain of Knowledge, Miner's Mystique, Pitfalls, Revelation, Animate Dead
+**Penalties:**
+
+- -10% Building Efficiency
+- +15% Military Wages
+
+**Spell Book:**
+
+- Tree of Gold
+- Quick Feet
+- Town Watch
+- Blizzard
+- Mage's Fury
+- Greater Protection
+- Fountain of Knowledge
+- Miner's Mystique
+- Pitfalls
+- Revelation
+- Animate Dead
 
 **War Doctrine — Thievery and Magic Damage:** Up to -7.5% damage from enemy Thievery and Magic instant operations to your kingdom
 
@@ -159,11 +223,20 @@ Enemy spells cast against Faery provinces have a 15% chance to fail completely.
 
 ## Halfling
 
-**Bonuses:** +10% Population · +1 Stealth Regeneration Per Tick · +20% Thievery Effectiveness (TPA)
+**Bonuses:**
 
-**Penalties:** +15% Military Casualties (attack and defence)
+- +10% Population
+- +1 Stealth Regeneration Per Tick
+- +20% Thievery Effectiveness (TPA)
 
-**Spell Book:** Town Watch, Greater Protection
+**Penalties:**
+
+- +15% Military Casualties (attack and defence)
+
+**Spell Book:**
+
+- Town Watch
+- Greater Protection
 
 **War Doctrine — Sabotage Damage:** Up to +7.5% Sabotage damage to your kingdom
 
@@ -186,11 +259,24 @@ Cooldown: 23 Hours
 
 ## Human
 
-**Bonuses:** All Lands hold Prisoners — 2 per Acre · +1 Stealth In War · +15% Science Efficiency
+**Bonuses:**
 
-**Penalties:** Military wage increases take twice as long to fully apply (reductions apply normally) · +50% Rune Cost (excluding Rituals) · -50% Libraries Building Effectiveness
+- All Lands hold Prisoners — 2 per Acre
+- +1 Stealth In War
+- +15% Science Efficiency
 
-**Spell Book:** Fountain of Knowledge, Revelation, Invisibility, Guile
+**Penalties:**
+
+- Military wage increases take twice as long to fully apply (reductions apply normally)
+- +50% Rune Cost (excluding Rituals)
+- -50% Libraries Building Effectiveness
+
+**Spell Book:**
+
+- Fountain of Knowledge
+- Revelation
+- Invisibility
+- Guile
 
 **War Doctrine — Book Generation:** Up to +7.5% Book Generation to your kingdom
 
@@ -212,11 +298,19 @@ Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 
 
 ## Orc
 
-**Bonuses:** +15% Battle Gains · -50% Draft Cost
+**Bonuses:**
 
-**Penalties:** -15% Defensive Military Efficiency (DME)
+- +15% Battle Gains
+- -50% Draft Cost
 
-**Spell Book:** Aggression, Bloodlust
+**Penalties:**
+
+- -15% Defensive Military Efficiency (DME)
+
+**Spell Book:**
+
+- Aggression
+- Bloodlust
 
 **War Doctrine — Enemy Military Casualties:** Up to +7.5% Enemy Military Casualties to your kingdom
 
@@ -238,11 +332,19 @@ Successful Traditional Marches capture +30% additional Prisoners. Massacre attac
 
 ## Undead
 
-**Bonuses:** -40% Military Losses (attack and defence) · Plague Immunity · No Food Requirement
+**Bonuses:**
 
-**Penalties:** -5% Offensive Military Efficiency (OME)
+- -40% Military Losses (attack and defence)
+- Plague Immunity
+- No Food Requirement
 
-**Spell Book:** Animate Dead
+**Penalties:**
+
+- -5% Offensive Military Efficiency (OME)
+
+**Spell Book:**
+
+- Animate Dead
 
 **War Doctrine — Enemy Battle Gains:** Up to -7.5% Enemy Battle Gains to your kingdom
 
