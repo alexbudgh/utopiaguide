@@ -41,24 +41,40 @@ The GitHub Actions workflow builds and deploys automatically on every push to `m
 
 ## Structure
 
-```
+The site navigation is defined in `mkdocs.yml`, and the published content currently lives under these sections:
+
+```text
 docs/
 ├── index.md              # Home page
-├── main/                 # Core game reference (Race, Science, Buildings, etc.)
-├── guide/                # Guides (Growth, Military, Mystics, War Room, etc.)
-├── ages/                 # Age-specific content (Personality)
-├── history/              # Age history, Genesis, World of Legends, developers
-├── misc/                 # Player guides, mechanics, tools, community pages
-├── formulas/             # Game formulas (Overpopulation, etc.)
-├── tools/                # External tools (UtopiaPimp, Target Finder, etc.)
+├── main/                 # Core game reference and mechanics
+├── guide/                # Guides, strategy, and player how-tos
+├── history/              # Ages, Genesis, World of Legends, historical data
+├── misc/                 # Mechanics, community pages, and miscellany
+├── formulas/             # Formula reference pages
+├── tools/                # External tool documentation
 ├── alliances/            # Alliance pages
 ├── kingdoms/             # Kingdom pages
 ├── players/              # Player profile pages
-└── stylesheets/          # Custom CSS (extra.css)
+├── stylesheets/          # Custom CSS (extra.css)
+└── CNAME                 # Custom domain for GitHub Pages
+```
+
+Current MkDocs nav groupings:
+
+- `Game Reference`: mostly `docs/main/`
+- `Guides` and `Player Guides`: `docs/guide/`
+- `Mechanics`: content split across `docs/main/`, `docs/misc/`, and `docs/formulas/`
+- `History`: mostly `docs/history/` with some historical pages in `docs/misc/`
+- `Community & Tools`: content from `docs/tools/`, `docs/misc/`, `docs/players/`, `docs/alliances/`, and `docs/kingdoms/`
+- `About`: informational pages in `docs/misc/`
+
+Repo files of note:
+
+```text
 scrape_wiki.py            # Wayback Machine scraper
 rescrape_broken.py        # Re-scrape garbled pages
 fix_links.py              # Fix internal links
-mkdocs.yml                # Site configuration
+mkdocs.yml                # Site configuration and navigation
 requirements.txt          # Python dependencies
 .github/workflows/
 └── deploy.yml            # Auto-deploy to GitHub Pages on push to master
