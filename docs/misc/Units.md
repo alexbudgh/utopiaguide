@@ -1,19 +1,19 @@
 # Units
 
-Unit types available in Utopia. Racial and personality bonuses are not included unless noted.
+Unit types available in Utopia. Racial and personality bonuses are not included unless noted. For networth values see [Networth](../main/Networth.md).
 
-| Unit | Offense | Defense | Cost | Networth |
-| --- | --- | --- | --- | --- |
-| **Peasants** | — | — | — | 0.25 |
-| **Soldiers** | 3† | 0† | Varies | 0.25 per point of power |
-| **Offensive Specialists** | 10† | 0 | 350gc | 0.4 per point of power |
-| **Defensive Specialists** | 0 | 10† | 350gc | 0.5 per point of power |
-| **Elites** | Varies | Varies | Varies | Varies |
-| **Wizards** | — | — | — | 7 |
-| **Thieves** | — | — | 500gc | 5 |
-| **Horses** | 2† | — | — | 0.3 per point of power |
-| **Prisoners** | 8† | — | — | 0.2 per point of power |
-| **Mercenaries** | 8† | — | 300gc | — |
+| Unit | Offense | Defense | Cost |
+| --- | --- | --- | --- |
+| **Peasants** | — | — | — |
+| **Soldiers** | 3† | 0† | Varies |
+| **Offensive Specialists** | 10† | 0 | 350gc |
+| **Defensive Specialists** | 0 | 10† | 350gc |
+| **Elites** | Varies | Varies | Varies |
+| **Wizards** | — | — | — |
+| **Thieves** | — | — | 500gc |
+| **Horses** | 2† | — | — |
+| **Prisoners** | 8† | — | — |
+| **Mercenaries** | 8† | — | 300gc |
 
 † [Racial](../main/Race.md) and [Personality](../ages/Personality.md) modifiers can increase or decrease this value.
 
