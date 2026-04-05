@@ -2,7 +2,7 @@
 
 ## Wizards Per Acre
 
-The ratio of your [WPA](#) to your opponent's WPA will determine the success rate of your conducted magic spells.
+The ratio of your WPA to your opponent's WPA will determine the success rate of your conducted magic spells.
 
 ### Raw WPA
 
@@ -114,9 +114,3 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Hero's Inspiration | 70% / 75% | 1.1 | No | No | No | No | No | No | No | No | No | 14 | No | Reduces wages by 30% and training time by 25%. Only available to [War Hero](../main/Personality.md). |
 | Spell | Spell-Bonus | Cost Multiplier | Avian | Dark Elf | Dwarf | Elf | Faery | Halfling | Human | Orc | Undead | Duration (Average) | Support Spell | Description |
-
-## Additional Information
-
-- [Percent Guilds](#)
-- [WPA](#)
-- [Mystics](Mystics.md)
