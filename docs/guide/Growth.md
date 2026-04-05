@@ -26,13 +26,6 @@ The **Growth** page also gives you the option to:
 - whether or not to use available credits
 - and the option to either raze or cancel buildings.
 
-| **Buildings** | |
-| --- | --- |
-| Civil Buildings | [Barren Lands](Growth.md)  • [Homes](Growth.md)  • [Farms](Growth.md)  • [Mills](Growth.md)  • [Banks](Growth.md) |
-| Military Buildings | [Training Grounds](Growth.md)  • [Armouries](Growth.md)  • [Barracks](Growth.md)  • [Forts](Growth.md)  • [Guard Stations](Growth.md)  • [Hospitals](Growth.md)  • [Stables](Growth.md)  • [Dungeons](Growth.md) |
-| Thievery and Mystic Buildings | [Guilds](Growth.md)  • [Towers](Growth.md)  • [Thieves' Dens](Growth.md)  • [Watchtowers](Growth.md) |
-| Science Buildings | [Universities](Growth.md)  • [Libraries](Growth.md) |
-
 ## Build Table
 
 Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes, Stables, Dungeons can hold the specified number regardless of BE).
@@ -306,10 +299,3 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 - In general, the Max Effect of a %-Based Building is 25 x Base Effect (exceptions apply, refer to table)
 - If your BE is less than 100%, the effect you would have with 50% of that building is the maximum.
 - If you have less than 100% BE, additional buildings past 50% will have no effect.
-
-| **Buildings** | |
-| --- | --- |
-| Civil Buildings | [Barren Lands](Growth.md)  • [Homes](Growth.md)  • [Farms](Growth.md)  • [Mills](Growth.md)  • [Banks](Growth.md) |
-| Military Buildings | [Training Grounds](Growth.md)  • [Armouries](Growth.md)  • [Barracks](Growth.md)  • [Forts](Growth.md)  • [Guard Stations](Growth.md)  • [Hospitals](Growth.md)  • [Stables](Growth.md)  • [Dungeons](Growth.md) |
-| Thievery and Mystic Buildings | [Guilds](Growth.md)  • [Towers](Growth.md)  • [Thieves' Dens](Growth.md)  • [Watchtowers](Growth.md) |
-| Science Buildings | [Universities](Growth.md)  • [Libraries](Growth.md) |
