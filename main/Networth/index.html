@@ -669,6 +669,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Networth
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -685,6 +703,47 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#formula" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Formula
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nw-reference-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        NW Reference Table
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -5020,6 +5079,36 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#formula" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Formula
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nw-reference-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        NW Reference Table
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -5036,41 +5125,19 @@
 
 
 <h1 id="networth">Networth</h1>
-<p><strong>Networth</strong> is a nominal value in gold coins of a <a href="../Province/">Province</a>/<a href="#">Kingdom</a>.</p>
-<h1 id="formula">Formula</h1>
-<div class="highlight"><pre><span></span><code>Total Networth =  (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Offspec NW) 
-     + (Def Specs * Defspec NW) + (Elites * Elite NW) + (Money / 1000) + (Horses * Off value * 0.3) + (Prisoners * Off value * 0.2)
-     + (Thieves * 5) + (Wizards * 5) + (Books * 0.000007 * Acres) + (Barren Land * 40)  
-     + (Buildings * 60) + (Buildings in Progress * 50)
+<p><strong>Networth</strong> is a nominal gold coin value representing the size and strength of a <a href="../Province/">Province</a> or Kingdom.</p>
+<h2 id="formula">Formula</h2>
+<div class="highlight"><pre><span></span><code>Total Networth = (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Offspec NW)
+     + (Def Specs * Defspec NW) + (Elites * Elite NW) + (Money / 1000) + (Horses * Off value * 0.3)
+     + (Prisoners * Off value * 0.2) + (Thieves * 5) + (Wizards * 7) + (Books * 0.000007 * Acres)
+     + (Barren Land * 40) + (Buildings * 60) + (Buildings in Progress * 50)
 </code></pre></div>
-<h1 id="table-indexes">Table indexes</h1>
+<h2 id="nw-reference-table">NW Reference Table</h2>
 <table>
 <thead>
 <tr>
-<th><strong>Item</strong></th>
-<th><strong>NW Value</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Building (complete)</td>
-<td>60</td>
-</tr>
-<tr>
-<td>Building (under construction)</td>
-<td>50</td>
-</tr>
-<tr>
-<td>Barren Acre</td>
-<td>40</td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th><strong>Item</strong></th>
-<th><strong>NW Value</strong></th>
+<th>Item</th>
+<th>NW Value</th>
 </tr>
 </thead>
 <tbody>
@@ -5079,42 +5146,32 @@
 <td>0.25</td>
 </tr>
 <tr>
-<td><a href="../../misc/Units/">Soldier</a></td>
-<td>(Off Points + Def Points) * 0.25</td>
+<td>Soldier</td>
+<td>(Offense + Defense Points) × 0.25</td>
 </tr>
 <tr>
 <td>Soldier (in training)</td>
 <td>0</td>
 </tr>
 <tr>
-<td>Offense specialist</td>
-<td>Offense Points * 0.4</td>
+<td>Offensive Specialist</td>
+<td>Offense Points × 0.4</td>
 </tr>
 <tr>
-<td>Defense specialist</td>
-<td>Defense Points * 0.5</td>
+<td>Defensive Specialist</td>
+<td>Defense Points × 0.5</td>
 </tr>
 <tr>
 <td>Elite</td>
-<td>Variable (see <a href="../Race/">Race</a> entry)</td>
+<td>Variable — see <a href="../Race/">Race</a></td>
 </tr>
-</tbody>
-</table>
-<table>
-<thead>
 <tr>
-<th><strong>Item</strong></th>
-<th><strong>NW Value</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="../../misc/Units/">Horse</a></td>
-<td>Offense Points * 0.3</td>
+<td>Horse</td>
+<td>Offense Points × 0.3</td>
 </tr>
 <tr>
 <td>Prisoner</td>
-<td>Offense Points * 0.2</td>
+<td>Offense Points × 0.2</td>
 </tr>
 <tr>
 <td>Thief</td>
@@ -5122,7 +5179,7 @@
 </tr>
 <tr>
 <td>Wizard</td>
-<td>5</td>
+<td>7</td>
 </tr>
 <tr>
 <td>Food</td>
@@ -5133,11 +5190,24 @@
 <td>0</td>
 </tr>
 <tr>
-<td><a href="../Science_Formulas/">Science Book</a></td>
-<td>Acres * 0.000007</td>
+<td>Science Book</td>
+<td>Acres × 0.000007</td>
+</tr>
+<tr>
+<td>Barren Acre</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Building (complete)</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Building (under construction)</td>
+<td>50</td>
 </tr>
 </tbody>
 </table>
+<p>See <a href="../../misc/Units/">Units</a> for full unit descriptions and draft/training formulas.</p>
 
 
 
