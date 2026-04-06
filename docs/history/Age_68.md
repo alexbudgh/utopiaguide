@@ -244,7 +244,7 @@ Starts with 400 elites
 - +30% Birth Rate
 - Ambush Immunity
 - +1 General
-**Spells:** Fanaticism, Greater Protection
+- **Spells:** Fanaticism, Greater Protection
 - Elite: 9/3, 750gc, 8.75NW
 
 ### Dwarves
@@ -253,7 +253,7 @@ Starts with 400 elites
 - Can use credits to raze buildings
 - -50% Building Construction Time
 - -50% food consumption
-**Spells:** Clear Sight, Mystic Aura
+- **Spells:** Clear Sight, Mystic Aura
 - Can't use Accelerated Construction
 - Elite: 7/7, 700gc, 10NW
 
@@ -263,7 +263,7 @@ Starts with 400 elites
 - +2 Defensive Specialist strength
 - -30% defensive losses
 - +100% land effect from Towers
-**Spells:** Fools gold, Pitfalls, Invisibility
+- **Spells:** Fools gold, Pitfalls, Invisibility
 - 7/6, 750gc, 8.5NW
 
 ### Faeries
@@ -273,7 +273,7 @@ Starts with 400 elites
 - +20% Spell duration
 - +1 mana per tick in War
 - +1 stealth per tick
-**Spells:** Access to All Racial Spells and Tree of Gold
+- **Spells:** Access to All Racial Spells and Tree of Gold
 - Elite: 5/9, 1200gc, 11NW
 
 ### Halflings
@@ -282,14 +282,14 @@ Starts with 400 elites
 - +2 offensive specialist strength
 - -50% thief cost
 - +12% population
-**Spells:** Mage's Fury, Aggression
+- **Spells:** Mage's Fury, Aggression
 - Elite: 6/6, 550gc, 8.5NW
 
 ### Humans
 
 - +30% income
 - Immune to income penalties
-**Spells:** Fountain of Knowledge, Quick Feet
+- **Spells:** Fountain of Knowledge, Quick Feet
 - -15% Spell success
 - Elite: 9/4, 750gc, 9.25NW
 
@@ -298,7 +298,7 @@ Starts with 400 elites
 - +20 % Battle Gains
 - Free draft
 - +25% Enemy casualties when attacking
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - -10% science effectiveness
 - Elite: 12/2, 800gc, 10.5NW
 
@@ -307,7 +307,7 @@ Starts with 400 elites
 - -75% Offensive losses on attacks you make
 - Spreads and is Immune to The Plague
 - No Food Required
-**Spells:** Town Watch, Animate Dead
+- **Spells:** Town Watch, Animate Dead
 - Basic Thievery (Intel operations only)
 - Elite: 11/3, 950gc, 10NW
 

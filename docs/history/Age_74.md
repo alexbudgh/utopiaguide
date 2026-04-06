@@ -60,7 +60,7 @@
 
 - -30% Attack travel time
 - +30% Birth Rate
-**Spells:** Fanaticism, Greater Protection
+- **Spells:** Fanaticism, Greater Protection
 - -5% Combat Gains
 - Cannot Use War Horses
 - Elite: 9/2, 775gc, 10.0 NW
@@ -70,7 +70,7 @@
 - +30% Sabotage Damage
 - +1 Stealth per tick
 - +50% Effects from Honor
-**Spells:** Invisibility, Town Watch, Inspire Army
+- **Spells:** Invisibility, Town Watch, Inspire Army
 - -1 Army Generals
 - Elite: 4/7, 500gc, 7.0 NW
 
@@ -79,7 +79,7 @@
 - +25% Spell Damage
 - +2 Offensive Specialist strength
 - Converts Specialists into Elites on successful Traditional March
-**Spells:** Nightmare
+- **Spells:** Nightmare
 - +20% Wages
 - 5/7, 790gc, 9.0 NW
 
@@ -89,7 +89,7 @@
 - -35% Military Train Time
 - Mercenaries & Prisoners 7/0
 - War Horses 3/0
-**Spells:** Aggression, Quick Feet
+- **Spells:** Aggression, Quick Feet
 - +20% Attack Travel Time
 - -15% Enemy Military Casualties
 - Elite: 12/2, 900gc, 10.5 NW
@@ -99,7 +99,7 @@
 - +20% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-**Spells:** Mystic Aura, Inspire Army
+- **Spells:** Mystic Aura, Inspire Army
 - Can't use Accelerated Construction
 - +100% Food consumption
 - Elite: 8/5, 900gc, 10.0 NW
@@ -109,14 +109,14 @@
 - +35% WPA
 - +15% Tower Efficiency
 - +1 Defensive Specialist Strength
-**Spells:** Mage's Fury, Chastity, Inspire Army
+- **Spells:** Mage's Fury, Chastity, Inspire Army
 - Elite: 7/6, 700gc, 8.5 NW
 
 ### Faeries
 
 - +35% Self Spell Duration (will not affect spells on others)
 - Can Cast Fading Spells on Kingdom Mates
-**Spells:** Greater Protection, Invisibility, Reflect Magic, Tree of Gold, War Spoils, Animate Dead, Fool's Gold, Mystic Aura
+- **Spells:** Greater Protection, Invisibility, Reflect Magic, Tree of Gold, War Spoils, Animate Dead, Fool's Gold, Mystic Aura
 - -10% Income
 - Elite: 4/9, 900gc, 10.5 NW
 
@@ -125,7 +125,7 @@
 - +30% Income
 - +15% Credts (Building & Military)
 - +25% Increase Sci Spawn
-**Spells:** Greater Protection, Inspire Army
+- **Spells:** Greater Protection, Inspire Army
 - -15% Spell Success (WPA)
 - +25% Rune Costs
 - Elite: 9/4, 900gc, 10.0 NW
@@ -135,7 +135,7 @@
 - +20% Battle Gains
 - Free draft
 - +15% Enemy casualties when attacking
-**Spells:** Reflect Magic, Blood Lust
+- **Spells:** Reflect Magic, Blood Lust
 - +10% Military Casualties
 - -15% Thievery Effectiveness (TPA)
 - Elite: 10/1, 900gc, 9.5 NW

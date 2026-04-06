@@ -14,7 +14,7 @@ In progress.
 
 - -15% Attack Time
 - -25% Train Time
-**Spells:** Town Watch
+- **Spells:** Town Watch
 - No Access to Stables and War Horses
 - Soldier: 3/3, 1.5nw
 - Offensive Specialist: 12/0, 4.8nw
@@ -28,7 +28,7 @@ In progress.
 - -100% Offensive Spell Rune Cost
 - -75% Self Spell Rune Cost (excluding Ritual)
 - Wizards do not die on Failed Spell Casts
-**Spells:** Bloodlust, Mage's Fury, Reflect Magic
+- **Spells:** Bloodlust, Mage's Fury, Reflect Magic
 - -5% Building Efficiency
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
@@ -41,7 +41,7 @@ In progress.
 
 - +25% Building Efficiency
 - -50% Building Construction and Raze Cost
-**Spells:** Mist
+- **Spells:** Mist
 - -20% Birth Rate
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
@@ -55,7 +55,7 @@ In progress.
 - +25% Magic Effectiveness (WPA)
 - +100% Rune Production
 - -1 Self Spell Mana Cost
-**Spells:** Magic Ward, Mystic Aura, Pitfalls, Sloth
+- **Spells:** Magic Ward, Mystic Aura, Pitfalls, Sloth
 - +20% Military Wages
 - Soldier: 2/3, 1.25nw
 - Offensive Specialist: 10/0, 4.0nw
@@ -81,7 +81,7 @@ In progress.
 - +15% Population
 - +40% Birth Rate
 - -50% Food Consumption
-**Spells:** Chastity, Gluttony
+- **Spells:** Chastity, Gluttony
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 8/0, 3.2nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -93,7 +93,7 @@ In progress.
 
 - +25% Income
 - +30% Credits Gained in Combat
-**Spells:** Fountain of Knowledge, Quick Feet, Scientific Insights
+- **Spells:** Fountain of Knowledge, Quick Feet, Scientific Insights
 - +20% Spell Rune Cost
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
@@ -106,7 +106,7 @@ In progress.
 
 - +15% Enemy Military Casualties
 - +10% Dragon Slaying Strength
-**Spells:** Aggression
+- **Spells:** Aggression
 - +15% Damage Taken from Instant Spells
 - +15% Damage Taken from Sabotage Operations
 - Soldier: 3/2, 1.25nw
@@ -123,7 +123,7 @@ In progress.
 - Prisoners Covert to Elites over time (3% per Tick)
 - Spreads and is Immune to the Plague
 - No Food Needed
-**Spells:** Ghost Workers
+- **Spells:** Ghost Workers
 - No Access to Homes
 - No Access to Hospitals
 - Soldier: 1/1, 0.5nw

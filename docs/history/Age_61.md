@@ -227,7 +227,7 @@ Starts with 400 elites
 
 - -35% Attack Time
 - +25% Birth Rate
-**Spells:** Fanaticism, Greater Protection
+- **Spells:** Fanaticism, Greater Protection
 - No Access to Stables
 - -10% gains on attacks
 - Elite: 6/2, 500gc, 5NW
@@ -237,7 +237,7 @@ Starts with 400 elites
 - +30% Building Efficiency
 - Free Building Construction
 - Can use credits to raze buildings
-**Spells:** Fools Gold, Quick Feet, Mystic Aura
+- **Spells:** Fools Gold, Quick Feet, Mystic Aura
 - Can't use Accelerated Construction
 - +75% food consumption
 - Elite: 6/3, 700gc, 5.5NW
@@ -247,14 +247,14 @@ Starts with 400 elites
 - +30% WPA
 - -50% defensive losses
 - +1 defensive specialist strength
-**Spells:** Nightmares, Pitfalls, Mages Fury
+- **Spells:** Nightmares, Pitfalls, Mages Fury
 - 5/4, 800gc, 5.75NW
 
 ### Faeries
 
 - +30% Spell Damage (Instant Spells)
 - +30% Sabotage Damage +1 mana per tick in war
-**Spells:** Access to All Racial Spells
+- **Spells:** Access to All Racial Spells
 - Elite: 4/5, 650gc, 5.5NW
 
 ### Halflings
@@ -263,7 +263,7 @@ Starts with 400 elites
 - +50% TPA
 - -50% Thief Cost
 - +1 offensive specialist strength
-**Spells:** Invisibility, Town Watch, Aggression, Animate Dead
+- **Spells:** Invisibility, Town Watch, Aggression, Animate Dead
 - -25% Birth Rate
 - Elite: 4/4, 450gc, 4NW
 
@@ -271,7 +271,7 @@ Starts with 400 elites
 
 - +20% Science Effectiveness
 - +20% income
-**Spells:** Tree of Gold, Fountain of Knowledge
+- **Spells:** Tree of Gold, Fountain of Knowledge
 - -5% Population
 - Elite: 6/4, 1000gc 5.5NW
 
@@ -280,7 +280,7 @@ Starts with 400 elites
 - +25 % Attack Gains
 - Free draft
 - +25% Enemy casualties when attacking
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - -15% science effectiveness
 - Elite: 7/1, 750gc, 5.75NW
 
@@ -290,7 +290,7 @@ Starts with 400 elites
 - Converts some Specialists into Elites on successful land attacks
 - Spreads and is Immune to The Plague
 - No Food Required
-**Spells:** Town Watch
+- **Spells:** Town Watch
 - Basic Thievery (Intel operations only)
 - Elite: 7/2, 600gc, 6NW
 

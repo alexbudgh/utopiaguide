@@ -57,7 +57,7 @@ Stats listed here considered 'base effectiveness'
 - -25% Attack travel time
 - +40% Birth Rate
 - +25% Specialist Credits from Attacks
-**Spells:** Fanaticism and Greater Protection
+- **Spells:** Fanaticism and Greater Protection
 - Cannot Use War Horses or Stables
 - Elite: 8/2, 850gc, 8.5 NW
 
@@ -66,7 +66,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-**Spells:** Mystic Aura, Inspire Army
+- **Spells:** Mystic Aura, Inspire Army
 - Can't use Accelerated Construction
 - +50% Food consumption
 - Elite: 7/5, 950gc, 9.5 NW
@@ -76,7 +76,7 @@ Stats listed here considered 'base effectiveness'
 - +35% Wizardry Effectiveness (WPA)
 - +20% Tower Effectiveness
 - +1 Defensive Specialist Strength
-**Spells:** Inspire Army
+- **Spells:** Inspire Army
 - Elite: 7/3, 975gc, 9.0 NW
 
 ### Faeries
@@ -84,7 +84,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Self Spell Duration (will not affect spells on others)
 - +20% Sabotage Damage
 - +1% Extra Stealth Per Tick
-**Spells:** Greater Protection, Tree of Gold, Animate Dead and Mystic Aura
+- **Spells:** Greater Protection, Tree of Gold, Animate Dead and Mystic Aura
 - -10% Income
 - Elite: 3/8, 1150gc, 10.0 NW
 
@@ -93,7 +93,7 @@ Stats listed here considered 'base effectiveness'
 - +30% Thievery Effectiveness (TPA)
 - +5% Population
 - -50% Thief Costs
-**Spells:** Aggression, Town Watch
+- **Spells:** Aggression, Town Watch
 - -5% Building Effectiveness
 - Elite: 5/7, 900gc, 9.0 NW
 
@@ -103,7 +103,7 @@ Stats listed here considered 'base effectiveness'
 - +15% Credits (Building & Training)
 - +25% Scientist Spawn Rate
 - Income Penalty Protection
-**Spells:** Greater Protection, Inspire Army, Quick Feet
+- **Spells:** Greater Protection, Inspire Army, Quick Feet
 - -15% Wizardry Effectiveness (WPA)
 - Elite: 8/3, 1100gc, 9.5 NW
 
@@ -112,7 +112,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Battle Gains
 - +15% Enemy casualties when attacking
 - Free draft
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - +10% Own casualties when attacking
 - -15% Thievery Effectiveness (TPA)
 - Elite: 9/2, 950gc, 9.0 NW

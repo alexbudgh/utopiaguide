@@ -64,7 +64,7 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 
 - -25% attack time
 - Immunity to Ambush
-**Spells:** Clear Sight, Town Watch
+- **Spells:** Clear Sight, Town Watch
 - No Access to Stables
 - Elite: $700
 
@@ -73,7 +73,7 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - +25% Building Efficiency
 - Free Building Construction
 - Immunity to Fog
-**Spells:** Fog, Animate Dead
+- **Spells:** Fog, Animate Dead
 - Can't use Accelerated Construction
 - Elite: $800
 
@@ -81,14 +81,14 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 
 - Spells don't consume runes
 - 15% Sabotage gains
-**Spells:** Invisibility, Fool’s Gold, Nightmares, Tree of Gold, Mage's Fury
+- **Spells:** Invisibility, Fool’s Gold, Nightmares, Tree of Gold, Mage's Fury
 - 6/4 $650
 
 ### Elves
 
 - +2 Mana Recovery / Tick in War
 - +40% Spell success
-**Spells:** Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia, Quick Feet, Reflect Magic
+- **Spells:** Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia, Quick Feet, Reflect Magic
 - No Access to Dungeons
 - -15% Sabotage gains
 - Elite: $700
@@ -99,7 +99,7 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - +1 Offensive Specialist Strength
 - +15% Spell success
 - 100% Accurate Espionage Intel
-**Spells:** Town Watch, Vermin, Chastity
+- **Spells:** Town Watch, Vermin, Chastity
 - -50% Cost of Thieves
 - No Hospitals
 - 5/5 $300
@@ -110,14 +110,14 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - +40% Sabotage gains
 - +1 Stealth recovery per tick
 - Immune to Clear Sight
-**Spells:** Quick Feet, War Spoils
+- **Spells:** Quick Feet, War Spoils
 - Elite: $550
 
 ### Humans
 
 - +20% Income
 - +1 Defensive Specialist Strength
-**Spells:** Greater Protection, Aggression
+- **Spells:** Greater Protection, Aggression
 - -20% Magic Effectiveness
 - -1 Offensive Specialist Strength
 - Elite: $800
@@ -127,7 +127,7 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - +40% Gains
 - Train Elites with Specialist credits
 - Spreads and is immune to the Plague
-**Spells:** Fanaticism, Aggression, Bloodlust
+- **Spells:** Fanaticism, Aggression, Bloodlust
 - -50% Bonuses from Honor
 - -1 Defensive Specialist Strength
 - Elite: $900

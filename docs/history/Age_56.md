@@ -68,7 +68,7 @@
 
 - -30% Attack Time
 - +20% Sabotage Damage
-**Spells:** Town Watch, Vermin, Mystic Aura
+- **Spells:** Town Watch, Vermin, Mystic Aura
 - -10% Attack Gains
 - No Access to Stables
 - Elite: 6/3, 700gc, 5.25NW
@@ -79,7 +79,7 @@
 - Free Building Construction
 - Can use credits to raze buildings
 - +30% Spell Damage (Instant Spells)
-**Spells:** Fanaticism, Fools Gold, Clearsight
+- **Spells:** Fanaticism, Fools Gold, Clearsight
 - +50% Food Consumption
 - Can't use Accelerated Construction
 - Elite: 6/2, 650gc, 5NW
@@ -89,7 +89,7 @@
 - +1 Mana Recovery / Tick in war
 - +50 % WPA
 - +1 Defence Specialist Strength
-**Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare, Quickfeet
+- **Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare, Quickfeet
 - Elite: 5/3, 650gc, 4.75NW
 
 ### Faeries
@@ -97,7 +97,7 @@
 - +30 % Spell Damage (Instant Spells)
 - +20 % Sabotage Damage
 - +20 % WPA and TPA
-**Spells:** Access to All Racial Spells
+- **Spells:** Access to All Racial Spells
 - -50% effects from honor
 - -3 Generals
 - Elite: 3/6, 800gc, 6NW
@@ -108,7 +108,7 @@
 - +1 Stealth Recovery / Tick
 - -50 % Thief Cost
 - Soldiers: 2/2 (3NW)
-**Spells:** Invisibility, Town Watch,Aggression
+- **Spells:** Invisibility, Town Watch,Aggression
 - -10 % Birthrate
 - Elite: 4/5, 400gc, 5NW
 
@@ -118,14 +118,14 @@
 - +30 % Sabotage Damage
 - +40 % Spell Damage (Instant Spells)
 - +1 Offense Specialist Strength
-**Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
+- **Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
 - Elite: 4/4, 600gc, 4NW
 
 ### Orcs
 
 - +30 % Gains
 - Earns Elite Credits
-**Spells:** Bloodlust, Fanaticism, Reflect Magic
+- **Spells:** Bloodlust, Fanaticism, Reflect Magic
 - -75 % Combat Instant Spell Damage and Duration
 - -75 % Sabotage Damage
 - Elite: 7/1, 800gc, 5.75NW
@@ -136,7 +136,7 @@
 - Converts some Specialists into Elites on successful land attacks
 - Spreads and is Immune to The Plague
 - No Food Required
-**Spells:** Greater Protection, Town Watch, Animate Dead, Chastity
+- **Spells:** Greater Protection, Town Watch, Animate Dead, Chastity
 - -20% science effectiveness
 - Elite: 7/2, 1000gc, 6NW
 

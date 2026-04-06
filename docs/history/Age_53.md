@@ -90,7 +90,7 @@
 
 - -30% attack time
 - Defensive Specialist Strength +1
-**Spells:** Clear Sight, Town Watch, Fanaticism
+- **Spells:** Clear Sight, Town Watch, Fanaticism
 - -10% attack gains
 - No Access to Stables
 - Elite: $650
@@ -100,7 +100,7 @@
 - +20% Building Efficiency
 - Free Building Construction
 - Can use credits to raze buildings
-**Spells:** Vermin, Quick feet
+- **Spells:** Vermin, Quick feet
 - -25% Thievery Effectiveness
 - +50% Food Consumption
 - Can't use Accelerated Construction
@@ -111,14 +111,14 @@
 - +2 Mana Recovery / Tick in war
 - +1 Defensive Specialist Strength
 - +30% Spell Damage (Instant Spells)
-**Spells:** Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
+- **Spells:** Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
 - Elite: $600
 
 ### Faeries
 
 - +50% Magic Effectiveness
 - +50% thievery effectiveness
-**Spells:** Access to All Spells
+- **Spells:** Access to All Spells
 - -10% Population
 - -1 Offensive Specialist Strength
 - Elite: $1000
@@ -129,7 +129,7 @@
 - -50% thief cost
 - +10% Population
 - Espionage operations are 100% accurate in war
-**Spells:** Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
+- **Spells:** Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
 - -20% birthrate
 - Elite: $500
 
@@ -137,7 +137,7 @@
 
 - +30% Income
 - +40% Thievery Damage (Sabotage Ops)
-**Spells:** Greater Protection, Fountain of Knowledge
+- **Spells:** Greater Protection, Fountain of Knowledge
 - -20% Magic Effectiveness
 - -1 Offensive Specialist Strength
 - Elite: $800
@@ -146,7 +146,7 @@
 
 - +25% Gains
 - Earns Elite Credits
-**Spells:** Fanaticism, Aggression, Bloodlust
+- **Spells:** Fanaticism, Aggression, Bloodlust
 - -10% building efficiency
 - -50% thievery and magic damage (on offensive operations)
 - Elite: $800
@@ -157,7 +157,7 @@
 - Converts some Specialists into Elites on successful land attacks
 - Spreads and is Immune to The Plague
 - No Food Required
-**Spells:** War Spoils, Nightmares, Chastity
+- **Spells:** War Spoils, Nightmares, Chastity
 - -20% science effectiveness
 - Basic Thievery Operations Only
 - Elite: $1000

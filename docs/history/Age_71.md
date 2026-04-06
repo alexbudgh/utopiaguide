@@ -279,7 +279,7 @@ Starts with 800 elites
 - Cannot be ambushed
 - +40% Birth Rate
 - Train Elites with Credits
-**Spells:** Fanaticism, Greater Protection, Blood Lust
+- **Spells:** Fanaticism, Greater Protection, Blood Lust
 - -10% Battle Gains Cannot Use War Horses
 - Elite: 11/4, 775gc, 10.5NW
 
@@ -290,7 +290,7 @@ Starts with 800 elites
 - -50% Building Construction Time
 - +1 Offensive specialist strength
 - +1 Defensive specialist strength
-**Spells:** Mystic Aura
+- **Spells:** Mystic Aura
 - Can't use Accelerated Construction
 - +100% food consumption
 - Elite: 8/8, 900gc, 10NW
@@ -302,7 +302,7 @@ Starts with 800 elites
 - +25% Combat Instant Spell Damage
 - +50% Rune Generation
 - -35% Military Casualties (on both offense and defence)
-**Spells:** Fool's Gold, Pitfalls, Invisibility
+- **Spells:** Fool's Gold, Pitfalls, Invisibility
 - +50% Military Wages
 - 8/7, 900gc, 9.5NW
 
@@ -311,7 +311,7 @@ Starts with 800 elites
 - +40% Combat Instant Spell Damage
 - +40% Sabotage Operation Damage
 - +1 mana per tick in war
-**Spells:** Aggression, Fanaticism, Fools Gold, Greater Protection, Invisibility, Mage's Fury, Mystic Aura, Pitfalls, Quick Feet, Reflect Magic, Town Watch, Tree of Gold and Bloodlust
+- **Spells:** Aggression, Fanaticism, Fools Gold, Greater Protection, Invisibility, Mage's Fury, Mystic Aura, Pitfalls, Quick Feet, Reflect Magic, Town Watch, Tree of Gold, Bloodlust
 - -10% Income
 - -5% Max Population
 - Elite: 5/10, 1050gc, 11NW
@@ -323,7 +323,7 @@ Starts with 800 elites
 - -50% Thief cost
 - +1 Stealth per tick
 - +2 Offensive Specialist Strength
-**Spells:** Mage's Fury, Aggression
+- **Spells:** Mage's Fury, Aggression
 - -5% Building Efficiency
 - -10% Birth Rate
 - Elite: 6/8, 700gc, 10NW
@@ -332,7 +332,7 @@ Starts with 800 elites
 
 - +30% income
 - Immune to Income Penalties
-**Spells:** Greater Protection, Quick Feet
+- **Spells:** Greater Protection, Quick Feet
 - -10% Spell Success (WPA)
 - +50% Rune Cost
 - Elite: 10/4, 1000gc, 9.5NW
@@ -342,7 +342,7 @@ Starts with 800 elites
 - +25% Battle Gains
 - Free draft
 - +20% Enemy casualties when attacking
-**Spells:** Reflect Magic, Blood Lust
+- **Spells:** Reflect Magic, Blood Lust
 - +15% Battle Losses
 - +10% Own casualties when attacking
 - +10% Own casualties when defending
@@ -358,7 +358,7 @@ Starts with 800 elites
 - Convert Specialists into Elites
 - Always Carries and is Immune to the Plague
 - +3 Offensive Specialist strength
-**Spells:** Town Watch
+- **Spells:** Town Watch
 - Basic Thievery (Intel Operations Only)
 - No Elite Training
 - -35% Science Effectiveness

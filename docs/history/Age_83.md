@@ -96,7 +96,7 @@ Stats listed here considered 'base effectiveness'
 - -15% Attack Time
 - -20% Military Train Time
 - +40% Birth Rate
-**Spells:** Fanaticism, Town Watch
+- **Spells:** Fanaticism, Town Watch
 - -5% Building Efficiency
 - Cannot Use War Horses/Stables
 - Elite: 15/6, 875gc, 8.0 NW
@@ -107,7 +107,7 @@ Stats listed here considered 'base effectiveness'
 - -50% Construction Cost
 - +1 Offensive Specialist Strength
 - +1 Defensive Specialist Strength
-**Spells:** Gluttony, Mystic Aura
+- **Spells:** Gluttony, Mystic Aura
 - +100% Food consumption
 - +20% Military Wages
 - Elite: 13/8, 950gc, 8.25 NW
@@ -117,7 +117,7 @@ Stats listed here considered 'base effectiveness'
 - +1 Mana Recovery per Tick
 - +2 Defensive Specialist Strength
 - Can Cast Support Spells on Kingdom Members
-**Spells:** Chastity, Inspire Army, Mystic Aura
+- **Spells:** Chastity, Inspire Army, Mystic Aura
 - Elite: 12/8, 850gc, 8.0 NW
 
 ### Faery
@@ -135,7 +135,7 @@ Stats listed here considered 'base effectiveness'
 - Can use Specialist credits to train Thieves
 - Homes increase maximum Population by 20
 - -20% Military Train Costs
-**Spells:** Town Watch, Vermin
+- **Spells:** Town Watch, Vermin
 - -10% Combat Gains
 - Elite: 10/10, 875gc, 8.0 NW
 
@@ -144,7 +144,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Income
 - +20% Science Effectiveness
 - +2 Offensive Specialist Strength
-**Spells:** Fountain of Knowledge, Quick Feet
+- **Spells:** Fountain of Knowledge, Quick Feet
 - -1 Mana Recovery per Tick
 - +20% Spell Rune Cost
 - Elite: 8/12, 1100gc, 8.25 NW
@@ -154,7 +154,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Combat Gains
 - +2/+2 Soldier Strength
 - -50% Draft Costs
-**Spells:** Aggression, Bloodlust
+- **Spells:** Aggression, Bloodlust
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - -50% Building Credits gained in Combat
 - -50% Bonuses from Honor
@@ -167,7 +167,7 @@ Stats listed here considered 'base effectiveness'
 - Spreads and is Immune to the Plague
 - Converts some Specialists to Elites on successful Traditional Marches
 - Prisoners Convert to Elites over time
-**Spells:** Animate Dead, Chastity
+- **Spells:** Animate Dead, Chastity
 - -35% Science Effectiveness
 - Cannot train Elites
 - No Access to Sabotage Thievery Options

@@ -41,7 +41,7 @@
 - -25% Attack travel time
 - +40% Birth Rate
 - Can Train Elites with Credits
-**Spells:** Fanaticism, Greater Protection, Blood Lust
+- **Spells:** Fanaticism, Greater Protection, Blood Lust
 - -5% Combat Gains
 - -2000 Starting Credits
 - -20% Training Credits
@@ -53,7 +53,7 @@
 - Ignores Watchtowers
 - +1 Stealth per tick
 - +50% Effects from Honor
-**Spells:** Invisibility
+- **Spells:** Invisibility
 - -15% Sabotage Damage
 - Elite: 4/6, 450gc, 7 NW
 
@@ -63,7 +63,7 @@
 - +25% Spell Success (WPA)
 - +30% Combat Instant Spell Damage
 - 35% Runes Refunded on Successful Spells
-**Spells:** Nightmare, Mage's Fury
+- **Spells:** Nightmare, Mage's Fury
 - -1 Defensive Spec Strength
 - 4/7, 750gc, 10 NW
 
@@ -72,7 +72,7 @@
 - All land produces food
 - Mercenaries & Prisoners 7/0
 - War Horses 3/0
-**Spells:** Aggression, Quick Feet
+- **Spells:** Aggression, Quick Feet
 - +25% Attack Travel Time
 - -15% Enemy Military Casualties
 - Elite: 12/2, 950gc, 11 NW
@@ -82,7 +82,7 @@
 - +20% Building Efficiency
 - Free Building Construction and Can Use Credits to Raze Buildings
 - -50% Building Construction Time
-**Spells:** Mystic Aura
+- **Spells:** Mystic Aura
 - Can't use Accelerated Construction
 - +100% Food consumption
 - Elite: 7/4, 900gc, 10 NW
@@ -90,7 +90,7 @@
 ### Faeries
 
 - All Spells (Except Paladin Only & Paradise)
-**Spells:** All Spells (Excluding Paradise & Paladin Spells)
+- **Spells:** All Spells (Excluding Paradise & Paladin Spells)
 - -15% Income
 - Elite: 2/8, 900gc, 10.5 NW
 
@@ -100,7 +100,7 @@
 - -25% Wages
 - Immune to Income Penalties
 - +25% Increase Sci Spawn
-**Spells:** Greater Protection
+- **Spells:** Greater Protection
 - -15% Spell Success (WPA)
 - +30% Rune Costs
 - Elite: 8/3, 900gc, 10 NW
@@ -110,7 +110,7 @@
 - +30% Battle Gains
 - Free draft
 - +20% Enemy casualties when attacking
-**Spells:** Reflect Magic, Blood Lust
+- **Spells:** Reflect Magic, Blood Lust
 - +10% Military Casualties
 - -15% Thievery Effectiveness (TPA)
 - Elite: 10/1, 900gc, 9.5 NW
@@ -124,7 +124,7 @@
 - Defensive losses automatically convert to soldiers(Permanent Animate Dead)
 - +2 Offensive Specialist strength
 - +1 Mana per tick
-**Spells:** Town Watch, Nightmare
+- **Spells:** Town Watch, Nightmare
 - Basic Thievery (Intel Operations Only)
 - No Elite Training
 - -15% Science Effectiveness

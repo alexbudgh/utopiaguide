@@ -237,7 +237,7 @@ Starts with 400 elites
 - +30% Sabotage Operation Damage
 - Can train Elites with Specialist Credits
 - +50% Birth Rate
-**Spells:** Fanaticism, Greater Protection, Clear Sight
+- **Spells:** Fanaticism, Greater Protection, Clear Sight
 - Cannot use Stables
 - Elite: 6/1, 700gc, 4.75NW
 
@@ -247,7 +247,7 @@ Starts with 400 elites
 - +30% Combat Instant Spell Damage
 - Free Building Construction
 - Can use credits to raze buildings
-**Spells:** Fools Gold, Quick Feet, Mystic Aura
+- **Spells:** Fools Gold, Quick Feet, Mystic Aura
 - Can't use Accelerated Construction
 - +50% food consumption
 - Elite: 6/3, 800gc, 5.25NW
@@ -257,14 +257,14 @@ Starts with 400 elites
 - +30% WPA
 - -50% defensive losses
 - +1 defensive specialist strength
-**Spells:** Nightmares, Pitfalls, Mages Fury
+- **Spells:** Nightmares, Pitfalls, Mages Fury
 - 5/4, 750gc, 5.75NW
 
 ### Faeries
 
 - +40% Spell Damage (Instant Spells)
 - +40% Sabotage Damage +1 mana per tick in war
-**Spells:** Access to All Racial Spells
+- **Spells:** Access to All Racial Spells
 - Elite: 3/5, 1050gc, 5.25NW
 
 ### Halflings
@@ -272,7 +272,7 @@ Starts with 400 elites
 - +40% TPA
 - +1 Stealth
 - +100% land effect from Thieves Dens
-**Spells:** Invisibility, Town Watch, Aggression, Animate Dead
+- **Spells:** Invisibility, Town Watch, Aggression, Animate Dead
 - -10% Gains
 - Elite: 4/5, 600gc, 5.5NW
 
@@ -281,7 +281,7 @@ Starts with 400 elites
 - +5% Population
 - +20% Spell Duration
 - +10% Offensive Military Efficiency In War
-**Spells:** Tree of Gold, Fountain of Knowledge
+- **Spells:** Tree of Gold, Fountain of Knowledge
 - +30% Cost of Science
 - Elite: 6/3, 1200gc 6.5NW
 
@@ -290,7 +290,7 @@ Starts with 400 elites
 - +30 % Attack Gains
 - Free draft
 - +25% Enemy casualties when attacking
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - -10% science effectiveness
 - Elite: 7/1, 800gc, 5.75NW
 
@@ -301,7 +301,7 @@ Starts with 400 elites
 - Spreads and is Immune to The Plague
 - No Food Required
 - +1 Offensive Specialist strength
-**Spells:** Town Watch
+- **Spells:** Town Watch
 - Basic Thievery (Intel operations only)
 - Cannot Train Elites
 - Elite: 7/2, 6.5NW

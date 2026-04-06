@@ -110,7 +110,7 @@ Stats listed here considered 'base effectiveness'
 - -30% Attack travel time
 - +40% Birth Rate
 - +35% Specialist Credits from Attacks
-**Spells:** Fanaticism, Greater Protection
+- **Spells:** Fanaticism, Greater Protection
 - Cannot Use War Horses or Stables
 - -5% Battle Gains
 - Elite: 8/3, 900gc, 9 NW
@@ -120,7 +120,7 @@ Stats listed here considered 'base effectiveness'
 - +25% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-**Spells:** Mystic Aura, Inspire Army
+- **Spells:** Mystic Aura, Inspire Army
 - Can't use Accelerated Construction
 - +75% Food consumption
 - Elite: 7/4, 925gc, 9 NW
@@ -130,7 +130,7 @@ Stats listed here considered 'base effectiveness'
 - +35% Wizardry Effectiveness (WPA)
 - +30% Tower Effectiveness
 - +1 Defensive Specialist Strength
-**Spells:** Inspire Army
+- **Spells:** Inspire Army
 - +30% Wages
 - Elite: 8/3, 950gc, 9.5 NW
 
@@ -138,7 +138,7 @@ Stats listed here considered 'base effectiveness'
 
 - +30% Self Spell Duration (will not affect spells on others)
 - +20% Sabotage Operation Damage
-**Spells:** Animate Dead, Greater Protection, Mystic Aura, Tree of Gold
+- **Spells:** Animate Dead, Greater Protection, Mystic Aura, Tree of Gold
 - -10% Income
 - Elite: 3/8, 1100gc, 10.0 NW
 
@@ -148,7 +148,7 @@ Stats listed here considered 'base effectiveness'
 - +7% Population
 - -50% Thief Costs
 - +1 Offense/Defense Soldiers
-**Spells:** Aggression, Town Watch
+- **Spells:** Aggression, Town Watch
 - -5% Building Effectiveness
 - Elite: 5/7, 900gc, 9.5 NW
 
@@ -157,7 +157,7 @@ Stats listed here considered 'base effectiveness'
 - +30% Income
 - Income Penalty Protection
 - +15% Building and Specialist Credits from Attacks
-**Spells:** Greater Protection, Inspire Army, Quick Feet
+- **Spells:** Greater Protection, Inspire Army, Quick Feet
 - -10% Wizardry Effectiveness (WPA) and Self Spell Success Chance
 - Elite: 8/3, 1100gc, 9.5 NW
 
@@ -166,7 +166,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Battle Gains
 - +15% Enemy casualties when attacking
 - -75% Draft Costs
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - +10% Military Casualties
 - -10% Science Effectiveness
 - Elite: 9/2, 925gc, 9.0 NW

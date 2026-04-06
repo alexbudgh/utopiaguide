@@ -102,7 +102,7 @@ Stats listed here considered 'base effectiveness'
 - -25% Attack Time
 - -25% Military Train Time
 - +40% Birth Rate
-**Spells:** Fanaticism
+- **Spells:** Fanaticism
 - -10% Battle Gains
 - Can't use Stables
 - Elite: 16/5, 900gc, 8.0 NW
@@ -112,7 +112,7 @@ Stats listed here considered 'base effectiveness'
 - +2 Offensive Specialist Strength
 - -50% Rune Cost
 - No Wizards lost on Failed Spell Casts
-**Spells:** Pitfalls, Reflect Magic
+- **Spells:** Pitfalls, Reflect Magic
 - -20% Birth Rate
 - Elite: 9/12, 950gc, 8.75 NW
 
@@ -120,7 +120,7 @@ Stats listed here considered 'base effectiveness'
 
 - +30% Building Efficiency
 - -75% Construction Cost
-**Spells:** Gluttony
+- **Spells:** Gluttony
 - +100% Food consumption
 - Elite: 13/8, 1000gc, 8.25 NW
 
@@ -129,7 +129,7 @@ Stats listed here considered 'base effectiveness'
 - +2 Defensive Specialist Strength
 - +25% Combat Instant Spell Damage
 - -1 Mana Self Spell Cost
-**Spells:** Magic Ward, Mystic Aura
+- **Spells:** Magic Ward, Mystic Aura
 - Can't use Dungeons
 - Elite: 13/6, 900gc, 7.50 NW
 
@@ -147,7 +147,7 @@ Stats listed here considered 'base effectiveness'
 - Homes hold 20 population
 - +25% Thievery Effectiveness (TPA)
 - -20% Military Training Cost
-**Spells:** Town Watch, Vermin
+- **Spells:** Town Watch, Vermin
 - Elite: 11/7, 800gc, 7.0 NW
 
 ### Human
@@ -155,7 +155,7 @@ Stats listed here considered 'base effectiveness'
 - +25% Income
 - +20% Science Effectiveness
 - +2 War Horse Strength
-**Spells:** Quick Feet, Fountain of Knowledge, Greater Protection
+- **Spells:** Quick Feet, Fountain of Knowledge, Greater Protection
 - -20% Magic Effectiveness (WPA)
 - Elite: 8/12, 1150gc, 8.25 NW
 
@@ -163,7 +163,7 @@ Stats listed here considered 'base effectiveness'
 
 - +20% Combat Gains
 - -50% Draft Costs
-**Spells:** Aggression, Bloodlust
+- **Spells:** Aggression, Bloodlust
 - +20% Damage taken from Instant Spells & Sabotage Operations
 - -50% Honor Bonus
 - Elite: 15/4, 950gc, 7.75 NW
@@ -175,7 +175,7 @@ Stats listed here considered 'base effectiveness'
 - No Food required
 - Spreads and is immune to the Plague
 - Converts some Specialists to Elites on Successful Traditional Marches
-**Spells:** Animate Dead, Chastity
+- **Spells:** Animate Dead, Chastity
 - -50% Science Effectiveness
 - Cannot train Elites
 - No Access to Hospitals

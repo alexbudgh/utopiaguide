@@ -225,7 +225,7 @@ Starts with 400 elites
 - -30% Building Construction Time
 - -30% Military training time
 - +1 offensive specialist strength
-**Spells:** Fanaticism, Greater Protection
+- **Spells:** Fanaticism, Greater Protection
 - No Access to Stables
 - Elite: 6/2, 600gc, 5NW
 
@@ -234,7 +234,7 @@ Starts with 400 elites
 - +30% Building Efficiency
 - Free Building Construction
 - Can use credits to raze buildings
-**Spells:** Fools Gold, Pitfalls, Mystic Aura
+- **Spells:** Fools Gold, Pitfalls, Mystic Aura
 - Can't use Accelerated Construction
 - +50% food consumption
 - Elite: 6/3, 800gc, 5.25NW
@@ -246,14 +246,14 @@ Starts with 400 elites
 - +30% Spell Duration
 - +1 mana per tick in war
 - +1 defensive specialist strength
-**Spells:** Nightmares, Pitfalls, Mages Fury
+- **Spells:** Nightmares, Pitfalls, Mages Fury
 - 5/4, 700gc, 5.75NW
 
 ### Faeries
 
 - +30% WPA
 - +30% TPA
-**Spells:** Access to All Racial Spells
+- **Spells:** Access to All Racial Spells
 - Elite: 3/5, 950gc, 5.25NW
 
 ### Halflings
@@ -261,7 +261,7 @@ Starts with 400 elites
 - +1 Stealth
 - -50% thief cost
 - +15% population
-**Spells:** Invisibility, Aggression
+- **Spells:** Invisibility, Aggression
 - -10% Gains
 - Elite: 4/4, 350gc, 5NW
 
@@ -270,7 +270,7 @@ Starts with 400 elites
 - +15% Offensive Military Efficiency In War
 - -30% defensive losses
 - Every 3 acres generates 1 book of science
-**Spells:** Tree of Gold, Fountain of Knowledge, Quick Feet
+- **Spells:** Tree of Gold, Fountain of Knowledge, Quick Feet
 - +30% Cost of Science
 - Elite: 6/3, 1100gc 6.5NW
 
@@ -279,7 +279,7 @@ Starts with 400 elites
 - +30 % Attack Gains
 - Free draft
 - +25% Enemy casualties when attacking
-**Spells:** Reflect Magic, Clear Sight
+- **Spells:** Reflect Magic, Clear Sight
 - -10% science effectiveness
 - Elite: 7/1, 800gc, 5.75NW
 
@@ -288,7 +288,7 @@ Starts with 400 elites
 - -75% Offensive losses on attacks you make
 - Spreads and is Immune to The Plague
 - No Food Required
-**Spells:** Town Watch, Animate Dead
+- **Spells:** Town Watch, Animate Dead
 - Basic Thievery (Intel operations only)
 - Elite: 7/2, 900gc, 6.5NW
 

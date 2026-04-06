@@ -49,7 +49,7 @@
 - Attack time -25%
 - Birth Rate +40%
 - Can Train Elites with Credits
-**Spells:** Fanaticism, Greater Protection, Blood Lust
+- **Spells:** Fanaticism, Greater Protection, Blood Lust
 - Battle Gains -10%
 - Can't Use Stables
 - Minus 2000 Starting Spec Training Credits
@@ -63,7 +63,7 @@
 - -50% Construction Time
 - Use Credits to Raze
 - Access to Greater Arson
-**Spells:** Mystic Aura
+- **Spells:** Mystic Aura
 - Can't use Accelerated Construction
 - +100% food consumption
 - Elite: 8/9, 900GC, 10NW
@@ -74,14 +74,14 @@
 - +35% WPA
 - +20% Towers Efficiency
 - +2 def spec strength
-**Spells:** Clear Sight
+- **Spells:** Clear Sight
 - +50% Military Wages
 - 9/7, 1000GC, 10NW
 
 ### Faeries
 
 - All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
-**Spells:** All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
+- **Spells:** All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
 - -10% Income
 - -5% Max Population
 - Elite: 5/10, 1050GC, 11NW
@@ -93,7 +93,7 @@
 - +40% TPA
 - +1 Extra Stealth
 - +1 ospec Strength
-**Spells:** Mage's Fury, Aggression
+- **Spells:** Mage's Fury, Aggression
 - -5% Building Efficiency
 - -10% Birth Rate
 - Elite: 6/8, 700GC, 9NW
@@ -104,7 +104,7 @@
 - Immune to Income Penalties
 - Increase Scientist Generation Rate +25%
 - +1 general
-**Spells:** Greater Protection, Quick Feet
+- **Spells:** Greater Protection, Quick Feet
 - -10% Spell Success (WPA)
 - +50% Rune Cost
 - Elite: 11/5, 1050GC, 11NW
@@ -114,7 +114,7 @@
 - +20% Battle Gains
 - -100% Draft Cost
 - +15% Enemy Casualties on Attack
-**Spells:** Reflect Magic, Blood Lust
+- **Spells:** Reflect Magic, Blood Lust
 - +10% Military Casualties
 - -10% TPA
 - Elite: 12/1, 1000GW, 11.5NW
@@ -128,7 +128,7 @@
 - Convert Specs to Elites
 - +2 Ospec strength
 - +1 Mana
-**Spells:** Town Watch, Nightmare
+- **Spells:** Town Watch, Nightmare
 - -15% Science Effectiveness
 - Can't Train Elites
 - Basic Thievery Only

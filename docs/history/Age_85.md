@@ -83,7 +83,7 @@ Stats listed here considered 'base effectiveness'
 - -15% Attack Time
 - +40% Birth Rate
 - -25% Military Train Time
-**Spells:** Greater Protection, Fanaticism
+- **Spells:** Greater Protection, Fanaticism
 - Can't use Stables
 - Elite: 16/6, 975gc, 8.5 NW
 
@@ -92,7 +92,7 @@ Stats listed here considered 'base effectiveness'
 - +2 Offensive Specialist Strength
 - +50% Runes Refunded on Spell Success
 - +20% Sabotage Damage
-**Spells:** Pitfalls, Reflect Magic
+- **Spells:** Pitfalls, Reflect Magic
 - -10 Building Efficiency
 - Elite: 9/12, 1100gc, 8.75 NW
 
@@ -101,7 +101,7 @@ Stats listed here considered 'base effectiveness'
 - +30% Building Efficiency
 - -75% Construction Cost
 - +5% Military Efficiency
-**Spells:** Gluttony
+- **Spells:** Gluttony
 - +100% Food consumption
 - Elite: 12/8, 1050gc, 8.0 NW
 
@@ -110,7 +110,7 @@ Stats listed here considered 'base effectiveness'
 - +2 Defensive Specialist Strength
 - +20% Combat Instant Spell Damage
 - -1 Mana Self Spell Cost
-**Spells:** Mystic Aura, Chastity
+- **Spells:** Mystic Aura, Chastity
 - +20% Explore Costs
 - Can't use Dungeons
 - Elite: 13/7, 1000gc, 7.75 NW
@@ -129,7 +129,7 @@ Stats listed here considered 'base effectiveness'
 - Homes hold 20 population
 - +25% Thievery Effectiveness (TPA)
 - -20% Military Training Cost
-**Spells:** Town Watch, Vermin
+- **Spells:** Town Watch, Vermin
 - Elite: 10/8, 850gc, 7.25 NW
 
 ### Human
@@ -137,7 +137,7 @@ Stats listed here considered 'base effectiveness'
 - +25% Income
 - +20% Science Effectiveness
 - +2 War Horse Strength
-**Spells:** Quick Feet, Fountain of Knowledge
+- **Spells:** Quick Feet, Fountain of Knowledge
 - -20% Magic Effectiveness (WPA)
 - +25% Rune Cost
 - Elite: 8/12, 1250gc, 8.25 NW
@@ -147,7 +147,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Combat Gains
 - +2/+2 Soldier Strength
 - -50% Draft Costs
-**Spells:** Aggression, Bloodlust
+- **Spells:** Aggression, Bloodlust
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - -50% Honor Bonus
 - Elite: 14/6, 1000gc, 7.75 NW
@@ -159,7 +159,7 @@ Stats listed here considered 'base effectiveness'
 - No Food required
 - Spreads and is immune to the Plague
 - Converts some Specialists to Elites on Successful Traditional Marches
-**Spells:** Animate Dead, Chastity
+- **Spells:** Animate Dead, Chastity
 - -35% Science Effectiveness
 - Cannot train Elites
 - No Access to Hospitals

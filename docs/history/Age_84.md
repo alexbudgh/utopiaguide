@@ -88,7 +88,7 @@ Stats listed here considered 'base effectiveness'
 - -15% Attack Time
 - -25% Military Train Time
 - +40% Birth Rate
-**Spells:** Greater Protection, Fanaticism
+- **Spells:** Greater Protection, Fanaticism
 - -5% Building Efficiency
 - Cannot Use War Horses/Stables
 - Elite: 16/6, 900gc, 8.5 NW
@@ -98,7 +98,7 @@ Stats listed here considered 'base effectiveness'
 - +30% Building Efficiency
 - +5% Military Efficiency
 - -50% Construction Cost
-**Spells:** Gluttony, Mystic Aura
+- **Spells:** Gluttony, Mystic Aura
 - +100% Food consumption
 - Elite: 12/8, 950gc, 8.0 NW
 
@@ -107,7 +107,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Instant Spell Damage
 - +2 Defensive Specialist Strength
 - Can Cast Support Spells on Kingdom Members
-**Spells:** Chastity, Greater Protection, Mystic Aura
+- **Spells:** Chastity, Greater Protection, Mystic Aura
 - +20% Explore Costs
 - Elite: 12/7, 875gc, 7.5 NW
 
@@ -128,7 +128,7 @@ Stats listed here considered 'base effectiveness'
 - Can use Specialist credits to train Thieves
 - Homes increase maximum Population by 20
 - -20% Military Train Costs
-**Spells:** Town Watch, Vermin
+- **Spells:** Town Watch, Vermin
 - Elite: 10/8, 775gc, 7.25 NW
 
 ### Human
@@ -136,7 +136,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Income
 - +20% Science Effectiveness
 - +2 Offensive Specialist Strength
-**Spells:** Fountain of Knowledge, Quick Feet
+- **Spells:** Fountain of Knowledge, Quick Feet
 - -20% Magic Effectiveness (WPA)
 - Elite: 8/12, 1150gc, 8.25 NW
 
@@ -145,7 +145,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Combat Gains
 - +2/+2 Soldier Strength
 - -50% Draft Costs
-**Spells:** Aggression, Bloodlust
+- **Spells:** Aggression, Bloodlust
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - Elite: 15/6, 925gc, 8.0 NW
 
@@ -156,7 +156,7 @@ Stats listed here considered 'base effectiveness'
 - Spreads and is Immune to the Plague
 - Converts some Specialists to Elites on successful Traditional Marches
 - Prisoners Convert to Elites over time
-**Spells:** Animate Dead, Chastity
+- **Spells:** Animate Dead, Chastity
 - -30% Science Effectiveness
 - Cannot train Elites
 - No Access to Sabotage Thievery Options

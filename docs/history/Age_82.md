@@ -90,7 +90,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Birth Rate
 - -20% Attack Time
 - -50% Ambush Protection
-**Spells:** Greater Protection, Bloodlust
+- **Spells:** Greater Protection, Bloodlust
 - -10% Combat Gains
 - Cannot Use War Horses/Stables
 - +10% Military Casualties
@@ -101,7 +101,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Building Efficiency
 - -40% Build Time
 - +25% Building Credits Gained in Combat
-**Spells:** Greater Protection, Inspire Army, Reflect Magic, Fanaticism
+- **Spells:** Greater Protection, Inspire Army, Reflect Magic, Fanaticism
 - +100% Food consumption
 - Elite: 7/5, 975, 9.0 NW
 
@@ -112,7 +112,7 @@ Stats listed here considered 'base effectiveness'
 - Can Cast Support Spells on Others (2% mana cost when casting on others
 - A complete list of all Support Spells can be found below)
 - +10% Military Efficiency
-**Spells:** Inspire Army, Mage's Fury, Mystic Aura, Chastity
+- **Spells:** Inspire Army, Mage's Fury, Mystic Aura, Chastity
 - +15% Explore Costs
 - Elite: 7/3, 900gc, 10.0 NW
 
@@ -133,7 +133,7 @@ Stats listed here considered 'base effectiveness'
 - Mercenaries and Prisoners fight with 10 strength
 - Can use Specialist credits to train Thieves
 - +1/+1 Soldier Strength
-**Spells:** Aggression, Town Watch and Gluttony
+- **Spells:** Aggression, Town Watch and Gluttony
 - Cannot use Hospitals
 - Elite: 6/6, 700gc, 8.5 NW
 
@@ -142,7 +142,7 @@ Stats listed here considered 'base effectiveness'
 - +15% Science Effectiveness
 - +25% Military Wages
 - +15% Defensive TPA
-**Spells:** Greater Protection, Ghost Workers, Quick Feet, Fountain of Knowledge, Fanaticism
+- **Spells:** Greater Protection, Ghost Workers, Quick Feet, Fountain of Knowledge, Fanaticism
 - -1 Mana Recovery per Tick
 - Elite: 5/7, 1150gc, 10.25 NW
 
@@ -151,7 +151,7 @@ Stats listed here considered 'base effectiveness'
 - +15% Combat Gains
 - +30% Draftees
 - -50% Draft Costs
-**Spells:** Inspire Army
+- **Spells:** Inspire Army
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - 20% of Spells Fail
 - 20% of Thievery Operations Fail
@@ -164,7 +164,7 @@ Stats listed here considered 'base effectiveness'
 - No food required
 - Spreads and is Immune to the Plague
 - Converts some Specialists to Elites on successful Traditional Marches
-**Spells:** Animate Dead, Chastity, Vermin
+- **Spells:** Animate Dead, Chastity, Vermin
 - -25% Science Effectiveness
 - Cannot train Elites
 - Only Basic Thievery Intel Operations Available

@@ -54,7 +54,7 @@ Stats listed here considered 'base effectiveness'
 - -30% Attack travel time
 - +20% Birth Rate
 - +25% Specialist Credits from Attacks
-**Spells:** Fanaticism, Greater Protection, Aggression, Bloodlust
+- **Spells:** Fanaticism, Greater Protection, Aggression, Bloodlust
 - Cannot Use War Horses or Stables
 - Elite: 8/2, 850gc, 8.5 NW
 
@@ -63,7 +63,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Sabotage Damage
 - +50% Honor Bonuses
 - Can Train Thieves using Specialist Credits
-**Spells:** Invisibility, Inspire Army, Nightmare
+- **Spells:** Invisibility, Inspire Army, Nightmare
 - Elite: 5/8, 1000gc, 9.5 NW
 
 ### Dark Elves
@@ -71,7 +71,7 @@ Stats listed here considered 'base effectiveness'
 - +25% Instant Spell Damage
 - +2 Offensive Specialist Strength
 - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
-**Spells:** Nightmare
+- **Spells:** Nightmare
 - +20% Wages
 - 4/8, 1050gc, 10.5 NW
 
@@ -81,7 +81,7 @@ Stats listed here considered 'base effectiveness'
 - -30% Military Train Time
 - Mercenaries & Prisoners 7/0
 - War Horses 3/0
-**Spells:** Inspire Army
+- **Spells:** Inspire Army
 - +15% Attack Travel Time
 - -15% Enemy Military Casualties
 - Elite: 10/1, 950gc, 9 NW
@@ -91,7 +91,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-**Spells:** Mystic Aura, Inspire Army
+- **Spells:** Mystic Aura, Inspire Army
 - Can't use Accelerated Construction
 - +75% Food consumption
 - Elite: 7/5, 950gc, 9.0 NW
@@ -101,14 +101,14 @@ Stats listed here considered 'base effectiveness'
 - +35% Wizardry Effectiveness (WPA)
 - +25% Tower Effectiveness
 - +2 Defensive Specialist Strength
-**Spells:** Inspire Army, Mage's Fury, Chastity,
+- **Spells:** Inspire Army, Mage's Fury, Chastity
 - Elite: 7/5, 1025gc, 10.0 NW
 
 ### Faeries
 
 - +35% Self Spell Duration (will not affect spells on others)
 - Can Cast Fading Spells on Kingdom Mates
-**Spells:** Fool's Gold, Greater Protection, Invisibility, Mystic Aura, Reflect Magic, Tree of Gold, Animate Dead, Mage's Fury
+- **Spells:** Fool's Gold, Greater Protection, Invisibility, Mystic Aura, Reflect Magic, Tree of Gold, Animate Dead, Mage's Fury
 - -10% Income
 - Elite: 3/8, 1200gc, 11.0 NW
 
@@ -117,7 +117,7 @@ Stats listed here considered 'base effectiveness'
 - +50% Thievery Effectiveness (TPA)
 - +10% Population
 - -50% Thief Costs
-**Spells:** Aggression, Town Watch
+- **Spells:** Aggression, Town Watch
 - -10% Building Effectiveness
 - Elite: 5/7, 1000gc, 9.5 NW
 
@@ -126,7 +126,7 @@ Stats listed here considered 'base effectiveness'
 - +30% Income
 - +15% Credits (Building & Training)
 - +35% Scientist Spawn Rate
-**Spells:** Greater Protection, Inspire Army, Quick Feet
+- **Spells:** Greater Protection, Inspire Army, Quick Feet
 - -10% Wizardry Effectiveness (WPA)
 - +20% Rune Costs
 - Elite: 7/5, 1025gc, 10.5 NW
@@ -136,7 +136,7 @@ Stats listed here considered 'base effectiveness'
 - +15% Battle Gains
 - +15% Enemy casualties when attacking
 - Free draft
-**Spells:** Reflect Magic
+- **Spells:** Reflect Magic
 - +10% Military Casualties
 - -15% Thievery Effectiveness (TPA)
 - Elite: 9/2, 950gc, 9.0 NW

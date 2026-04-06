@@ -105,7 +105,7 @@ Stats listed here considered 'base effectiveness'
 - +1 Defensive Specialist Strength
 - -50% Ambush Land Losses
 - +10% birth rates
-**Spells:** Bloodlust, Greater Protection
+- **Spells:** Bloodlust, Greater Protection
 - -10% Combat Gains
 - +10% Military Casualties
 - Cannot Use War Horses or Stables
@@ -116,7 +116,7 @@ Stats listed here considered 'base effectiveness'
 - +20% Building Efficiency
 - -50% Construction Cost
 - +25% Building Credits from attacks
-**Spells:** Clear Sight, Inspire Army, Mystic Aura
+- **Spells:** Clear Sight, Inspire Army, Mystic Aura
 - +100% Food consumption
 - Elite: 7/5, 950gc, 10.5 NW
 
@@ -125,7 +125,7 @@ Stats listed here considered 'base effectiveness'
 - +1% Mana per tick
 - +10% Military Efficiency
 - Can Cast Self Spells on Kingdom Members
-**Spells:** Inspire Army, Mage's Fury, Mystic Aura
+- **Spells:** Inspire Army, Mage's Fury, Mystic Aura
 - +20% Explore Costs
 - Elite: 7/3, 800gc, 8.5 NW
 
@@ -145,7 +145,7 @@ Stats listed here considered 'base effectiveness'
 - Mercenaries and Prisoners fight with 10 strength
 - Can use Specialist credits to train Thieves
 - +1 Offense/Defense Soldiers
-**Spells:** Aggression, Gluttony, Town Watch
+- **Spells:** Aggression, Gluttony, Town Watch
 - Cannot use Hospitals
 - Elite: 5/6, 500gc, 8.0 NW
 
@@ -154,7 +154,7 @@ Stats listed here considered 'base effectiveness'
 - +15% Science Effectiveness
 - +1 Offensive Specialist Strength
 - -25% Military Wages
-**Spells:** Quick Feet, Revelation
+- **Spells:** Quick Feet, Revelation
 - -1% Mana Recovery Per Tick
 - Elite: 5/7, 1050gc, 9.5 NW
 
@@ -163,7 +163,7 @@ Stats listed here considered 'base effectiveness'
 - +10% Combat Gains
 - -50% Draft Costs
 - +15% Enemy Military Casualties
-**Spells:** Inspire Army
+- **Spells:** Inspire Army
 - 20% of Spells Fail
 - 20% of Thievery Operations Fail
 - +10% Damage taken from Sabotage Operations
@@ -176,7 +176,7 @@ Stats listed here considered 'base effectiveness'
 - Converts some Specialists to Elites on Successful Traditional Marches
 - No food needed
 - Spreads and is immune to the Plague
-**Spells:** Animate Dead, Chastity
+- **Spells:** Animate Dead, Chastity
 - -35% Science Effectiveness
 - -1 Offense Specialist Strength
 - -1 Defensive Specialist Strength
