@@ -272,10 +272,9 @@ Mechanics remaining the same.
 
 Draft will be set to aggressive for week 1
 
-Reservist....0.30%....30gc
-
-Normal.......0.60%....50gc
-
-Aggressive...1.00%....75gc
-
-Emergency....1.50%...110gc
+| Draft Rate | Draft Percentage | Cost |
+| --- | --- | --- |
+| Reservist | 0.30% | 30gc |
+| Normal | 0.60% | 50gc |
+| Aggressive | 1.00% | 75gc |
+| Emergency | 1.50% | 110gc |

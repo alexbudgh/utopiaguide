@@ -6,8 +6,6 @@ Below please find the changes for Age 60. Thanks to everyone that provided feedb
 
 This age we focused on changing the flow of the game start by reducing the duration of protection and modifying provinces starting resources. There are also some changes to exploring as well as the usual balancing race and personality changes.
 
-Comment thread here.
-
 ## Schedule
 
 End of Age 59: Friday 13th December at 12:00 GMT
