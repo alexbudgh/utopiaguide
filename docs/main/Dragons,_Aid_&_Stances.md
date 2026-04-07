@@ -38,7 +38,3 @@ Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 13
 | **Relations: [Unfriendly](../guide/Relations.md)** | 0.5 |
 | **Relations: [Hostile](../guide/Relations.md)** | 0.75 |
 | **Relations: [War](../guide/Relations.md)** | 1 |
-
--->
-
----
