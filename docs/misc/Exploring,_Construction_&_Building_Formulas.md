@@ -14,7 +14,7 @@ Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double S
 
 | **Modifier Type** | **Active** | **Otherwise** |
 | --- | --- | --- |
-| **[Builders Boon](../guide/Mystics.md)** | 0.75 | 1 |
+| **[Builders Boon](../guide/Mystics.md#builders-boon)** | 0.75 | 1 |
 | **Double Speed** | 0.5 | 1 |
 | **Double Speed in Protection** | 0.75 | 1 |
 | **War** | 0.75 | 1 |
@@ -62,7 +62,7 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 | --- | --- | --- |
 | **Race: Dwarf** | 1.25 | 1 |
 | **Dragon: [Topaz](../main/Dragons.md)** | 0.75 | 1 |
-| **Spell: [Blizzard](../guide/Mystics.md)** | 0.9 | 1 |
+| **Spell: [Blizzard](../guide/Mystics.md#blizzard)** | 0.9 | 1 |
 
 ### Building Effects
 

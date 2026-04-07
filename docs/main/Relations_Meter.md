@@ -84,25 +84,25 @@ No Effects
 
 *Mystics:*
 
-- [Expose Thieves](../guide/Mystics.md)
-- [Fireball](../guide/Mystics.md)
-- [Lightning Strike](../guide/Mystics.md)
-- [Chastity](../guide/Mystics.md)
-- [Fool's Gold](../guide/Mystics.md)
-- [Nightmares](../guide/Mystics.md)
-- [Mystic Vortex](../guide/Mystics.md)
-- [Tornadoes](../guide/Mystics.md)
-- [Land Lust](../guide/Mystics.md)
-- [Abolish Ritual](../guide/Mystics.md)
-- [Magic Ward](../guide/Mystics.md)
-- [Sloth](../guide/Mystics.md)
+- [Expose Thieves](../guide/Mystics.md#expose-thieves)
+- [Fireball](../guide/Mystics.md#fireball)
+- [Lightning Strike](../guide/Mystics.md#lightning-strike)
+- [Chastity](../guide/Mystics.md#chastity)
+- [Fool's Gold](../guide/Mystics.md#fools-gold)
+- [Nightmares](../guide/Mystics.md#nightmares)
+- [Mystic Vortex](../guide/Mystics.md#mystic-vortex)
+- [Tornadoes](../guide/Mystics.md#tornadoes)
+- [Land Lust](../guide/Mystics.md#land-lust)
+- [Abolish Ritual](../guide/Mystics.md#abolish-ritual)
+- [Magic Ward](../guide/Mystics.md#magic-ward)
+- [Sloth](../guide/Mystics.md#sloth)
 
 *Thievery:*
 
-- [Night Strike](../misc/Thievery.md)
-- [Assassinate Wizards](../misc/Thievery.md)
-- [Greater Arson](../misc/Thievery.md)
-- [Sabotage Wizards](../misc/Thievery.md)
+- [Night Strike](../misc/Thievery.md#night-strike)
+- [Assassinate Wizards](../misc/Thievery.md#assassinate-wizards)
+- [Greater Arson](../misc/Thievery.md#greater-arson)
+- [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards)
 
 ### Hostile
 
@@ -110,7 +110,7 @@ No Effects
 - A [Dragon](Dragons.md) sent to a Hostile Kingdom will only have 75% health points.
 - Mana costs of Offensive Spells decreases to 2%
 - Stealth costs of Offensive Operations decreases to 2%
-- Access to [Meteor Showers](../guide/Mystics.md)
+- Access to [Meteor Showers](../guide/Mystics.md#meteor-showers)
 
 ### War
 
@@ -123,12 +123,12 @@ No Effects
 
 *Mystics:*
 
-- [Amnesia](../guide/Mystics.md)
-- [War Spoils](../guide/Mystics.md)
+- [Amnesia](../guide/Mystics.md#amnesia)
+- [War Spoils](../guide/Mystics.md#war-spoils)
 
 *Thievery:*
 
-- [Propaganda](../misc/Thievery.md)
+- [Propaganda](../misc/Thievery.md#propaganda)
 
 ## Changelog
 

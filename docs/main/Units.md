@@ -85,8 +85,8 @@ Soldiers Drafted per Tick = Peasants * Draft Speed * Race Bonus * Personality Bo
 
 | Modifier | Active | Otherwise |
 | --- | --- | --- |
-| [Patriotism](../guide/Mystics.md) | 1.3× | 1× |
-| [Sloth](../guide/Mystics.md) | 0.5× | 1× |
+| [Patriotism](../guide/Mystics.md#patriotism) | 1.3× | 1× |
+| [Sloth](../guide/Mystics.md#sloth) | 0.5× | 1× |
 | Ruby [Dragon](../main/Dragons.md) | 0.75× | 1× |
 | Expedient Ritual | 1.2× | 1× |
 
@@ -97,7 +97,7 @@ Cost of Soldier Drafting = Current Draft Level Factor * Draft Rate * Race Bonus 
 ```
 
 - Draft Level Factor scales base cost upward once 50% of max population is drafted
-- [Drought](../guide/Mystics.md) reduces draft rate by 15%
+- [Drought](../guide/Mystics.md#droughts) reduces draft rate by 15%
 
 | Draft Rate | Speed | Cost per Soldier |
 | --- | --- | --- |

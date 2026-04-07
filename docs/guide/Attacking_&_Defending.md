@@ -174,7 +174,7 @@ Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
 | --- | --- | --- |
 | **Def Spec Points** | *Variable* | 10 |
 | **Elite Defense** | *Variable* |
-| **[Town Watch](../guide/Mystics.md)** | Peasants / 5 | 0 |
+| **[Town Watch](../guide/Mystics.md#town-watch)** | Peasants / 5 | 0 |
 
 ### Minimum Defense
 

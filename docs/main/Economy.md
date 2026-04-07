@@ -4,7 +4,7 @@
 
 **Gold Coin** (1gc or $1) is Utopian Currency, the base of Utopian Economics.
 
-Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md).
+Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md#tree-of-gold).
 
 Spend money on Exploration, Building, Training, Wages, Dragons or aid your teammates.
 

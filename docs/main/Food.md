@@ -12,7 +12,7 @@ Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
 | --- | --- | --- |
 | Race: [Undead](../main/Race.md) | 0 | 1 |
 | Race: [Dwarf](../main/Race.md) | 1.5 | 1 |
-| Spell: [Gluttony](../guide/Mystics.md) | 1.25 | 1 |
+| Spell: [Gluttony](../guide/Mystics.md#gluttony) | 1.25 | 1 |
 
 - If a province has zero food, it will enter into a state of starvation. While a province is starving, its population (peasants, military units and thieves) will die off at a rate proportional to the food deficit (this also includes armies away from home). Wizards are not affected. This rate is capped at 5% and will continue until the province has a value for food greater than 0.
 
@@ -26,8 +26,8 @@ Modified Food Production = Base Food Production * Production Science Mod * Ferti
 
 | **Condition** | **Modifier** |
 | --- | --- |
-| [Fertile Lands](../guide/Mystics.md) | 1.25 |
-| [Drought](../guide/Mystics.md) | 0.75 |
+| [Fertile Lands](../guide/Mystics.md#fertile-lands) | 1.25 |
+| [Drought](../guide/Mystics.md#droughts) | 0.75 |
 
 ## Food Decayed
 
