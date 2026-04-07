@@ -10,13 +10,13 @@ Hi all. Here are the changes for age 51 - the developers have taken feedback onb
 
 Bonuses:
 
-* - 25% attack times
+* -25% attack times
 
 * Immune to Fog
 
 Penalty:
 
-* - 20% birthrate (reduced from -30%)
+* -20% birthrate (reduced from -30%)
 
 * No access to stables
 
@@ -34,7 +34,7 @@ Other Information:
 
 Bonuses:
 
-* + 25% BE (up from 20%)
+* +25% BE (up from 20%)
 
 * Free Building Construction
 
@@ -42,7 +42,7 @@ Penalty:
 
 * Accelerated Construction not available
 
-* - 20% thievery effectiveness
+* -20% thievery effectiveness
 
 * food consumption doubled
 
@@ -60,7 +60,7 @@ Other Information:
 
 Bonuses:
 
-* + 2 mana per tick in war
+* +2 mana per tick in war
 
 * Defensive Specialist Strength +1
 
@@ -86,13 +86,13 @@ Other Information:
 
 Bonuses:
 
-* + 50% magic effectivness
+* +50% magic effectivness
 
-* + 1 stealth per tick
+* +1 stealth per tick
 
 Penalty:
 
-* - 10% population
+* -10% population
 
 Other Information:
 
@@ -110,11 +110,11 @@ No change.
 
 Bonuses:
 
-* + 40% thievery effectiveness
+* +40% thievery effectiveness
 
-* - 50% thief cost
+* -50% thief cost
 
-* + 5% population
+* +5% population
 
 * Espionage operations are 100% accurate in war
 
@@ -136,13 +136,13 @@ Other Information:
 
 Bonuses:
 
-* + 30% income (up from 20%)
+* +30% income (up from 20%)
 
-* + 20% Thievery Effectiveness
+* +20% Thievery Effectiveness
 
 Penalty:
 
-* - 20% magic effectiveness
+* -20% magic effectiveness
 
 * Offensive Specialist Strength -1
 
@@ -160,19 +160,19 @@ Other Information:
 
 Bonuses:
 
-* + 30% gains
+* +30% gains
 
 * Can train elites with credits 
 
 * (loses - 30% training speed)
 
-* - 30% Draft Cost
+* -30% Draft Cost
 
 Penalty:
 
-* - 50% effects from honor
+* -50% effects from honor
 
-* - 20% thievery and magic effectiveness
+* -20% thievery and magic effectiveness
 
 Other Information:
 
@@ -198,7 +198,7 @@ Bonuses:
 
 Penalty:
 
-* - 15% science effectiveness (from -20%)
+* -15% science effectiveness (from -20%)
 
 * Access to basic thievery operations only (neutral relations ops)
 
@@ -238,9 +238,9 @@ No change.
 
 ### The Sage
 
-* + 30% Science effectiveness (up from 25%)
+* +30% Science effectiveness (up from 25%)
 
-* - 30% Book Costs
+* -30% Book Costs
 
 * -30% Research Time
 

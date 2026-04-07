@@ -10,13 +10,13 @@ Here is the changelog for Age 52. The changes to the relations system and the st
 
 Bonuses:
 
-* - 25% attack times
+* -25% attack times
 
 (lost fog immunity)
 
 Penalty:
 
-* - 25% birthrate  (from -20%)
+* -25% birthrate  (from -20%)
 
 * No access to stables
 
@@ -34,7 +34,7 @@ Other Information:
 
 Bonuses:
 
-* + 20% BE (down from 25%)
+* +20% BE (down from 25%)
 
 * Free Building Construction
 
@@ -44,7 +44,7 @@ Penalty:
 
 * Accelerated Construction not available
 
-* - 20% thievery effectiveness
+* -20% thievery effectiveness
 
 * food consumption doubled
 
@@ -62,7 +62,7 @@ Other Information:
 
 Bonuses:
 
-* + 2 mana per tick in war
+* +2 mana per tick in war
 
 * Defensive Specialist Strength +1
 
@@ -88,13 +88,13 @@ No change.
 
 Bonuses:
 
-* + 50% magic effectivness
+* +50% magic effectivness
 
-* + 1 stealth per tick
+* +1 stealth per tick
 
 Penalty:
 
-* - 10% population
+* -10% population
 
 Other Information:
 
@@ -112,11 +112,11 @@ No change.
 
 Bonuses:
 
-* + 40% thievery effectiveness
+* +40% thievery effectiveness
 
-* - 50% thief cost
+* -50% thief cost
 
-* + 5% population
+* +5% population
 
 * Espionage operations are 100% accurate in war
 
@@ -138,9 +138,9 @@ Other Information:
 
 Bonuses:
 
-* + 30% income
+* +30% income
 
-* + 40% Damage on sabotage ops
+* +40% Damage on sabotage ops
 
 Penalty:
 
@@ -162,17 +162,17 @@ Other Information:
 
 Bonuses:
 
-* + 30% gains
+* +30% gains
 
 * Trains elites with credits
 
-* - 30% Draft Cost
+* -30% Draft Cost
 
 Penalty:
 
-* - 50% effects from honor
+* -50% effects from honor
 
-* - 40% thievery and magic damage (on offensive operations)
+* -40% thievery and magic damage (on offensive operations)
 
 Other Information:
 
@@ -200,7 +200,7 @@ Bonuses:
 
 Penalty:
 
-* - 15% science effectiveness
+* -15% science effectiveness
 
 * Access to basic thievery operations only (neutral relations ops)
 
@@ -240,9 +240,9 @@ Only shepherd changed, posting all for completeness.
 
 ### The Sage
 
-* + 30% Science effectiveness
+* +30% Science effectiveness
 
-* - 30% Book Costs
+* -30% Book Costs
 
 * -30% Research Time
 
@@ -288,7 +288,7 @@ Only shepherd changed, posting all for completeness.
 
 ### The Cleric
 
-* - 50% Your Military Casualties (on attack or defense)
+* -50% Your Military Casualties (on attack or defense)
 
 * Troops losses on attacks or defense converted to soldiers
 
