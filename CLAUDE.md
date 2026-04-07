@@ -35,3 +35,17 @@ Project-specific guidance for editing the Utopia Guide docs.
 - Use bullet summaries instead of wide one-row tables for stances,
   relations, dragons, and similar dense summaries when the table is hard
   to read on narrow screens.
+- If an age page is only a placeholder forum link, prefer replacing it
+  with a full local archive from the forum or Wayback rather than
+  keeping a thin outbound link.
+- The live forum is flaky. Prefer using the repo helpers under
+  `scripts/`:
+  `fetch_forum_page.sh`, `fetch_wayback_thread.py`, and
+  `extract_forum_post.py`.
+- If a recovered forum post is structured as `Age N` compared against
+  `Age N-1`, preserve that comparison shape explicitly with `#### Age N`
+  and `#### Age N-1` subsections instead of flattening the old values
+  into prose.
+- For recovered forum-backed age pages, keep the content materially
+  intact while normalizing headings, bullets, and labels to match the
+  surrounding age-doc style.
