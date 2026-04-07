@@ -79,7 +79,7 @@
 
 ### Rituals
 
-Stats listed here considered 'base effectiveness'
+**Base Ritual Effects**
 
 - Affluent: Income +20% & Draft Speed +25%
 - Barrier: +10% DME & -20% Spell/Thief damage & +15% Defensive TPA & +15% Defensive WPA
