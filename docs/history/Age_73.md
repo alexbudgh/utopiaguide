@@ -396,17 +396,60 @@
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Prosperous |
-| - No Effects | - +10% Combat Gains - -15% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 72 hours maximum duration (with 96 hour cooldown) - -20% gains hitting out - -20% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -15% Attack Time
+    - +30% Military Wages
+    - +10% Military losses
+- **Prosperous**
+    - -40% Military training time and cost
+    - +40% draft speed
+    - -50% Construction time and cost
+    - +200% Birth Rate
+    - 72-hour maximum duration with 96-hour cooldown
+    - -20% gains hitting out and on magic/thievery ops out
+    - +500% Explore costs
+    - No Paradise spell
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 72 U-Days - +500% birth rate - 30% reduction in training costs of all troops. - Draft cost reduced 50% - Combined with War Relations - Separate annul the Relations (War and CF) - All land currently out with armies at war end returns home immediately. - Instant population growth of 20% of your max pop if you are under 50% of your max pop | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2%  ---   *Penalties*   - +500% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -25% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-72 Utopian days
+    - +500% birth rate
+    - -30% troop training costs
+    - -50% draft cost
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+    - All land currently out returns home immediately at war end
+    - Instant population growth of 20% of max population if below 50%
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile:** +10% Combat Gains, increases Conquest networth range,
+  offensive spells cost 2% mana, offensive ops cost 2% stealth
+- **War**
+    - Immediate effects
+        - Annuls the Hostile Meter with everyone
+        - -10% Attack Time
+        - Enhanced Massacre destroys buildings
+        - +10% Combat Gains
+        - Offensive spells cost 2% mana
+        - Offensive ops cost 2% stealth
+    - Penalties
+        - +500% Exploration Costs
+        - No Paradise spell
+        - Science limited to Active
+    - After 12 hours
+        - -25% Attack Time
+    - After 24 hours
+        - -25% Military Losses
+        - -25% Military Training Time
+        - No distance penalties for attacks
+        - -75% gains/effectiveness for operations to and from other
+          kingdoms
 
 ## Dragons
 
