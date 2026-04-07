@@ -42,7 +42,7 @@ In Utopia, focusing on a clear role helps shape your strategy. The four main rol
 
 ## Race & Personality
 
-Choose [Races and Personalities](../history/Races_and_Personalities.md) that fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
+Choose your [Race](../main/Race.md) and [Personality](../main/Personality.md) to fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
 
 ## Buildings
 
