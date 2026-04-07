@@ -4,6 +4,8 @@
 
 Here are the final changes for Age 58. As mentioned in the proposed changes thread we are focusing on usability features such as intel storage and target finding as well as preparing infrastructure for future features. As well as some race/personality changes we will be revising further the exploring structure of the game and reworking the war win chart calculation. Thank you to everyone who provided feedback, you can provide more comments here.
 
+## Schedule
+
 End of Age 57: Tuesday 4th June, 12.00 GMT
 
 Start of Age 58 Freeze: Tuesday 4th June, 18.00 GMT
@@ -12,349 +14,391 @@ Start of Age 58 Protection: Friday 7th June, 18.00 GMT
 
 End of Age 58 Protection: Monday 10th June, 18.00 GMT
 
-Race (see previous info by clicking "show text")
+## Race Changes
 
-Avians
+See previous info by clicking "show text".
 
--30% attack time
+### Avian
 
-+25% Sabotage damage
+#### Age 58
 
--25% birth rate
+- -30% attack time
 
-No Access to Stables
+- +25% Sabotage damage
 
-Town Watch, Vermin, Mystic Aura
+- -25% birth rate
 
-Elite: 6/3, 650gc, 5.25NW
+- No Access to Stables
 
-Avians
+- Town Watch, Vermin, Mystic Aura
 
--25% attack time
+- Elite: 6/3, 650gc, 5.25NW
 
-+20% Sabotage damage
+#### Age 57
 
--20% birth rate
+- -25% attack time
 
-No Access to Stables
+- +20% Sabotage damage
 
-Town Watch, Vermin, Mystic Aura
+- -20% birth rate
 
-Elite: 6/3, 650gc, 5.25NW
+- No Access to Stables
 
-Dwarves
+- Town Watch, Vermin, Mystic Aura
 
-+25% Building Efficiency
+- Elite: 6/3, 650gc, 5.25NW
 
-Free Building Construction
+### Dwarf
 
-Can use credits to raze buildings
+#### Age 58
 
-+20% Spell Damage (Instant Spells)
+- +25% Building Efficiency
 
-+50% Food Consumption
+- Free Building Construction
 
-Can't use Accelerated Construction
+- Can use credits to raze buildings
 
-Fanaticism, Fools Gold, Quick Feet
+- +20% Spell Damage (Instant Spells)
 
-Elite: 6/2, 600gc, 5NW
+- +50% Food Consumption
 
-Dwarves
+- Can't use Accelerated Construction
 
-+20% Building Efficiency
+- Fanaticism, Fools Gold, Quick Feet
 
-Free Building Construction
+- Elite: 6/2, 600gc, 5NW
 
-Can use credits to raze buildings
+#### Age 57
 
-+20% Spell Damage (Instant Spells)
+- +20% Building Efficiency
 
-+75% Food Consumption
+- Free Building Construction
 
-Can't use Accelerated Construction
+- Can use credits to raze buildings
 
-Fanaticism, Fools Gold, Quick Feet 
+- +20% Spell Damage (Instant Spells)
 
-Elite: 6/2, 750gc, 5NW
+- +75% Food Consumption
 
-Elves
+- Can't use Accelerated Construction
 
-+1 Mana Recovery in war
+- Fanaticism, Fools Gold, Quick Feet
 
-+50% WPA
+- Elite: 6/2, 750gc, 5NW
 
-+1 defence specialist strength
+### Elf
 
-Pitfalls, Mages Fury, Amnesia, Nightmare
+#### Age 58
 
-Elite: 5/3, 650gc, 4.75NW
+- +1 Mana Recovery in war
 
-Elves
+- +50% WPA
 
-+1 Mana Recovery in War
+- +1 defence specialist strength
 
-+30% WPA
+- Pitfalls, Mages Fury, Amnesia, Nightmare
 
-+1 defence specialist strength
+- Elite: 5/3, 650gc, 4.75NW
 
-Pitfalls, Mages Fury, Amnesia, Nightmare
+#### Age 57
 
-Elite: 5/3, 650gc, 4.75NW
+- +1 Mana Recovery in War
 
-Faeries
+- +30% WPA
 
-+20% Spell Damage (Instant Spells)
+- +1 defence specialist strength
 
-+20% Sabotage damage
+- Pitfalls, Mages Fury, Amnesia, Nightmare
 
-+10% TPA
+- Elite: 5/3, 650gc, 4.75NW
 
-+10% WPA
+### Faery
 
--3 generals
+#### Age 58
 
--50% effects from honor
+- +20% Spell Damage (Instant Spells)
 
-Access to All Racial Spells
+- +20% Sabotage damage
 
-Elite: 3/6, 1000gc, 6NW
+- +10% TPA
 
-Faeries
+- +10% WPA
 
-+40% Spell Damage (Instant Spells)
+- -3 generals
 
-+30% Sabotage damage
+- -50% effects from honor
 
--3 generals
+- Access to All Racial Spells
 
--50% effects from honor
+- Elite: 3/6, 1000gc, 6NW
 
-Access to All Racial Spells
+#### Age 57
 
-Elite: 3/6, 800gc, 6NW
+- +40% Spell Damage (Instant Spells)
 
-Halflings
+- +30% Sabotage damage
 
-+50% TPA
+- -3 generals
 
-+1 stealth
+- -50% effects from honor
 
--50% thief cost
+- Access to All Racial Spells
 
--15% Attack Gains
+- Elite: 3/6, 800gc, 6NW
 
-Invisibility, Town Watch, Aggression, Animate Dead
+### Halfling
 
-Soldiers: 2/2; Elite: 5/5, 500gc, 5.5NW
+#### Age 58
 
-Halflings
+- +50% TPA
 
-+40% TPA
+- +1 stealth
 
-+1 stealth
+- -50% thief cost
 
--50% thief cost
+- -15% Attack Gains
 
--15% Attack Gains
+- Invisibility, Town Watch, Aggression, Animate Dead
 
-Invisibility, Town Watch, Aggression, Animate Dead
+- Soldiers: 2/2; Elite: 5/5, 500gc, 5.5NW
 
-Soldiers: 2/2; Elite: 5/5, 500gc, 5.5NW
+#### Age 57
 
-Humans
+- +40% TPA
 
-+8% Population
+- +1 stealth
 
-+30% Sabotage damage
+- -50% thief cost
 
-+30% Spell Damage (Instant Spells)
+- -15% Attack Gains
 
-+1 Offense specialist strength
+- Invisibility, Town Watch, Aggression, Animate Dead
 
-Tree of Gold, Fountain of Knowledge, War Spoils
+- Soldiers: 2/2; Elite: 5/5, 500gc, 5.5NW
 
-Elite: 4/4, 800gc, 4NW
+### Human
 
-Humans
+#### Age 58
 
-+10% Population
+- +8% Population
 
-+20% Sabotage damage
+- +30% Sabotage damage
 
-+30% Spell Damage (Instant Spells)
+- +30% Spell Damage (Instant Spells)
 
-+1 Offense specialist strength
+- +1 Offense specialist strength
 
-Tree of Gold, Fountain of Knowledge, War Spoils
+- Tree of Gold, Fountain of Knowledge, War Spoils
 
-Elite: 4/4, 700gc, 4NW
+- Elite: 4/4, 800gc, 4NW
 
-Orcs
+#### Age 57
 
-+30% Gains
+- +10% Population
 
-Earns Elite Credits
+- +20% Sabotage damage
 
--50% Combat Instant Spell Damage and Duration
+- +30% Spell Damage (Instant Spells)
 
--50% Sabotage Damage
+- +1 Offense specialist strength
 
-Bloodlust, Fanaticism, Reflect Magic
+- Tree of Gold, Fountain of Knowledge, War Spoils
 
-Elite: 7/1, 800gc, 5.75NW
+- Elite: 4/4, 700gc, 4NW
 
-Orcs
+### Orc
 
-+25% Gains
+#### Age 58
 
-Earns Elite Credits
+- +30% Gains
 
--50% Combat Instant Spell Damage and Duration
+- Earns Elite Credits
 
--50% Sabotage Damage
+- -50% Combat Instant Spell Damage and Duration
 
-Bloodlust, Fanaticism, Reflect Magic
+- -50% Sabotage Damage
 
-Elite: 7/1, 800gc, 5.75NW
+- Bloodlust, Fanaticism, Reflect Magic
 
-Undead
+- Elite: 7/1, 800gc, 5.75NW
 
--50% Offensive losses on attacks you make
+#### Age 57
 
-Converts some Specialists into Elites on successful land attacks
+- +25% Gains
 
-Spreads and is Immune to The Plague
+- Earns Elite Credits
 
-No Food Required
+- -50% Combat Instant Spell Damage and Duration
 
-Basic Thievery (Intel operations only)
+- -50% Sabotage Damage
 
--20% Science Effectiveness
+- Bloodlust, Fanaticism, Reflect Magic
 
-Greater Protection, Town Watch, Chastity, Clearsight
+- Elite: 7/1, 800gc, 5.75NW
 
-Elite: 7/2, 1000gc, 6NW
+### Undead
 
-Undead
+#### Age 58
 
--50% Offensive losses on attacks you make
+- -50% Offensive losses on attacks you make
 
-Converts some Specialists into Elites on successful land attacks
+- Converts some Specialists into Elites on successful land attacks
 
-Spreads and is Immune to The Plague
+- Spreads and is Immune to The Plague
 
-No Food Required
+- No Food Required
 
-Basic Thievery (Intel operations only)
+- Basic Thievery (Intel operations only)
 
--30% Science Effectiveness
+- -20% Science Effectiveness
 
-Greater Protection, Town Watch, Chastity, Clearsight
+- Greater Protection, Town Watch, Chastity, Clearsight
 
-Elite: 7/2, 1000gc, 6NW
+- Elite: 7/2, 1000gc, 6NW
 
-Personality Changes
+#### Age 57
 
-The Merchant
+- -50% Offensive losses on attacks you make
 
-+20% Income
+- Converts some Specialists into Elites on successful land attacks
 
--50% Money Losses on Plunder Attacks
+- Spreads and is Immune to The Plague
 
-Gain 40% more Specialist and Building Credits
+- No Food Required
 
-The Merchant
+- Basic Thievery (Intel operations only)
 
-+20% Income
+- -30% Science Effectiveness
 
--50% Money Losses on Plunder Attacks
+- Greater Protection, Town Watch, Chastity, Clearsight
 
-Gain 20% more Specialist and Building Credits
+- Elite: 7/2, 1000gc, 6NW
 
-The Sage
+## Personality Changes
 
-+25% Science effectiveness
+### The Merchant
 
--20% cost of science
+#### Age 58
 
--50% Losses on Learn Attacks
+- +20% Income
 
-The Sage
+- -50% Money Losses on Plunder Attacks
 
-+25% Science effectiveness
+- Gain 40% more Specialist and Building Credits
 
--25% cost of science
+#### Age 57
 
--50% Losses on Learn Attacks
+- +20% Income
 
-The Rogue - no change
+- -50% Money Losses on Plunder Attacks
 
-+1 Stealth recovery per tick
+- Gain 20% more Specialist and Building Credits
 
-Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+### The Sage
 
-Thieves Dens are twice as effective (subject to DBE)
+#### Age 58
 
-The Mystic - no change
+- +25% Science effectiveness
 
-Access to Meteor Showers
+- -20% cost of science
 
-All Guilds and Towers are twice as effective
+- -50% Losses on Learn Attacks
 
-+30% Spell Duration (For Duration Spells Only)
+#### Age 57
 
-+1 mana per tick in War
+- +25% Science effectiveness
 
-The Warrior
+- -25% cost of science
 
-+15% OME in war
+- -50% Losses on Learn Attacks
 
-Reawaken 30% Casualties
+### The Rogue
 
-Enhanced Conquest range
+#### Age 58
 
-The Warrior
+- No change
 
-+20% OME in war
+- +1 Stealth recovery per tick
 
-Reawaken 50% Casualties
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
 
-Enhanced Conquest range
+- Thieves Dens are twice as effective (subject to DBE)
 
-The Tactician - no change
+### The Mystic
 
--15% Attack Time
+#### Age 58
 
-Immune to Ambush
+- No change
 
-Accurate Espionage (in war)
+- Access to Meteor Showers
 
-The Cleric
+- All Guilds and Towers are twice as effective
 
--30% Your Military Casualties (on attack or defense)
+- +30% Spell Duration (For Duration Spells Only)
 
-+1 General
+- +1 mana per tick in War
 
-The Cleric
+### The Warrior
 
--50% Your Military Casualties (on attack or defense)
+#### Age 58
 
-+1 General
+- +15% OME in war
 
-The War Hero - no change
+- Reawaken 30% Casualties
 
-+50% more bonuses from honor
+- Enhanced Conquest range
 
--50% train time
+#### Age 57
 
-Immune to Dragon effects
+- +20% OME in war
 
-Immune to The Plague
+- Reawaken 50% Casualties
 
-Mechanic Changes
+- Enhanced Conquest range
 
-Exploring
+### The Tactician
+
+#### Age 58
+
+- No change
+
+- -15% Attack Time
+
+- Immune to Ambush
+
+- Accurate Espionage (in war)
+
+### The Cleric
+
+#### Age 58
+
+- -30% Your Military Casualties (on attack or defense)
+
+- +1 General
+
+#### Age 57
+
+- -50% Your Military Casualties (on attack or defense)
+
+- +1 General
+
+### The War Hero
+
+#### Age 58
+
+- No change
+
+- +50% more bonuses from honor
+
+- -50% train time
+
+- Immune to Dragon effects
+
+- Immune to The Plague
+
+## Mechanic Changes
+
+### Exploring
 
 Pool growth will be changed from 100 a tick to 50. Decay will be reduced to .25% per tick. In addition to the pool not decaying in war it will not decay if it is less than 10,000 acres.
 
@@ -362,13 +406,13 @@ The explore formula curve will be modified so as to push out the curve. We will 
 
 The War Win chart formula will be updated to utilise your opponents war wins, as well as relative networth. <-- due to an issue this change has been rolled back and delayed until a future date (i.e next age).
 
-Usability features
+### Usability Features
 
-Intel Store
+#### Intel Store
 
 We will add a Intel repository for players to store basic information on a province, such as defense and active ops on them with duration remaining. Intel will disappear after 24 hours unless its updated. You can see this information in a tab on the kingdom page of your enemy.
 
-Province target finder
+#### Province Target Finder
 
 We will incorporate a province filter. Players can select all or particular races to view and the game will automatically display the 10 closest provinces both larger and smaller than your province. The data is collected from the games charts, which will now update every 2 hours. You can see this information in a tab on your war room.
 

@@ -2,6 +2,8 @@
 
 **Forum Source:** [Age 54 Final Changes and Start Times](https://forums.utopia-game.com/showthread.php?621943)
 
+## Schedule
+
 Age 54 start dates and Age 53 end dates:
 
 Tuesday May 8th, 12.00 GMT - End of age
@@ -14,37 +16,39 @@ Monday May 14th, 18.00 GMT - End of Protection
 
 For Age 54 the following changes will be implemented (use the Show Text button to see age 53 details). Thanks to everyone that contributed.
 
-Race Changes
+## Race Changes
 
-Avian
+### Avian
 
--25% Attack Time
+#### Age 54
 
-+40% Sabotage damage
+- -25% Attack Time
+
+- +40% Sabotage damage
 
 - 10% attack gains
 
-No Access to Stables
+- No Access to Stables
 
-Spell book: Town Watch, Vermin, Mystic Aura
+- Spell book: Town Watch, Vermin, Mystic Aura
 
-Elite: 7/2, 600gc, 6.25NW
+- Elite: 7/2, 600gc, 6.25NW
 
-Avians
+#### Age 53
 
-Bonuses:
+**Bonuses**
 
 * - 30% attack times
 
 * Defensive Specialist Strength +1
 
-Penalty:
+**Penalty**
 
 * - 10% attack gains
 
 * No access to stables
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Griffins (5/0)
 
@@ -54,27 +58,29 @@ Other Information:
 
 * Spell book: Clear Sight, Town Watch, Fanaticism
 
-Dwarf
+### Dwarf
 
-+ 15% BE
+#### Age 54
 
-+ 30% Spell Damage (Instant Spells)
+- + 15% BE
 
-Free Building Construction
+- + 30% Spell Damage (Instant Spells)
 
-Can use credits to raze buildings
+- Free Building Construction
 
-+ 50% Food consumption
+- Can use credits to raze buildings
 
-Accelerated Construction not available
+- + 50% Food consumption
 
-Spell book: Quick Feet, Fanaticism, Fools Gold, Clearsight
+- Accelerated Construction not available
 
-Elite: 7/3, 750gc, 6.5NW
+- Spell book: Quick Feet, Fanaticism, Fools Gold, Clearsight
 
-Dwarves
+- Elite: 7/3, 750gc, 6.5NW
 
-Bonuses:
+#### Age 53
+
+**Bonuses**
 
 * + 20% BE
 
@@ -82,7 +88,7 @@ Bonuses:
 
 * Can use credits to raze buildings
 
-Penalty:
+**Penalty**
 
 * Accelerated Construction not available
 
@@ -90,7 +96,7 @@ Penalty:
 
 * + 50% food consumption
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Warriors (5/0)
 
@@ -100,21 +106,23 @@ Other Information:
 
 * Spell book: Vermin, Quick feet
 
-Elves
+### Elf
 
-+50% WPA
+#### Age 54
 
-+1 mana in war
+- +50% WPA
 
-+ 1 defence specialist strength
+- +1 mana in war
 
-Spellbook: Pitfalls, Mages Fury, Amnesia, Nightmare
+- + 1 defence specialist strength
 
-Elite: 6/4, 700gc, 6NW
+- Spellbook: Pitfalls, Mages Fury, Amnesia, Nightmare
 
-Elves
+- Elite: 6/4, 700gc, 6NW
 
-Bonuses:
+#### Age 53
+
+**Bonuses**
 
 * + 2 mana per tick in war
 
@@ -122,11 +130,11 @@ Bonuses:
 
 * +30% damage on instant offensive spells.
 
-Penalty:
+**Penalty**
 
 * None
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Rangers (5/0)
 
@@ -136,37 +144,39 @@ Other Information:
 
 * Spellbook: Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
 
-Faery
+### Faery
 
-+ 30% Spell Damage (Instant Spells)
+#### Age 54
 
-+ 30% Sabotage damage
+- + 30% Spell Damage (Instant Spells)
 
-+ 30% WPA and TPA
+- + 30% Sabotage damage
 
--10% Population
+- + 30% WPA and TPA
 
-Offensive Specialist Strength -2
+- -10% Population
 
-Spellbook: All racial spells
+- Offensive Specialist Strength -2
 
-Elite: 3/8, 1000gc, 7.5NW
+- Spellbook: All racial spells
 
-Faery
+- Elite: 3/8, 1000gc, 7.5NW
 
-Bonuses:
+#### Age 53
+
+**Bonuses**
 
 * + 50% magic effectiveness
 
 * + 50% thievery effectiveness
 
-Penalty:
+**Penalty**
 
 * - 10% population
 
 * Offensive Specialist Strength -1
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Magicians (4/0)
 
@@ -176,25 +186,27 @@ Other Information:
 
 * Spellbook: All spells
 
-Halflings
+### Halfling
 
-+50% TPA
+#### Age 54
 
-+1 stealth
+- +50% TPA
+
+- +1 stealth
 
 - 50% thief cost
 
--15% Birth Rate
+- -15% Birth Rate
 
-Spellbook: Invisibility, Town Watch
+- Spellbook: Invisibility, Town Watch
 
-Soldiers: 2/2
+- Soldiers: 2/2
 
-Elite: 5/6, 550gc, 5.75NW
+- Elite: 5/6, 550gc, 5.75NW
 
-Halflings
+#### Age 53
 
-Bonuses:
+**Bonuses**
 
 * + 1 extra stealth per tick
 
@@ -204,11 +216,11 @@ Bonuses:
 
 * Espionage operations are 100% accurate in war
 
-Penalty:
+**Penalty**
 
 * -20% birthrate
 
-Other Information:
+**Other Information**
 
 * Soldiers: 2/2
 
@@ -220,35 +232,37 @@ Other Information:
 
 * Spellbook: Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
 
-Humans
+### Human
 
-+10% Population
+#### Age 54
 
-+ 50% Sabotage damage
+- +10% Population
 
-+ 50% Spell Damage (Instant Spells) 
+- + 50% Sabotage damage
 
-+ 1 Offense specialist strength
+- + 50% Spell Damage (Instant Spells) 
 
-Spellbook: Tree of Gold, Fountain of Knowledge, War Spoils
+- + 1 Offense specialist strength
 
-Elite: 5/5, 500gc, 5NW
+- Spellbook: Tree of Gold, Fountain of Knowledge, War Spoils
 
-Humans
+- Elite: 5/5, 500gc, 5NW
 
-Bonuses:
+#### Age 53
+
+**Bonuses**
 
 * + 30% income
 
 * + 40% Damage on Sabotage Operations
 
-Penalty:
+**Penalty**
 
 * - 20% magic effectiveness
 
 * Offensive Specialist Strength -1
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Swordsmen (4/0)
 
@@ -258,35 +272,37 @@ Other Information:
 
 * Spell Book: Greater Protection, Fountain of Knowledge
 
-Orcs
+### Orc
 
-+20% gains
+#### Age 54
 
-Can train elites with credits
+- +20% gains
 
--75% Combat Instant Spell Damage and Duration 
+- Can train elites with credits
 
--75% Sabotage Damage
+- -75% Combat Instant Spell Damage and Duration
 
-Spellbook: Bloodlust, Fanaticism, Aggression, Reflect Magic
+- -75% Sabotage Damage
 
-Elite: 9/2, 850gc, 7.25NW
+- Spellbook: Bloodlust, Fanaticism, Aggression, Reflect Magic
 
-Orcs
+- Elite: 9/2, 850gc, 7.25NW
 
-Bonuses:
+#### Age 53
+
+**Bonuses**
 
 * + 25% gains
 
 * Trains elites with credits
 
-Penalty:
+**Penalty**
 
 * - 10% building efficiency
 
 * - 50% thievery and magic damage (on offensive operations)
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Goblins (5/0)
 
@@ -296,25 +312,27 @@ Other Information:
 
 * Spellbook: Fanaticism, Aggression, Bloodlust
 
-The Undead
+### Undead
 
--50% Offensive losses on attacks you make
+#### Age 54
 
-Successful land attacks convert specialists to elites
+- -50% Offensive losses on attacks you make
 
-Spreads and is immune to The Plague
+- Successful land attacks convert specialists to elites
 
-No food needed
+- Spreads and is immune to The Plague
+
+- No food needed
 
 - 25% science effectiveness
 
-Spellbook: Greater Protection, Town Watch, Animate Dead, Chastity
+- Spellbook: Greater Protection, Town Watch, Animate Dead, Chastity
 
-Elite: 9/3, 1000gc, 7.5NW
+- Elite: 9/3, 1000gc, 7.5NW
 
-The Undead
+#### Age 53
 
-Bonuses:
+**Bonuses**
 
 * -50% Offensive losses on attacks you make
 
@@ -324,13 +342,13 @@ Bonuses:
 
 * No Food required
 
-Penalty:
+**Penalty**
 
 * - 20% science effectiveness
 
 * Access to basic thievery operations only (neutral relations ops)
 
-Other Information:
+**Other Information**
 
 * Offensive Specialist: Skeletons (5/0)
 
@@ -340,17 +358,19 @@ Other Information:
 
 * Spellbook: War Spoils, Nightmares, Chastity
 
-Personality Changes
+## Personality Changes
 
-The Merchant
+### The Merchant
 
-+30% Income
+#### Age 54
 
--50% Money Losses on Plunder Attacks
+- +30% Income
 
-Immunity to all Income Penalties (Riots, Plagues, etc.)
+- -50% Money Losses on Plunder Attacks
 
-The Merchant
+- Immunity to all Income Penalties (Riots, Plagues, etc.)
+
+#### Age 53
 
 * +40% Income
 
@@ -358,15 +378,17 @@ The Merchant
 
 * Immunity to all Income Penalties (Riots, Plagues, etc.)
 
-The Sage
+### The Sage
 
-+ 25% Science effectiveness
+#### Age 54
 
--66% Losses on Learn Attacks
+- + 25% Science effectiveness
 
-Immune to The Plague
+- -66% Losses on Learn Attacks
 
-The Sage
+- Immune to The Plague
+
+#### Age 53
 
 * + 20% Science effectiveness
 
@@ -378,15 +400,17 @@ The Sage
 
 * Every 4 Acres of land produces 1 Science Book per Hour
 
-The Rogue
+### The Rogue
 
-+1 Stealth recovery per tick
+#### Age 54
 
-Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+- +1 Stealth recovery per tick
 
-Thieves Dens are twice as effective (subject to DBE)
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
 
-The Rogue
+- Thieves Dens are twice as effective (subject to DBE)
+
+#### Age 53
 
 * +1 Stealth recovery per tick
 
@@ -394,17 +418,19 @@ The Rogue
 
 * Thieves Dens are twice as effective (subject to DBE)
 
-The Mystic
+### The Mystic
 
-Access to Meteor Showers
+#### Age 54
 
-All Guilds and Towers are twice as effective
+- Access to Meteor Showers
 
-+50% Spell Duration (For Duration Spells Only)
+- All Guilds and Towers are twice as effective
 
-+1 mana per tick in War
+- +50% Spell Duration (For Duration Spells Only)
 
-The Mystic
+- +1 mana per tick in War
+
+#### Age 53
 
 * Meteor Showers spell
 
@@ -412,15 +438,17 @@ The Mystic
 
 * +30% Spell Duration (For Duration Spells Only)
 
-The Warrior
+### The Warrior
 
-+1 General
+#### Age 54
 
-+15% OME in war
+- +1 General
 
-Enhanced Conquest range
+- +15% OME in war
 
-The Warrior
+- Enhanced Conquest range
+
+#### Age 53
 
 * +15% Enemy Casualties (on attack or defense)
 
@@ -430,15 +458,17 @@ The Warrior
 
 * + 50% bonuses from honor
 
-The Tactician
+### The Tactician
 
-Gain 50% more Specialist and Building Credits
+#### Age 54
 
--15% Attack Time
+- Gain 50% more Specialist and Building Credits
 
-Accurate Espionage (in war)
+- -15% Attack Time
 
-The Tactician
+- Accurate Espionage (in war)
+
+#### Age 53
 
 * Gain 30% more Specialist and Building Credits
 
@@ -448,31 +478,37 @@ The Tactician
 
 * -50% Land Losses when Ambushed
 
-The Cleric
+### The Cleric
+
+#### Age 54
 
 - 50% Your Military Casualties (on attack or defense)
 
-Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
+- Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
 
-The Cleric
+#### Age 53
 
 * - 50% Your Military Casualties (on attack or defense)
 
 * 1 extra General
 
-The War Hero
+### The War Hero
 
-+50% more bonuses from honor
+#### Age 54
 
--50% draft cost
+- +50% more bonuses from honor
 
--50% train time
+- -50% draft cost
 
--50% Land Losses on Ambush Attacks
+- -50% train time
 
-I did not exist in Age 53
+- -50% Land Losses on Ambush Attacks
 
-Mechanic Changes
+#### Age 53
+
+- I did not exist in Age 53
+
+## Mechanic Changes
 
 If you have a reservation with a kingdom it will not be possible to create a random province in another kingdom.
 
@@ -490,7 +526,7 @@ All land currently out with armies at war end returns home immediately.
 
 Instant population growth of 20% of your max pop if you are under 50% of your max pop
 
-+500% Birthrate
+- +500% Birthrate
 
 30% reduction in training costs of all troops.
 
@@ -498,7 +534,7 @@ Draft cost reduced 50%
 
 Winning a war will grant the following:
 
-+10% honor taken from the opponents honor pool
+- +10% honor taken from the opponents honor pool
 
 100 books of science per acre based on your median province
 
