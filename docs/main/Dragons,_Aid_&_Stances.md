@@ -6,8 +6,7 @@ This legacy page has been superseded by more focused reference pages.
 
 - [Dragons](Dragons.md) for the current dragon roster and effects
 - [Relations](../guide/Relations.md) for current kingdom relation states
-- [Hostile Meter](Hostile_Meter.md) for hostility meter behavior
-- [Relations Meter](Relations_Meter.md) for relation-meter details
+- [Hostile Meter](Hostile_Meter.md) for hostility meter and relation-threshold details
 
 ## Legacy Note
 
