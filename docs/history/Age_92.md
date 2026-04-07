@@ -1,5 +1,11 @@
 # Age 92
 
+## Source Note
+
+This page preserves a high-level design note for Age 92's ancestry-style
+race and personality system. A full final-changes listing has not yet
+been recovered.
+
 ## Introduction
 
 This age we are mixing up races and personalities. The goal is to give a new unique feel to the racial and personality system w/out fundamentally changing the gameplay or heart of utopia. To that end personalities are being drastically changed. While they will still exist you are now picking a second race, your Personality is your sub-race. That is there will be no warrior, heretic, mystic, rogue, etc only race options for both Race and personality.

@@ -3,3 +3,7 @@
 - **WoL Age 44 Start:** 07 August 2009
 - **WoL Age 44 End:** 14 October 2009
 - **Duration:** 69
+
+## Record
+
+No detailed age-change listing has been recovered for Age 44 yet.
