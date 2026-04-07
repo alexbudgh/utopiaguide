@@ -114,6 +114,35 @@ For Attacks that target and capture Resources (Traditional March, Conquest, Plun
 
 **NOTE**: RKNW is based on the Average Province size of the Kingdom.
 
+!!! note "Editorial Note: Minimum Gains Across Ages"
+    The exact gains formula has changed several times across ages, so the
+    notes below are an interpretation of the changelog rather than a
+    single canonical formula.
+
+    Best supported reading from the age changes:
+
+    - War has had explicit minimum-gains tuning at several points.
+        - [Age 57](../history/Age_57.md): minimum gains in War were reduced by 50%.
+        - [Age 100](../history/Age_100.md): minimum gains in War were increased from about 3.5% to about 4%.
+    - Outside War, the age notes do not document one timeless general minimum-gains floor.
+        - What they do show is that older gains formulas could sometimes produce 0-acre edge cases on severe top-feeds.
+    - [Age 71](../history/Age_71.md) added a land factor to the gains formula so some attacks that previously yielded 0 acres would now still produce gains.
+    - [Age 72](../history/Age_72.md) describes that change more explicitly as replacing pure Networth Based Gains (NWBG) with a hybrid Land Based Gains (LBG) system that still incorporated networth.
+    - [Age 73](../history/Age_73.md) then reduced top-feed minimum gains slightly, while also making hostility-based gains throttling more effective.
+    - [Age 76](../history/Age_76.md) later removed the land component again and reverted gains to a networth-based formula only.
+    - Raze has had its own explicit minimum-gains floors.
+        - [Age 90](../history/Age_90.md): Raze floor lowered to 10 acres, or 5 acres when hitting into War stance.
+        - [Age 95](../history/Age_95.md): Raze minimum gains changed to 20 acres.
+    - Relative Kingdom Networth and relations can also affect realized gains without being minimum-gains rules by themselves.
+        - [Age 91](../history/Age_91.md): removed the RKNW factor.
+        - [Age 100](../history/Age_100.md): reintroduced the RKNW factor and hostility-meter gains throttling.
+
+    In short: the changelog supports a documented War minimum-gains floor,
+    which was about 4% by [Age 100](../history/Age_100.md), plus several
+    formula and relation modifiers that can further reduce or increase
+    realized gains. It does not support a simple timeless rule like "0 out
+    of War, 4% in War" for every age.
+
 ### Attack Time Adjustment Factor
 
 Adding or subtracting hours modifies the Gains (based on your Attack Time), as follows:
