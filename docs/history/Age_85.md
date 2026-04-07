@@ -28,24 +28,28 @@
   - Invisibility - TPA bonus increased to 20%
   - Mage's Fury - WPA bonus and penalty increased to 30%
 - Spells Categories (restated):
-  - Currently there are:
-    - Fading (duration)
-    - Instant (one time effect)
-  - Support Category will include only the spells that are castable onto Kingdom Mates
-  - Support Spells will include (only available if your race/personality has access to them, i.e. having the ability to cast Support spells on Kingdom mates will not grant access to all of these spells)
-    - Minor Protection
-    - Greater Protection
-    - Fertile Lands
-    - Magic Shield
-    - Nature's Blessing
-    - Love and Peace
-    - Builder's Boon
-    - Inspire Army
-    - Patriotism
-    - Scientific Insight
-    - Illuminate Shadows
-    - Wrathful Smite
-    - Fanaticism
+    - Currently there are:
+        - Fading (duration)
+        - Instant (one time effect)
+    - Support Category will include only the spells that are castable
+      onto Kingdom Mates
+    - Support Spells will include (only available if your
+      race/personality has access to them, i.e. having the ability to
+      cast Support spells on Kingdom mates will not grant access to all
+      of these spells)
+        - Minor Protection
+        - Greater Protection
+        - Fertile Lands
+        - Magic Shield
+        - Nature's Blessing
+        - Love and Peace
+        - Builder's Boon
+        - Inspire Army
+        - Patriotism
+        - Scientific Insight
+        - Illuminate Shadows
+        - Wrathful Smite
+        - Fanaticism
 
 ### Game Administration Kingdom
 

@@ -9,23 +9,38 @@
 ### New Features
 
 - Force Cease-Fire (overhauled) - An aggressor KD in a conflict can force both parties into an unbreakable 7 [Utopian-month](../main/Utopia_Time.md) (RL = 7 days) cease-fire.
-  - The aggressor must have at least 100 more meter than the defending KD on the 1st of each Month for 3 consecutive Months
-  - The 'Force Cease-Fire" button will become available to the aggressor on the 12th of the 3rd Month
-  - The defending KD can halt the forced cease-fire in several ways:
-    - a) Reduce the meter disparity to < 100
-    - b) Make at least 5 successful attacks during the Month of which the aggressor is capable of forcing a cease-fire'
-  - If the defending KD prevents a button on the 3rd consecutive day of 100+ meter by making 5 attacks, they will have the same task of prevention on the following day
-  - The only way to reset the 3-day counter is to reduce the meter disparity below 100, at which point the aggressor must once again reach 3 consecutive days of 100 more meter than the defending KD
-  - The aggressor can press the "Force Cease-Fire" button at anytime once it becomes available
-  - Additional clarity will be provided by the devs in due time
+    - The aggressor must have at least 100 more meter than the
+      defending KD on the 1st of each Month for 3 consecutive Months
+    - The 'Force Cease-Fire" button will become available to the
+      aggressor on the 12th of the 3rd Month
+    - The defending KD can halt the forced cease-fire in several ways:
+        - a) Reduce the meter disparity to < 100
+        - b) Make at least 5 successful attacks during the Month of
+          which the aggressor is capable of forcing a cease-fire'
+    - If the defending KD prevents a button on the 3rd consecutive day
+      of 100+ meter by making 5 attacks, they will have the same task
+      of prevention on the following day
+    - The only way to reset the 3-day counter is to reduce the meter
+      disparity below 100, at which point the aggressor must once again
+      reach 3 consecutive days of 100 more meter than the defending KD
+    - The aggressor can press the "Force Cease-Fire" button at anytime
+      once it becomes available
+    - Additional clarity will be provided by the devs in due time
 
 - Ritual Effectiveness is now active (affects ritual bonus)
-  - Rituals no longer require 80 casts to complete (80 casts are still required for max strength)
-  - Rituals can be completed at any time by the monarch via a new button to cast immediately (based on # of successful casts at the time)
-  - Rituals will automatically cast 48 hours after being started; effects will be based on # of successful casts at that time
-  - Ritual effectiveness will scale based on # of casts. See [Rituals](../misc/Ritual.md) for more information.\*\*
-  - The Abolish Ritual spell is unchanged (50 casts required to destroy enemy ritual)
-  - Ritual Casts will be displayed on the Throne to inform the player of the base effectiveness
+    - Rituals no longer require 80 casts to complete (80 casts are
+      still required for max strength)
+    - Rituals can be completed at any time by the monarch via a new
+      button to cast immediately (based on # of successful casts at the
+      time)
+    - Rituals will automatically cast 48 hours after being started;
+      effects will be based on # of successful casts at that time
+    - Ritual effectiveness will scale based on # of casts. See
+      [Rituals](../misc/Ritual.md) for more information.\*\*
+    - The Abolish Ritual spell is unchanged (50 casts required to
+      destroy enemy ritual)
+    - Ritual Casts will be displayed on the Throne to inform the player
+      of the base effectiveness
 
 ### Attacks & Relations
 

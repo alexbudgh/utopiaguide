@@ -34,23 +34,27 @@
   - Invisibility - Will now also reduce thieves lost during thievery operations by 20% while active
   - Town Watch - While active your peasants will defend your lands at 1 point of defense for every 3 peasants
 - Spells Categories (restated):
-  - Currently there are:
-    - Fading (duration)
-    - Instant (one time effect)
-  - Support Category will include only the spells that are castable onto Kingdom Mates
-  - Support Spells will include (only available if your race/personality has access to them, i.e. having the ability to cast Support spells on Kingdom mates will not grant access to all of these spells)
-    - Minor Protection
-    - Greater Protection
-    - Fertile Lands
-    - Magic Shield
-    - Nature's Blessing
-    - Love and Peace
-    - Builder's Boon
-    - Inspire Army
-    - Patriotism
-    - Scientific Insight
-    - Illuminate Shadows
-    - Wrathful Smite
+    - Currently there are:
+        - Fading (duration)
+        - Instant (one time effect)
+    - Support Category will include only the spells that are castable
+      onto Kingdom Mates
+    - Support Spells will include (only available if your
+      race/personality has access to them, i.e. having the ability to
+      cast Support spells on Kingdom mates will not grant access to all
+      of these spells)
+        - Minor Protection
+        - Greater Protection
+        - Fertile Lands
+        - Magic Shield
+        - Nature's Blessing
+        - Love and Peace
+        - Builder's Boon
+        - Inspire Army
+        - Patriotism
+        - Scientific Insight
+        - Illuminate Shadows
+        - Wrathful Smite
 
 ### Game Administration Kingdom
 

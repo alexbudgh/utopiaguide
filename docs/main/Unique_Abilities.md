@@ -65,16 +65,17 @@
 ### Roots of Ruin
 
 - Upon a successful attack, the attack will destroy 1.5% of the enemies entire population.
-  - Peasants, Thieves, and Wizards
-  - Military
-    - Home, Away, And Training
+    - Peasants, Thieves, and Wizards
+    - Military
+        - Home, Away, And Training
 
 ### Scholar's Wrath
 
 - War
-  - All successful attacks remove 2% of the target’s allocated Science Books (returns over 48 ticks).
+    - All successful attacks remove 2% of the target’s allocated
+      Science Books (returns over 48 ticks).
 - Out of War
-  - Book Generation is increased by 10%.
+    - Book Generation is increased by 10%.
 
 # Personality
 
@@ -87,9 +88,10 @@
 ### Direct Conscription
 
 - For the next 6 ticks
-  - Specialist Credits train units without Soldiers
-    - Cost 1 Peasant, 3 Credits per unit. Cooldown 24 hours.
-      - Will not reduce population below 1 peasant per acre or 100 (whichever is higher)
+    - Specialist Credits train units without Soldiers
+        - Cost 1 Peasant, 3 Credits per unit. Cooldown 24 hours.
+            - Will not reduce population below 1 peasant per acre or
+              100 (whichever is higher)
 
 ### Indomitable Spirit
 
@@ -109,9 +111,12 @@
 
 - WAR Only
 - Every successful offensive spell also reduces enemy ritual effectiveness by 0.25%.
-  - Note: this is not abolish ritual, this lowers the effectiveness of the enemy ritual
-  - (Is a multiplicative effect. Say you have 108% effective ritual, and get casted on 50 times. 108 \*0.9975^50= 95.29% ritual)
-  - (Example power: 4 mystics at declare have 180 casts of mana, they could AT BEST drop 100% ritual to 63.7%)
+    - Note: this is not abolish ritual, this lowers the effectiveness
+      of the enemy ritual
+    - (Is a multiplicative effect. Say you have 108% effective ritual,
+      and get casted on 50 times. 108 \*0.9975^50= 95.29% ritual)
+    - (Example power: 4 mystics at declare have 180 casts of mana,
+      they could AT BEST drop 100% ritual to 63.7%)
 
 ### Blasphemous Might
 
@@ -120,14 +125,17 @@
 ### Blood and Glory
 
 - 35% of Military Casualties return as Soldiers
-  - Re-animates on offense and defense
+    - Re-animates on offense and defense
 
 ### Dark pact
 
 - After each successful attack, The Necromancer converts:
-  - 10% of the enemy's casualties into Wizards for the Necromancers province. Minimum gain of 1 wizard per a successful attack.
-  - 10% of the enemy's casualties into Soldiers for the Necromancers province. Minimum gain of 1 soldier per a successful attack.
-  - 20% of the enemy's casualties into Peasants for the Necromancers province. Minimum gain of 1 Peasant per a successful attack.
+    - 10% of the enemy's casualties into Wizards for the Necromancers
+      province. Minimum gain of 1 wizard per a successful attack.
+    - 10% of the enemy's casualties into Soldiers for the Necromancers
+      province. Minimum gain of 1 soldier per a successful attack.
+    - 20% of the enemy's casualties into Peasants for the Necromancers
+      province. Minimum gain of 1 Peasant per a successful attack.
 
 ### Divine Favour
 
@@ -136,7 +144,8 @@
 ### Dragons Wrath
 
 - When attacking, 10% of your raw offense will also deal damage to the dragon as well as attack your target
-  - (i.e. if you attack someone with 10,000 soldiers the dragon will also take 3000 points of damage).
+    - (i.e. if you attack someone with 10,000 soldiers the dragon will
+      also take 3000 points of damage).
 
 ### Masterful Craftsmanship
 
@@ -145,9 +154,14 @@
 ### Righteousness Fury
 
 - Gains access to the Spells Righteous Aggressor and Righteous Defender
-  - These are 1-2 hour duration spells that were first introduced in genesis and when cast and active have the following effects:
-    - Righteous aggressor will convert offensive specialist to elites on successful attack similar how offensive conversions have worked in past ages.
-    - Righteous defender will convert defensive specialist to elites when you are attacked at roughly the same rate offensive conversions occur.
+    - These are 1-2 hour duration spells that were first introduced in
+      genesis and when cast and active have the following effects:
+        - Righteous aggressor will convert offensive specialist to
+          elites on successful attack similar how offensive conversions
+          have worked in past ages.
+        - Righteous defender will convert defensive specialist to
+          elites when you are attacked at roughly the same rate
+          offensive conversions occur.
 
 ### Shadows in the Night
 

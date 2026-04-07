@@ -9,44 +9,53 @@
 ### Attacks & Relations
 
 - Hostile Meter
-  - Sending a Dragon will move the Hostile meter by 18 points instantly
-  - The meter will decrease by 1/5 on the 1st of each Month, or 3 points whichever is higher
+    - Sending a Dragon will move the Hostile meter by 18 points
+      instantly
+    - The meter will decrease by 1/5 on the 1st of each Month, or 3
+      points whichever is higher
 - War
-  - War Range is now, low end 85% up to ~117.64% (1 / .85)
-  - Auto Surrender will be possible after 5 days of war instead of 7 when opponent is 50% or less networth
-  - Learn attack effects while in war will be increased from 4% to 8%
-  - Out of range wars will yield war points based on relative size at the war start and scale accordingly, for example:
-    - Example: 84.9% range = 100% points
-    - 80% range = 85% points
-    - 75% range = 65% points
-    - 65% range = 20% points
-    - < 65% range = 0 points
+    - War Range is now, low end 85% up to ~117.64% (1 / .85)
+    - Auto Surrender will be possible after 5 days of war instead of 7
+      when opponent is 50% or less networth
+    - Learn attack effects while in war will be increased from 4% to 8%
+    - Out of range wars will yield war points based on relative size at
+      the war start and scale accordingly, for example:
+        - Example: 84.9% range = 100% points
+        - 80% range = 85% points
+        - 75% range = 65% points
+        - 65% range = 20% points
+        - < 65% range = 0 points
 - Force Cease-Fire
-  - If you are in war range (85-117.64%) when activating a Forced Cease-Fire your Kingdom will lose up to 3% honor at 95%+ and scale linearly to 1.5% at the bottom of the range (85%)
-  - This honor will be lost by the Kingdom pressing Force CF, it will not be transferred to the opponent Kingdom
+    - If you are in war range (85-117.64%) when activating a Forced
+      Cease-Fire your Kingdom will lose up to 3% honor at 95%+ and
+      scale linearly to 1.5% at the bottom of the range (85%)
+    - This honor will be lost by the Kingdom pressing Force CF, it will
+      not be transferred to the opponent Kingdom
 
 ### Spells
 
 - Ghost Workers will reduce the amount of jobs needed to be filled for maximum Building Efficiency by 15%
 - Support Spells:
-  - Support Spells are the only spells that can be cast on Kingdom Mates (if your race/personality has the ability)
-  - Having the ability to cast Support Spells on Kingdom Mates does NOT grant access to ALL of these spells
-    - Minor Protection
-    - Greater Protection
-    - Fertile Lands
-    - Magic Shield
-    - Mystic Aura
-    - Nature's Blessing
-    - Love and Peace
-    - Builder's Boon
-    - Inspire Army
-    - Patriotism
-    - Scientific Insight
-    - Illuminate Shadows
-    - Wrathful Smite
-    - Invisibility
-    - Aggression
-    - Animate Dead
+    - Support Spells are the only spells that can be cast on Kingdom
+      Mates (if your race/personality has the ability)
+    - Having the ability to cast Support Spells on Kingdom Mates does
+      NOT grant access to ALL of these spells
+        - Minor Protection
+        - Greater Protection
+        - Fertile Lands
+        - Magic Shield
+        - Mystic Aura
+        - Nature's Blessing
+        - Love and Peace
+        - Builder's Boon
+        - Inspire Army
+        - Patriotism
+        - Scientific Insight
+        - Illuminate Shadows
+        - Wrathful Smite
+        - Invisibility
+        - Aggression
+        - Animate Dead
 
 ### Gold Status
 
@@ -56,11 +65,11 @@
 - Unique Discord Role & Color to Gold Status Utopians only! (to be determined by the first group of Gold Status account members!)
 - Personal Hostile Meter Active
 - Month-Long Version:
-  - Cost: 15 credits
-  - Free Sitting Credits (3)
+    - Cost: 15 credits
+    - Free Sitting Credits (3)
 - Age-Long Version:
-  - Cost: 35 credits
-  - Free Sitting Credits (10)
+    - Cost: 35 credits
+    - Free Sitting Credits (10)
 
 ### Mentor Status
 
