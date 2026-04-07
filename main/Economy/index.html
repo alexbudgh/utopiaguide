@@ -5638,29 +5638,35 @@
 <h3 id="military-expenses-wages">Military Expenses / Wages</h3>
 <div class="highlight"><pre><span></span><code>Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero&#39;s Inspiration) * Greed * Ritual * Dragon * Bookkeeping Science Effect
 </code></pre></div>
-<p><strong>Note</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <ul>
 <li>Wages are not paid to basic soldiers</li>
 <li>Greed affects provinces as a wage penalty, not an income penalty</li>
 </ul>
+</div>
 <h1 id="population">Population</h1>
 <h3 id="total-population">Total Population</h3>
 <div class="highlight"><pre><span></span><code>Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) + (Homes * Homes Capacity)  
 
 Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Population Bonus
 </code></pre></div>
-<p><strong>Note</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <ul>
 <li>Honor Bonuses are calculated as 1 + (Personality Mod * Honor Bonus)</li>
 </ul>
+</div>
 <h3 id="current-population">Current Population</h3>
 <div class="highlight"><pre><span></span><code>Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + Def Specs + Def Specs in Training 
                      + Elites + Elites in Training + Thieves + Thieves in Training + Wizards
 </code></pre></div>
-<p><strong>Note</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <ul>
 <li>Prisoners do not add to the population</li>
 </ul>
+</div>
 <h2 id="peasants">Peasants</h2>
 <h3 id="hourly-change">Hourly Change</h3>
 <div class="highlight"><pre><span></span><code>Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love &amp; Peace) * Race Bonus * Hospitals Bonus * EOWCF * Chastity - Storms)) + (Homes bonus * Chastity) - Drafted Soldiers - Wizards Trained
@@ -5691,13 +5697,15 @@ Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Po
 </tr>
 </tbody>
 </table>
-<p><strong>Note</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <ul>
 <li>Base birth rate is 2.05% and ranges from 1.9457% up to 2.1525% (± 5% of 2.05%)</li>
 <li>Base birth rate is increased to ~3% during Protection</li>
 <li>There must be enough population space for peasants to increase</li>
 <li>When a province is overpopulated, the number of peasants will decrease by 10% per tick</li>
 </ul>
+</div>
 <h2 id="employment">Employment</h2>
 <h3 id="available-jobs">Available Jobs</h3>
 <div class="highlight"><pre><span></span><code>Available Jobs = (Completed Buildings - Homes) * 25
@@ -5708,10 +5716,12 @@ Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Po
 <h3 id="employed-peasants">Employed Peasants</h3>
 <div class="highlight"><pre><span></span><code>Employed Peasants = MIN ( Peasants , Available Jobs - (ROUNDDOWN ( Prisoners* / 2 )) )
 </code></pre></div>
-<p><strong>Note</strong></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <ul>
 <li>Prisoners are included in the Employed Peasants calculation for Building Efficiency. Prisoners are not considered actual peasants, as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment)</li>
 </ul>
+</div>
 <h3 id="unemployed-peasants">Unemployed Peasants</h3>
 <div class="highlight"><pre><span></span><code>Unemployed Peasants = MIN(Peasants - Employed Peasants)
 </code></pre></div>
