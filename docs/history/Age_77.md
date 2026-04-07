@@ -206,8 +206,7 @@ Stats listed here considered 'base effectiveness'
 **Bonuses:**
 
 - -66% Thieves lost on failed ops
-- +100% Land Effect
-- Guilds
+- +100% Land Effect from Guilds
 - +30% Magic Science Effectiveness
 - +30% Thievery Science Effectiveness
 - +1% Extra Mana Per Tick
@@ -288,8 +287,7 @@ Stats listed here considered 'base effectiveness'
 
 **Bonuses:**
 
-- +35% Land Effect
-- Laboratories
+- +35% Land Effect from Laboratories
 - +30% Science Effectiveness
 
 **Spell Book:**

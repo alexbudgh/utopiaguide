@@ -4,8 +4,6 @@
 **WoL Age 72 End:** 10 Aug 2017
 **Duration:** 12 weeks
 
-## Changes in brief
-
 ## Mechanics Changes
 
 - Kingdom Rituals
@@ -197,7 +195,7 @@
 
 - Elite: 12/1, 1000GW, 11.5NW
 
-### Undeads
+### Undead
 
 **Bonuses:**
 
@@ -371,8 +369,7 @@
 **Bonuses:**
 
 - Converts some Specialists into Elites on successful land attacks (increasing this amount by ~20%)
-- Immune to Dragon
-- Income penalty effects
+- Immune to Dragon and Income penalty effects
 - +5% Battle Gains
 - +100% Honor Bonuses
 

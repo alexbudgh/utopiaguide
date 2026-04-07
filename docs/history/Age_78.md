@@ -106,6 +106,7 @@ Stats listed here considered 'base effectiveness'
 ## Races
 
 ### Avians
+
 **Bonuses:**
 
 - -30% Attack travel time
@@ -127,6 +128,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 8/3, 900gc, 9 NW
 
 ### Dwarves
+
 **Bonuses:**
 
 - +25% Building Efficiency
@@ -148,6 +150,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 7/4, 925gc, 9 NW
 
 ### Elves
+
 **Bonuses:**
 
 - +35% Wizardry Effectiveness (WPA)
@@ -167,6 +170,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 8/3, 950gc, 9.5 NW
 
 ### Faeries
+
 **Bonuses:**
 
 - +30% Self Spell Duration (will not affect spells on others)
@@ -188,6 +192,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 3/8, 1100gc, 10.0 NW
 
 ### Halflings
+
 **Bonuses:**
 
 - +30% Thievery Effectiveness (TPA)
@@ -209,6 +214,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 5/7, 900gc, 9.5 NW
 
 ### Humans
+
 **Bonuses:**
 
 - +30% Income
@@ -230,6 +236,7 @@ Stats listed here considered 'base effectiveness'
 - Elite: 8/3, 1100gc, 9.5 NW
 
 ### Orcs
+
 **Bonuses:**
 
 - +20% Battle Gains
@@ -252,6 +259,7 @@ Stats listed here considered 'base effectiveness'
 ## Personalities
 
 ### Heretic
+
 **Bonuses:**
 
 - +100% Guilds Effectiveness
@@ -272,6 +280,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +400 wizards and +400 thieves
 
 ### Mystic
+
 **Bonuses:**
 
 - +200% Guilds Effectiveness
@@ -290,6 +299,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +800 wizards
 
 ### Paladin
+
 **Bonuses:**
 
 - Can cast support spells on Kingdom mates
@@ -305,6 +315,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +400 soldiers, +400 specialist credits and +400 wizards
 
 ### Rogue
+
 **Bonuses:**
 
 - +50% Guilds Effectiveness
@@ -324,6 +335,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +800 thieves
 
 ### Tactician
+
 **Bonuses:**
 
 - -15% Attack Time
@@ -339,6 +351,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Undead
+
 **Bonuses:**
 
 - Spreads and is Immune to The Plague
@@ -354,6 +367,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
 **Bonuses:**
 
 - +100% Honor Bonuses
@@ -371,6 +385,7 @@ Stats listed here considered 'base effectiveness'
 - Starts with 800 elites
 
 ### Warrior
+
 **Bonuses:**
 
 - +10% Offensive Military Efficiency

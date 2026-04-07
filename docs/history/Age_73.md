@@ -204,7 +204,7 @@
 
 - Elite: 10/1, 900gc, 9.5 NW
 
-### Undeads
+### Undead
 
 **Bonuses:**
 
@@ -381,8 +381,7 @@
 **Bonuses:**
 
 - Converts some Specialists into Elites on successful Traditional March attacks
-- Immune to Dragon
-- Income penalty effects
+- Immune to Dragon and Income penalty effects
 - +5% Battle Gains
 - +100% Honor Bonuses
 
