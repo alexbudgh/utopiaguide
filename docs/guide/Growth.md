@@ -57,28 +57,9 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 
 There are three classes of building effects, and each functions differently. While this may be difficult to follow, you will quickly understand it with some experience within the game. The three classes are:
 
-```
- Capacity Buildings - These buildings simply create space for you, and are not impacted by efficiency 
- issues. Homes, for example, provide additional space for peasants.
-```
-
-```
- Flat Rate Buildings - This type of building provides a set amount of a particular resource. These 
- buildings need many employees to be fully effective. These buildings are impacted by building efficiency. An example is a Tower which creates a set
- number of runes each day.
-```
-
-```
- Percentage-based Buildings - The majority of Utopian buildings are percentage-based. These buildings 
- provide an effect based on the portion of your land covered by it. For example, having 10% of your
- land as Banks will increase your income by a certain percentage. Like flat-rate buildings, these
- also require employees to provide full effects. In addition, each additional building you construct
- will be less effective. The numbers listed in this section would be for the first building you
- construct. Your Internal Affairs Advisor will help you to understand the benefits of your land.
- Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed
- below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to
- that building.
-```
+- **Capacity Buildings:** These buildings simply create space for you and are not impacted by efficiency issues. Homes, for example, provide additional space for peasants.
+- **Flat Rate Buildings:** This type of building provides a set amount of a particular resource. These buildings need many employees to be fully effective and are impacted by building efficiency. A Tower, for example, creates a set number of runes each day.
+- **Percentage-based Buildings:** The majority of Utopian buildings are percentage-based. These buildings provide an effect based on the portion of your land covered by them. For example, having 10% of your land as Banks will increase your income by a certain percentage. Like flat-rate buildings, these also require employees to provide full effects. In addition, each additional building you construct will be less effective. The numbers listed in this section are for the first building you construct. Your Internal Affairs Advisor will help you understand the benefits of your land. Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to that building.
 
 ## The Buildings
 
