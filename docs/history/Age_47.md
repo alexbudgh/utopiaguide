@@ -4,6 +4,8 @@
 
 ## Overview
 
+This forum source is a brief confirmed preview rather than a full age changelog.
+
 The most significant changes for the new age will be in Thievery.  
 
 Halflings will be returning to Utopia as a strong thief race.  

@@ -218,17 +218,17 @@ Undead is removed
 
 * +25% Enemy Casualties on Attacks
 
-The Artisan
+### The Artisan
 
 * All Capacity and Flat Rate Buildings are 25% more Effective
 
 * 50% Protection of Buildings from Tornadoes, Arson Operations, Raze and Massacre Attacks
 
+### Removed
+
 The Cleric is removed
 
-_____________________________________________________________________________________________
-
-Further changes
+## Further Changes
 
 Logout bonuses no longer exist (no rewards for staying off the server)
 
@@ -238,11 +238,11 @@ Paradise: land created by Paradise appears from no-where - i.e does not come fro
 
 Raze: in war this attack only destroys Buildings
 
-_____________________________________________________________________________________________
+## Further Clarification
 
-Further clarification (mechanics remaining the same)
+Mechanics remaining the same.
 
-War
+### War
 
 * Removing NW based attack times in war 
 
@@ -250,13 +250,13 @@ War
 
 * War phasing will be reduced to 12 hours (this does not apply to protection which is still 24h)
 
-War Recovery
+### War Recovery
 
 * In CF, +200% increase in birth rates
 
 * post war CF is 48 hours, monarch can opt out of the CF at any point after 24 hours have passed (each monarch can decide on his own - both kingdoms don't have to stay)
 
-Aid
+### Aid
 
 * Tax calculation is based on average KD NW (provinces awaiting activation are not included when calculating average NW, and this will only apply to provinces who are below the average KD NW)
 
@@ -264,11 +264,11 @@ Aid
 
 * TB values - soldiers 100gc, runes 3gc, bushels 0.2gc
 
-Attacks
+### Attacks
 
 * Learn attacks unchanged
 
-Draft Costs
+### Draft Costs
 
 Draft will be set to aggressive for week 1
 
