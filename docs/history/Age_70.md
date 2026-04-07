@@ -1,6 +1,6 @@
 # Age 70 — The Age of Daunting Judgement
 
-**Forum Source:** [Age 70 changes](https://forums.utopia-game.com/showthread.php?633608)
+- **Forum Source:** [Age 70 changes](https://forums.utopia-game.com/showthread.php?633608)
 
 Here are the changes for Age 70. Thank you to everyone that gave constructive feedback.
 

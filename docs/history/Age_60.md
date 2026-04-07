@@ -1,6 +1,6 @@
 # Age 60 — A Battle Joined
 
-**Forum Source:** [Age 60 Changes](https://forums.utopia-game.com/showthread.php?627644)
+- **Forum Source:** [Age 60 Changes](https://forums.utopia-game.com/showthread.php?627644)
 
 Below please find the changes for Age 60. Thanks to everyone that provided feedback, based on this we have made some tweaks to certain races and personalities.
 

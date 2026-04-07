@@ -1,7 +1,7 @@
 # Age 63 — Iron Walls Iron Heart
 
-**WoL Age 63 Start:** 13 October 2014
-**WoL Age 63 End:** 23 January 2015
+- **WoL Age 63 Start:** 13 October 2014
+- **WoL Age 63 End:** 23 January 2015
 
 ## Mechanic Changes
 

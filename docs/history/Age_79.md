@@ -1,6 +1,6 @@
 # Age 79 — Vanguards Acquiescence
 
-**WoL Age 79 Start:** Nov 2018
+- **WoL Age 79 Start:** Nov 2018
 
 ## Mechanics Changes
 

@@ -1,8 +1,8 @@
 # Age 90 — Age of Exile
 
-**WoL Age 90 Start:** February 1, 2021 @ 18:00 GMT+0
-**WoL Age 90 End:** April 10, 2021 @ 00:00 GMT +0
-**Duration:** 69
+- **WoL Age 90 Start:** February 1, 2021 @ 18:00 GMT+0
+- **WoL Age 90 End:** April 10, 2021 @ 00:00 GMT +0
+- **Duration:** 69
 
 ## Mechanical Changes
 

@@ -1,8 +1,8 @@
 # Age 83 — Age of Adjudication
 
-**WoL Age 83 Start:** 2 Oct 2019
-**WoL Age 83 End:** 14 Dec 2019
-**Duration:** 11 weeks
+- **WoL Age 83 Start:** 2 Oct 2019
+- **WoL Age 83 End:** 14 Dec 2019
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

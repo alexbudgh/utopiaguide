@@ -1,8 +1,8 @@
 # Age 72 — The Era of Venerated Bastions
 
-**WoL Age 72 Start:** 20 May 2017
-**WoL Age 72 End:** 10 Aug 2017
-**Duration:** 12 weeks
+- **WoL Age 72 Start:** 20 May 2017
+- **WoL Age 72 End:** 10 Aug 2017
+- **Duration:** 12 weeks
 
 ## Mechanics Changes
 

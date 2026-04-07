@@ -1,6 +1,6 @@
 # Age 54 — A Call to Arms
 
-**Forum Source:** [Age 54 Final Changes and Start Times](https://forums.utopia-game.com/showthread.php?621943)
+- **Forum Source:** [Age 54 Final Changes and Start Times](https://forums.utopia-game.com/showthread.php?621943)
 
 ## Schedule
 

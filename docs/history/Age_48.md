@@ -1,8 +1,8 @@
 # Age 48 — The Age of Peril
 
-**WoL Age 48 Start:** 10 September 2011
-**WoL Age 48 End:** 10 December 2011
-**Duration:** 92
+- **WoL Age 48 Start:** 10 September 2011
+- **WoL Age 48 End:** 10 December 2011
+- **Duration:** 92
 
 ## Changes in brief
 

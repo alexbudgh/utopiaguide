@@ -1,8 +1,8 @@
 # Age 75 — The Age of Empowering Enchantments
 
-**WoL Age 75 Start:** 30 Jan 2018
-**WoL Age 75 End:** 20 Apr 2018
-**Duration:** 12 weeks
+- **WoL Age 75 Start:** 30 Jan 2018
+- **WoL Age 75 End:** 20 Apr 2018
+- **Duration:** 12 weeks
 
 ## Mechanics Changes
 

@@ -1,10 +1,9 @@
 # Age 97 — Dominance
 
-**WoL Age 97 Start:** Wednesday June 29, 2022 @ 18:00 GMT
-**WoL Age 97 End:** Saturday, September 3, 2022 @ 00:00 GMT
-**Duration:** 67
-
-**Forum Source:** [Age 97 Final Changes](https://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
+- **WoL Age 97 Start:** Wednesday June 29, 2022 @ 18:00 GMT
+- **WoL Age 97 End:** Saturday, September 3, 2022 @ 00:00 GMT
+- **Duration:** 67
+- **Forum Source:** [Age 97 Final Changes](https://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
 
 #### Mechanical Changes
 

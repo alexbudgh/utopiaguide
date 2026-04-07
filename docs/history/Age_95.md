@@ -1,11 +1,10 @@
 # Age 95 — Age of the Omen
 
-**Forum Source:** [Age 95 Final Changes](https://forums.utopia-game.com/showthread.php?640235-Age-95-Final-Changes)
-
-**WoL Age 94 End:** Saturday Jan 29, 2022 @ 00:00 GMT
-**WoL Age 95 Open:** Saturday Jan 29, 2022 @ 12:00 GMT
-**WoL Age 95 Start:** Monday Jan 31, 2022 @ 18:00 GMT
-**WoL Age 95 End:** Saturday, April 9, 2022 @ 00:00 GMT
+- **Forum Source:** [Age 95 Final Changes](https://forums.utopia-game.com/showthread.php?640235-Age-95-Final-Changes)
+- **WoL Age 94 End:** Saturday Jan 29, 2022 @ 00:00 GMT
+- **WoL Age 95 Open:** Saturday Jan 29, 2022 @ 12:00 GMT
+- **WoL Age 95 Start:** Monday Jan 31, 2022 @ 18:00 GMT
+- **WoL Age 95 End:** Saturday, April 9, 2022 @ 00:00 GMT
 
 ## General Changes
 

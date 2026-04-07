@@ -1,8 +1,8 @@
 # Age 82 — The Grimoires of Glory
 
-**WoL Age 82 Start:** 24 Jul 2019
-**WoL Age 82 End:** 28 Sep 2019
-**Duration:** 11 weeks
+- **WoL Age 82 Start:** 24 Jul 2019
+- **WoL Age 82 End:** 28 Sep 2019
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

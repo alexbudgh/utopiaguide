@@ -1,8 +1,8 @@
 # Age 78 — The Age of Insight
 
-**WoL Age 78 Start:** 8 Oct 2018
-**WoL Age 78 End:** 17 Nov 2018
-**Duration:** 5 weeks
+- **WoL Age 78 Start:** 8 Oct 2018
+- **WoL Age 78 End:** 17 Nov 2018
+- **Duration:** 5 weeks
 
 ## Mechanics Changes
 

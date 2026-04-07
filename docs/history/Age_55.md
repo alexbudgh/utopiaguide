@@ -1,8 +1,8 @@
 # Age 55 — Veil of Shadows
 
-**WoL Age 55 Start:** 10 August 2012
-**WoL Age 55 End:** 13 November 2012
-**Duration:** 95
+- **WoL Age 55 Start:** 10 August 2012
+- **WoL Age 55 End:** 13 November 2012
+- **Duration:** 95
 
 ## Changes in brief
 

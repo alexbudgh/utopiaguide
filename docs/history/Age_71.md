@@ -1,8 +1,8 @@
 # Age 71 — The Metamorphosis
 
-**WoL Age 71 Start:** 11 Mar 2017
-**WoL Age 71 End:** 20 May 2017
-**Duration:** 10 weeks
+- **WoL Age 71 Start:** 11 Mar 2017
+- **WoL Age 71 End:** 20 May 2017
+- **Duration:** 10 weeks
 
 ## Mechanics Changes
 

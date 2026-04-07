@@ -1,6 +1,6 @@
 # Age 67 — The Age of Perception
 
-**Forum Source:** [Age 67 changes](https://forums.utopia-game.com/showthread.php?631705)
+- **Forum Source:** [Age 67 changes](https://forums.utopia-game.com/showthread.php?631705)
 
 ## Schedule
 

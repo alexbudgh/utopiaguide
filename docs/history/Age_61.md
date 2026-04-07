@@ -1,6 +1,6 @@
 # Age 61 — Age of Destruction
 
-**WoL Age 61 Start:** 21 March 2014
+- **WoL Age 61 Start:** 21 March 2014
 
 ## Mechanic Changes
 

@@ -1,8 +1,8 @@
 # Age 89 — Reformation
 
-**WoL Age 89 Start:** 23 November 2020
-**WoL Age 89 End:** 30 January 2021
-**Duration:** 11 weeks
+- **WoL Age 89 Start:** 23 November 2020
+- **WoL Age 89 End:** 30 January 2021
+- **Duration:** 11 weeks
 
 ## Mechanical Changes
 

@@ -1,6 +1,6 @@
 # Age 58 — Art of War
 
-**Forum Source:** [Age 58 final changes](https://forums.utopia-game.com/showthread.php?626236)
+- **Forum Source:** [Age 58 final changes](https://forums.utopia-game.com/showthread.php?626236)
 
 Here are the final changes for Age 58. As mentioned in the proposed changes thread we are focusing on usability features such as intel storage and target finding as well as preparing infrastructure for future features. As well as some race/personality changes we will be revising further the exploring structure of the game and reworking the war win chart calculation. Thank you to everyone who provided feedback, you can provide more comments here.
 

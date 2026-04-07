@@ -1,8 +1,8 @@
 # Age 57 — Relentless Onslaught
 
-**WoL Age 57 Start:** 15 February 2013
-**WoL Age 57 End:** 4 June 2013
-**Duration:** 110
+- **WoL Age 57 Start:** 15 February 2013
+- **WoL Age 57 End:** 4 June 2013
+- **Duration:** 110
 
 ## Changes in brief
 

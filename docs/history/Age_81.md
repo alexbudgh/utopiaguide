@@ -1,8 +1,8 @@
 # Age 81 — The Emergence
 
-**WoL Age 81 Start:** 1 May 2019
-**WoL Age 81 End:** 20 Jul 2019
-**Duration:** 11 weeks
+- **WoL Age 81 Start:** 1 May 2019
+- **WoL Age 81 End:** 20 Jul 2019
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

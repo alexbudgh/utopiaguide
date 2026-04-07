@@ -1,9 +1,9 @@
 # Age 88
 
-**WoL Age 88 Open:** 19 September 2020
-**WoL Age 88 Start:** 21 September 2020
-**WoL Age 88 End:** 21 November 2020
-**Forum Source:** [Age 88 Final Changes](https://forums.utopia-game.com/showthread.php?639968-Age-88-Final-Changes)
+- **WoL Age 88 Open:** 19 September 2020
+- **WoL Age 88 Start:** 21 September 2020
+- **WoL Age 88 End:** 21 November 2020
+- **Forum Source:** [Age 88 Final Changes](https://forums.utopia-game.com/showthread.php?639968-Age-88-Final-Changes)
 
 ## Races
 

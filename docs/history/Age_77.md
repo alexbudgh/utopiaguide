@@ -1,8 +1,8 @@
 # Age 77 — The Age of Accession and Abrogation
 
-**WoL Age 77 Start:** 16 Jul 2018
-**WoL Age 77 End:** 6 Oct 2018
-**Duration:** 12 weeks
+- **WoL Age 77 Start:** 16 Jul 2018
+- **WoL Age 77 End:** 6 Oct 2018
+- **Duration:** 12 weeks
 
 ## Mechanics Changes
 

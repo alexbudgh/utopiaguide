@@ -1,6 +1,6 @@
 # Age 96 — The Eternal Rift
 
-**Forum Source:** [Age 96 Final Changes](https://forums.utopia-game.com/showthread.php?640253-Age-96-Final-Changes)
+- **Forum Source:** [Age 96 Final Changes](https://forums.utopia-game.com/showthread.php?640253-Age-96-Final-Changes)
 
 Tentative Timeline:
 

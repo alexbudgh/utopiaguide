@@ -1,8 +1,8 @@
 # Age 87 — Age of the Sword
 
-**WoL Age 87 Open:** 18 July 2020
-**WoL Age 87 Start:** 20 July 2020
-**Forum Source:** [Age 87 FINAL Changes](https://forums.utopia-game.com/showthread.php?639934-Age-87-FINAL-Changes)
+- **WoL Age 87 Open:** 18 July 2020
+- **WoL Age 87 Start:** 20 July 2020
+- **Forum Source:** [Age 87 FINAL Changes](https://forums.utopia-game.com/showthread.php?639934-Age-87-FINAL-Changes)
 
 ## Overview
 

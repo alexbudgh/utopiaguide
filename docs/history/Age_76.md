@@ -1,8 +1,8 @@
 # Age 76 — The Age of the Empyrean Advent
 
-**WoL Age 76 Start:** 21 Apr 2018
-**WoL Age 76 End:** ~14 Jul 2018
-**Duration:** 12 weeks
+- **WoL Age 76 Start:** 21 Apr 2018
+- **WoL Age 76 End:** ~14 Jul 2018
+- **Duration:** 12 weeks
 
 ## Mechanics Changes
 

@@ -1,6 +1,6 @@
 # Age 52 — An Era of Supremacy
 
-**Forum Source:** [Age 52 Changes](https://forums.utopia-game.com/showthread.php?619466)
+- **Forum Source:** [Age 52 Changes](https://forums.utopia-game.com/showthread.php?619466)
 
 Here is the changelog for Age 52. The changes to the relations system and the stances are quite important and will have a large influence on game mechanics so many thanks to those that contributed to the discussions.
 

@@ -1,6 +1,6 @@
 # Age 50 — The Age of Resurrection
 
-**Forum Source:** [Age 50 Final Changes](https://forums.utopia-game.com/showthread.php?614829)
+- **Forum Source:** [Age 50 Final Changes](https://forums.utopia-game.com/showthread.php?614829)
 
 ## Mechanics Changes
 

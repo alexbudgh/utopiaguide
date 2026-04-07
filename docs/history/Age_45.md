@@ -1,6 +1,6 @@
 # Age 45 — The Age of Light
 
-**Forum Source:** [Age 45 - The Age of Light](https://forums.utopia-game.com/showthread.php?601420)
+- **Forum Source:** [Age 45 - The Age of Light](https://forums.utopia-game.com/showthread.php?601420)
 
 Here are the changes for the new age.
 

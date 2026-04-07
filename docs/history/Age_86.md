@@ -1,7 +1,7 @@
 # Age 86 — Global Viction
 
-**WoL Age 86 Start:** 18 May 2020
-**Duration:** 11 weeks
+- **WoL Age 86 Start:** 18 May 2020
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

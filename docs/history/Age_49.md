@@ -1,8 +1,8 @@
 # Age 49 — The Age of Conspiracy
 
-**WoL Age 49 Start:** 15 December 2011
-**WoL Age 49 End:** 30 March 2011
-**Duration:** 106
+- **WoL Age 49 Start:** 15 December 2011
+- **WoL Age 49 End:** 30 March 2011
+- **Duration:** 106
 
 ## Changes in brief
 

@@ -1,8 +1,8 @@
 # Age 74 — The Age of Affinity
 
-**WoL Age 74 Start:** 6 Nov 2017
-**WoL Age 74 End:** 27 Jan 2018
-**Duration:** 12 weeks
+- **WoL Age 74 Start:** 6 Nov 2017
+- **WoL Age 74 End:** 27 Jan 2018
+- **Duration:** 12 weeks
 
 ## Mechanics Changes
 

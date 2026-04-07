@@ -1,6 +1,6 @@
 # Age 62 — not named yet
 
-**WoL Age 62 End:** 13 October 2014
+- **WoL Age 62 End:** 13 October 2014
 
 ## Mechanic Changes
 

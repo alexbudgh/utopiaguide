@@ -1,10 +1,9 @@
 # Age 98 — Keen Transformation
 
-**WoL Age 98 Start:** Wednesday Sept 7, 2022 @ 18:00 GMT
-**WoL Age 98 End:** Saturday, November 19, 2022 @ 00:00 GMT
-**Duration:** 74
-
-**Forum Source:** [Age 98 Final Changes](https://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
+- **WoL Age 98 Start:** Wednesday Sept 7, 2022 @ 18:00 GMT
+- **WoL Age 98 End:** Saturday, November 19, 2022 @ 00:00 GMT
+- **Duration:** 74
+- **Forum Source:** [Age 98 Final Changes](https://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
 
 ### Mechanical Changes
 

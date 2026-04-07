@@ -1,7 +1,7 @@
 # Age 64 — The Spoils of War
 
-**WoL Age 64 Start:** 26 January 2015
-**WoL Age 64 End:** 8 May 2015
+- **WoL Age 64 Start:** 26 January 2015
+- **WoL Age 64 End:** 8 May 2015
 
 ## Mechanic Changes
 

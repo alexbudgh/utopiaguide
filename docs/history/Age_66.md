@@ -1,6 +1,6 @@
 # Age 66 — Thunder and Bedlam
 
-**Forum Source:** [Age 66 Changes](https://forums.utopia-game.com/showthread.php?631144)
+- **Forum Source:** [Age 66 Changes](https://forums.utopia-game.com/showthread.php?631144)
 
 ## Schedule
 

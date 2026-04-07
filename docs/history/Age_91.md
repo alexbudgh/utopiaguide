@@ -1,10 +1,9 @@
 # Age 91 — Age of Remembrance
 
-**Forum Source:** [Age 91 Final Changes](https://forums.utopia-game.com/showthread.php?640136-Age-91-FINAL-Changes)
-
-**WoL Age 91 Open:** Saturday April 10, 2021 @ 13:00 GMT
-**WoL Age 91 Start:** Monday April 12, 2021 @ 18:00 GMT
-**WoL Age 91 End:** Saturday June 19, 2021 @ 00:00 GMT
+- **Forum Source:** [Age 91 Final Changes](https://forums.utopia-game.com/showthread.php?640136-Age-91-FINAL-Changes)
+- **WoL Age 91 Open:** Saturday April 10, 2021 @ 13:00 GMT
+- **WoL Age 91 Start:** Monday April 12, 2021 @ 18:00 GMT
+- **WoL Age 91 End:** Saturday June 19, 2021 @ 00:00 GMT
 
 We are planning some major race/personality changes for Age 92 so enjoy these balanced stats while you can
 

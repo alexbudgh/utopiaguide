@@ -1,8 +1,8 @@
 # Age 84 — Bethink the Fray
 
-**WoL Age 84 Start:** 19 Dec 2019
-**WoL Age 84 End:** 29 Feb 2020
-**Duration:** 11 weeks
+- **WoL Age 84 Start:** 19 Dec 2019
+- **WoL Age 84 End:** 29 Feb 2020
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

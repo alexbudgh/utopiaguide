@@ -1,6 +1,6 @@
 # Age 51 — The Age of Domination
 
-**Forum Source:** [Age 51 Changes](https://forums.utopia-game.com/showthread.php?616864)
+- **Forum Source:** [Age 51 Changes](https://forums.utopia-game.com/showthread.php?616864)
 
 Hi all. Here are the changes for age 51 - the developers have taken feedback onboard and added some further tweaks. We hope you guys enjoy these changes for the upcoming summer age.
 

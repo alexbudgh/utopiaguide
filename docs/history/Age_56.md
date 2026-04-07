@@ -1,8 +1,8 @@
 # Age 56 — Strength in Union
 
-**WoL Age 56 Start:** 16 November 2012
-**WoL Age 56 End:** 12 February 2013
-**Duration:** 88
+- **WoL Age 56 Start:** 16 November 2012
+- **WoL Age 56 End:** 12 February 2013
+- **Duration:** 88
 
 ## Changes in brief
 

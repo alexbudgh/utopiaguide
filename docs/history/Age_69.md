@@ -1,6 +1,6 @@
 # Age 69 — The Age of Scholars and Scoundrels
 
-**Forum Source:** [Age 69 Changes](https://forums.utopia-game.com/showthread.php?632867)
+- **Forum Source:** [Age 69 Changes](https://forums.utopia-game.com/showthread.php?632867)
 
 Here are the changes for Age 69. Thank you to everyone that gave constructive feedback.
 

@@ -1,8 +1,8 @@
 # Age 80 — Age of Reconnaissance
 
-**WoL Age 80 Start:** 6 Feb 2019
-**WoL Age 80 End:** 27 Apr 2019
-**Duration:** 11 weeks
+- **WoL Age 80 Start:** 6 Feb 2019
+- **WoL Age 80 End:** 27 Apr 2019
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

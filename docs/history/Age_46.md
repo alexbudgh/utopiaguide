@@ -1,6 +1,6 @@
 # Age 46 — The Age of Distinction
 
-**Forum Source:** [Age 46 - The Age of Distinction](https://forums.utopia-game.com/showthread.php?606465)
+- **Forum Source:** [Age 46 - The Age of Distinction](https://forums.utopia-game.com/showthread.php?606465)
 
 Hi All,
 

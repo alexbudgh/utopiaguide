@@ -1,7 +1,7 @@
 # Age 65 — Isles of Legion
 
-**WoL Age 65 Start:** 11 May 2015
-**WoL Age 65 End:** 30 August 2015
+- **WoL Age 65 Start:** 11 May 2015
+- **WoL Age 65 End:** 30 August 2015
 
 ## Mechanic Changes
 

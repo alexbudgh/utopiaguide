@@ -1,7 +1,7 @@
 # Age 85 — Intuition
 
-**WoL Age 85 Start:** 4 Mar 2020
-**Duration:** 11 weeks
+- **WoL Age 85 Start:** 4 Mar 2020
+- **Duration:** 11 weeks
 
 ## Mechanics Changes
 

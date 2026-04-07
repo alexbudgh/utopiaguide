@@ -1,8 +1,8 @@
 # Age 68 — Heresy
 
-**WoL Age 68 Start:** 19 Apr 2016
-**WoL Age 68 End:** 5 Aug 2016
-**Duration:** 15 weeks
+- **WoL Age 68 Start:** 19 Apr 2016
+- **WoL Age 68 End:** 5 Aug 2016
+- **Duration:** 15 weeks
 
 ## Mechanics Changes
 

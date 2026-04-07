@@ -1,6 +1,6 @@
 # Age 73 — The Age of Tricksters and Mischief
 
-**WoL Age 73 Start:** 11 Aug 2017
+- **WoL Age 73 Start:** 11 Aug 2017
 
 ## Mechanics Changes
 

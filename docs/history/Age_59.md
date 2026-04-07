@@ -1,6 +1,6 @@
 # Age 59 — An Honorable Proposition
 
-**Forum Source:** [Age 59 Changes](https://forums.utopia-game.com/showthread.php?627066)
+- **Forum Source:** [Age 59 Changes](https://forums.utopia-game.com/showthread.php?627066)
 
 Below please find the changes for Age 59. Honor has been changed significantly, more details below. You can comment here.
 

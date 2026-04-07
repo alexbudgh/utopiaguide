@@ -1,6 +1,6 @@
 # Age 47 — The Age of Justice
 
-**Forum Source:** [Age 47 Changes (confirmed)](https://forums.utopia-game.com/showthread.php?610522)
+- **Forum Source:** [Age 47 Changes (confirmed)](https://forums.utopia-game.com/showthread.php?610522)
 
 ## Overview
 

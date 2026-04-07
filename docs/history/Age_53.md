@@ -1,8 +1,8 @@
 # Age 53 — The Age of Havoc
 
-**WoL Age 53 Start:** 8 February 2012
-**WoL Age 53 End:** 8 May 2012
-**Duration:** 90
+- **WoL Age 53 Start:** 8 February 2012
+- **WoL Age 53 End:** 8 May 2012
+- **Duration:** 90
 
 ## Changes in brief
 
