@@ -78,12 +78,12 @@ A complete list of all Utopia ages on the World of Legends server.
 | 63 | Iron Walls, Iron Heart | [Age 63](Age_63.md) |
 | 64 | The Spoils of War | [Age 64](Age_64.md) |
 | 65 | The Isles of Legion | [Age 65](Age_65.md) |
-| 66 | Thunder and Bedlam | Age 66 |
+| 66 | Thunder and Bedlam | [Age 66](Age_66.md) |
 | **2016–2017** | | |
-| 67 | The Age of Perception | Age 67 |
+| 67 | The Age of Perception | [Age 67](Age_67.md) |
 | 68 | The Age of Heresy | [Age 68](Age_68.md) |
-| 69 | The Age of Scholars and Scoundrels | Age 69 |
-| 70 | The Age of Daunting Judgement | Age 70 |
+| 69 | The Age of Scholars and Scoundrels | [Age 69](Age_69.md) |
+| 70 | The Age of Daunting Judgement | [Age 70](Age_70.md) |
 | 71 | The Metamorphosis | [Age 71](Age_71.md) |
 | 72 | The Era of Venerated Bastions | [Age 72](Age_72.md) |
 | 73 | The Age of Tricksters and Mischief | [Age 73](Age_73.md) |
