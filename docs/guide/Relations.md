@@ -67,15 +67,40 @@ An Aggressor Kingdom can enter into a 96 Ticks unbreakable Ceasefire with a Defe
 ## Unfriendly
 
 - Unlocks certain (Unfriendly / Hostile) spells and thievery operations to the **opposing** Kingdom
+- A [Dragon](../main/Dragons.md) sent to an Unfriendly kingdom will only have 50% health points
 
 When the [Hostility Meter](../main/Hostile_Meter.md) reaches **15** hostility points, the aggressor kingdom becomes **Unfriendly** towards the opposing Kingdom. If the meter decays below this limit, **Normal** relations are resumed.
 
 Unfriendly relations permit the use of more complex (and damaging) operations and spells to the enemy kingdom.
 
+### Unfriendly Spells
+
+- [Expose Thieves](Mystics.md#expose-thieves)
+- [Fireball](Mystics.md#fireball)
+- [Lightning Strike](Mystics.md#lightning-strike)
+- [Chastity](Mystics.md#chastity)
+- [Fool's Gold](Mystics.md#fools-gold)
+- [Nightmares](Mystics.md#nightmares)
+- [Mystic Vortex](Mystics.md#mystic-vortex)
+- [Tornadoes](Mystics.md#tornadoes)
+- [Land Lust](Mystics.md#land-lust)
+- [Abolish Ritual](Mystics.md#abolish-ritual)
+- [Magic Ward](Mystics.md#magic-ward)
+- [Sloth](Mystics.md#sloth)
+
+### Unfriendly Thievery Operations
+
+- [Night Strike](../misc/Thievery.md#night-strike)
+- [Assassinate Wizards](../misc/Thievery.md#assassinate-wizards)
+- [Greater Arson](../misc/Thievery.md#greater-arson)
+- [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards)
+
 ## Hostile
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
 - Unlocks [Meteor Showers](Mystics.md#meteor-showers)
+- A [Dragon](../main/Dragons.md) sent to a Hostile kingdom will only have 75% health points
+- Some Honor gains from Ops and Spells
 
 When the [Hostile Meter](../main/Hostile_Meter.md) reaches **30**
 hostility points, the Aggressor Kingdom becomes **Hostile** towards the
@@ -114,8 +139,18 @@ Honor and Land gains are higher in War than out of War.
 Benefits
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
-- Unlocks [Propaganda](../misc/Thievery.md#propaganda) and [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards) Operations
-- Unlocks [Amnesia](Mystics.md#amnesia) and [Expose Thieves](Mystics.md#expose-thieves) Spells
+- A [Dragon](../main/Dragons.md) sent in War has full health
+- Greatly increased Honor gains from Ops and Spells
+- Greatly reduced [Multi-Attack Protection](../misc/Multi-Attack_Protection_(MAP).md)
+
+#### War-only Spells
+
+- [Amnesia](Mystics.md#amnesia)
+- [War Spoils](Mystics.md#war-spoils)
+
+#### War-only Thievery Operations
+
+- [Propaganda](../misc/Thievery.md#propaganda)
 
 Penalties
 

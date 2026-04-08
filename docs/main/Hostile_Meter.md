@@ -72,7 +72,11 @@ Dragons sent add 30 points to the Hostility Meter.
 | **Greater Arson** | Unfriendly | 0.3 |
 | **Assassinate Wizards** | Unfriendly | 0.36 |
 
-## Detailed: Effects of Moving the Meter & Changing Relations
+## Relation Summary
+
+This page focuses on how the meter moves and what thresholds unlock.
+For the full relation-state rules, war flow, surrender rules, and
+end-of-war ceasefire effects, see [Relations](../guide/Relations.md).
 
 ### Normal
 
@@ -81,28 +85,7 @@ No Effects
 ### Unfriendly
 
 - A [Dragon](Dragons.md) sent to an unfriendly Kingdom will only have 50% health points.
-
-*Mystics:*
-
-- [Expose Thieves](../guide/Mystics.md#expose-thieves)
-- [Fireball](../guide/Mystics.md#fireball)
-- [Lightning Strike](../guide/Mystics.md#lightning-strike)
-- [Chastity](../guide/Mystics.md#chastity)
-- [Fool's Gold](../guide/Mystics.md#fools-gold)
-- [Nightmares](../guide/Mystics.md#nightmares)
-- [Mystic Vortex](../guide/Mystics.md#mystic-vortex)
-- [Tornadoes](../guide/Mystics.md#tornadoes)
-- [Land Lust](../guide/Mystics.md#land-lust)
-- [Abolish Ritual](../guide/Mystics.md#abolish-ritual)
-- [Magic Ward](../guide/Mystics.md#magic-ward)
-- [Sloth](../guide/Mystics.md#sloth)
-
-*Thievery:*
-
-- [Night Strike](../misc/Thievery.md#night-strike)
-- [Assassinate Wizards](../misc/Thievery.md#assassinate-wizards)
-- [Greater Arson](../misc/Thievery.md#greater-arson)
-- [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards)
+- Unlocks additional hostile actions. See [Relations](../guide/Relations.md#unfriendly).
 
 ### Hostile
 
@@ -111,24 +94,14 @@ No Effects
 - Mana costs of Offensive Spells decreases to 2%
 - Stealth costs of Offensive Operations decreases to 2%
 - Access to [Meteor Showers](../guide/Mystics.md#meteor-showers)
+- See [Relations](../guide/Relations.md#hostile) for unlocked actions by relation state.
 
 ### War
 
-- Greatly increased Honor gains from Ops and Spells
-- A [Dragon](Dragons.md) sent in War has full health
-- Dragon Networth Range is removed when targeting a Kingdom you are at War with
-- Greatly reduced [Multi-Attack Protection](../misc/Multi-Attack_Protection_(MAP).md)
-- 80% Protection from hits and spell/op effects from Kingdoms outside the War (phasing in over 24h)
-- Decreased Attack Time (phasing in) by 15% after 12 Ticks
-
-*Mystics:*
-
-- [Amnesia](../guide/Mystics.md#amnesia)
-- [War Spoils](../guide/Mystics.md#war-spoils)
-
-*Thievery:*
-
-- [Propaganda](../misc/Thievery.md#propaganda)
+- A [Dragon](Dragons.md) sent in War has full health.
+- War is entered through the hostility rules summarized above.
+- Full War effects, phased protections, War-only ops/spells, and
+  end-of-war behavior are documented in [Relations](../guide/Relations.md).
 
 ## Changelog
 
