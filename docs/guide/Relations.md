@@ -16,7 +16,10 @@ from attacks, spells, ops, and dragons, see
 
 ## Relation Types
 
-Each kingdom will have differing relations amongst one another in the world of Utopia. How these relations evolve (or fall apart) will be dependent on the history, conflict level, and diplomatic abilities of the Monarchs and their Stewards. You can see your relation with any given kingdom by viewing their respective kingdom page. It is indicated as such:
+Each kingdom will have differing relations with others in the world of
+Utopia. How these relations evolve depends on conflict history and on
+the diplomatic actions of Monarchs and Stewards. You can see your
+relation with any given kingdom on its kingdom page:
 
 ```
  Their Attitude Towards Us : XX
@@ -136,7 +139,7 @@ Honor and Land gains are higher in War than out of War.
 
 - War overrides relations with all other kingdoms. Upon leaving War, **Normal** relations will resume. While in War, there is a decay of two hostility points per [Utopian Month](../main/Utopia_Time.md) or 1/5th of the Meter, whichever is greater.
 
-Benefits
+#### Benefits
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
 - A [Dragon](../main/Dragons.md) sent in War has full health
@@ -152,20 +155,20 @@ Benefits
 
 - [Propaganda](../misc/Thievery.md#propaganda)
 
-Penalties
+#### Penalties
 
 - [Paradise](Mystics.md#paradise) cannot be cast (except during EoWCF)
 - 600% Exploration Costs
 
 ### After 12 Hours
 
-Benefits
+#### Benefits
 
 - -15% Attack Time
 
 ### After 24 Hours
 
-Benefits
+#### Benefits
 
 - -80% Gains, Military Casualties and Effectiveness for Spells and Operations to and from other Kingdoms (this fades in from War start)
 
@@ -210,7 +213,9 @@ others phase in over the next 24 hours.
 
 ## Ending a War
 
-Only the Kingdom's Monarch (or Steward) is able to end a war. This is accomplished in one of two ways: Mutual Peace or Withdrawal. Either choice results in an end-of-war ceasefire.
+Only the Kingdom's Monarch (or Steward) is able to end a war. This is
+accomplished in one of two ways: Mutual Peace or Withdrawal. Either
+choice results in an end-of-war ceasefire.
 
 ### Mutual Peace
 

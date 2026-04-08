@@ -2,9 +2,12 @@
 
 ## Significance of the Hostility Meter
 
-When a party hits **15 points** they become Unfriendly to the Kingdom which they hit/opped. Hostile status requires **30 points** to achieve.
+When a party hits **15 points**, they become Unfriendly to the kingdom
+they hit or opped. Hostile status requires **30 points**.
 
-If both Kingdoms reach Hostile relations, the kingdom with fewer meter points may declare war. When **90 points** are reached by both Kingdoms, either one can declare.
+If both kingdoms reach Hostile relations, the kingdom with fewer meter
+points may declare war. When **90 points** are reached by both kingdoms,
+either one can declare.
 
 On the first of each Utopian Month, both hostility meters decay by **one fifth (20%) or 3 points, whichever is greater**.
 
@@ -80,7 +83,7 @@ end-of-war ceasefire effects, see [Relations](../guide/Relations.md).
 
 ### Normal
 
-No Effects
+No effects.
 
 ### Unfriendly
 
