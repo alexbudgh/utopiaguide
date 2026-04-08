@@ -135,6 +135,8 @@ A Kingdom can only War one other Kingdom at a time.
 
 Honor and Land gains are higher in War than out of War.
 
+War also has a minimum-gains floor on attacks; by [Age 100](../history/Age_100.md) this was documented as roughly 4%. See [Attacking & Defending](Attacking_&_Defending.md#attack-gains) for the fuller historical note.
+
 ### Immediate Effects
 
 - War overrides relations with all other kingdoms. Upon leaving War, **Normal** relations will resume. While in War, there is a decay of two hostility points per [Utopian Month](../main/Utopia_Time.md) or 1/5th of the Meter, whichever is greater.
