@@ -20,6 +20,12 @@
 
 ## How to Figure out What to Send
 
+Take a SoM of the attacker, then check the intel site's Armies tab — it has an **Ambush** column that shows the required offense directly, so you don't need to run the formula manually unless you want to understand the math. If the target has multiple armies listed, work through them in reverse order (last hit first) and make sure you are only looking at attacks made against your province, not hits they made against other provinces.
+
+In the War Room, make sure **Ambush** is selected as the attack type and use the ambush calculator option so the game calculates the minimum offense correctly. Enter the value from the intel site manually. Unlike other attack types, the ambush offense requirement does not change mid-tick due to modifiers like Minor Protection.
+
+If you prefer to calculate manually:
+
 1. Take a SoM
 2. Record the value of troops out in the SoM.
 3. Once you have obtained these numbers, use this formula:
