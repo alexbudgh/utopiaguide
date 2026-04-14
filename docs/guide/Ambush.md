@@ -16,8 +16,8 @@ In the War Room, make sure **Ambush** is selected as the attack type and use the
 3. You cannot ambush if your opponent's hit was made with Anonymity on.
 4. A successful ambush recaptures 50% of the land taken from you. Ambush ignores all gains modifiers.
 5. Ambush inflicts 15% increased Military Casualties on the defender.
-6. You ALWAYS ambush from the last hit to the first.
-    1. You will ambush the last successful hit. Conquests don't count. You CAN ambush an ambush.
+6. You **always** ambush from the last hit to the first.
+    1. You will ambush the last successful hit. Conquests don't count. You **can** ambush an ambush.
 
 ## Why Ambush?
 
