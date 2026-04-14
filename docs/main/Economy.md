@@ -33,7 +33,7 @@ Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Ra
 
 # Population
 
-### Total Population
+### Maximum Population
 
 ```
 Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) + (Homes * Homes Capacity)  
