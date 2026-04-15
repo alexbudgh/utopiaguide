@@ -1,26 +1,8 @@
 # Kingdom Recognition
 
-Kingdoms can receive recognition in two different ways:
+Kingdom recognition currently refers to land-based kingdom titles and rewards earned by reaching total land milestones.
 
-- War-score recognition, based on fighting and winning wars
-- Land-growth recognition, based on reaching kingdom land milestones
-
-## War Score Recognition
-
-Kingdoms receive titles of recognition based on their record fighting and winning wars.
-
-The following titles are conferred on kingdoms with the corresponding "War Score" rating:
-
-| Title | War Score |
-| --- | --- |
-| No Recognition | 0-0.99 |
-| Victorious | 1-1.99 |
-| Recognized | 2-2.99 |
-| Esteemed | 3-3.99 |
-| Powerful | 4-4.99 |
-| Exalted | 5+ |
-
-Kingdom Recognition is also know as tier.
+Historical war-score and war-tier references exist in older age notes and mechanics docs, but current war-win bonuses are documented in [Relations](../guide/Relations.md#victory).
 
 ## Land-Based Growth Rewards
 
