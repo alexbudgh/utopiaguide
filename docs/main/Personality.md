@@ -2,7 +2,7 @@
 
 Utopia has 10 Personalities. Choose carefully alongside your [Race](../main/Race.md) — many kingdoms coordinate picks as a team.
 
-*Last updated: Age 114 — The Age of Convergence*
+*Last updated: Age 115*
 
 ---
 
@@ -12,9 +12,9 @@ Utopia has 10 Personalities. Choose carefully alongside your [Race](../main/Race
 
 **Bonuses:**
 
-- +30% Building Capacity (Homes, Stables, Dungeons)
-- +30% Building Production (Banks, Farms, Stables, Towers)
-- +100% Successful Espionage Ops
+- +40% Building Capacity (Homes, Stables, Dungeons)
+- +40% Building Production (Banks, Farms, Stables, Towers, Homes)
+- Immune to Plunder, Greed and Incite Riots
 - +15% Economy Science Efficiency
 
 **Spell Book:**
@@ -29,7 +29,7 @@ Utopia has 10 Personalities. Choose carefully alongside your [Race](../main/Race
 - +200 Building Credits
 
 **Unique — Construction Delays** *(Passive)*
-For 6 ticks after a successful attack, the target's building efficiency is reduced by 10% (does not stack with multiple attacks).
+For 3 ticks after a successful attack, the target's building efficiency is reduced by 10% (does not stack with multiple attacks).
 
 ---
 
@@ -40,13 +40,13 @@ For 6 ticks after a successful attack, the target's building efficiency is reduc
 **Bonuses:**
 
 - +1 General
-- +20% Specialist Credits Gains
-- -25% Training Cost
-- Train Elites with Specialist Credits (In War)
-- +15% Bookkeeping Science Efficiency
+- -20% Training Cost and Speed
+- Can train one Elite for every two Specialist Credits
+- +15% Military Science Efficiency
 
 **Spell Book:**
 
+- Mist
 - Wrath
 
 **Starting Bonuses:**
@@ -65,31 +65,28 @@ Attacks inflict +15% enemy military casualties when two or more generals are sen
 
 **Bonuses:**
 
-- -40% Thief Cost
-- +25% TPA
+- +15% TPA
+- +15% WPA
+- -50% Thief Losses
 - +20% Sabotage Damage
-- +50% Guilds Effectiveness
+- +20% Spell Damage
+- +75% Guild Effectiveness
 - +15% Arcane Science Efficiency
 
 **Spell Book:**
 
 - Nightmares
 - Fools Gold
-- Invisibility
+- Mage's Fury
 - Vermin
-
-**Thief Op Access:**
-
-- Steal War Horses
 
 **Starting Bonuses:**
 
 - +400 Wizards
 - +400 Thieves
 
-**Unique — Chaotic Affliction** *(Active, Duration)*
-For 2 ticks when activated, all offensive spells and sabotage operations gain a random damage bonus between +10% and +30%.
-Cooldown: 23 ticks
+**Unique — Blasphemous Might** *(Passive)*
+After a failed offensive spell cast, the Heretic recovers 1% Stealth.
 
 ---
 
@@ -101,14 +98,14 @@ Cooldown: 23 ticks
 
 - +125% Guilds Effectiveness
 - +1 Mana Recovery per Tick
-- +15% Channeling Science Efficiency
+- +25% Offensive Spell Duration
+- +25% Channeling Science Efficiency
 
 **Spell Book:**
 
 - Pitfalls
 - Meteor Showers
 - Chastity
-- Vermin
 
 **Starting Bonuses:**
 
@@ -125,27 +122,26 @@ While above 40% mana, all spells gain +20% Wizard Effectiveness (WPA).
 
 **Bonuses:**
 
-- +30% WPA
-- +25% Military Losses converted into Soldiers (your fallen rise again)
-- Reclaims 30% of enemy military losses as Soldiers on successful attacks
-- +15% Channeling Science Efficiency
+- +35% WPA
+- +5% OME
+- -50% Rune Cost (not including Rituals)
+- +25% Channeling Science Efficiency
 
 **Spell Book:**
 
 - Animate Dead
-- Mystic Aura
-- Vermin
-- Pitfalls
 - Mind Focus
+- Soul Blight
+- Guile
+- Nightmares
 
 **Starting Bonuses:**
 
 - +400 Wizards
 - +400 Specialist Credits
-- +400 Soldiers
 
-**Unique — Black Magic** *(Passive)*
-Successful offensive instant spells also kill 1% of the target's peasant population.
+**Unique — Dark Pact** *(Passive)*
+After each successful attack, converts enemy killed units: 10% into Wizards, 20% into Soldiers, and 10% into Peasants.
 
 ---
 
@@ -155,19 +151,27 @@ Successful offensive instant spells also kill 1% of the target's peasant populat
 
 **Bonuses:**
 
-- +5% Population
-- +50% Stables Capacity and Production
-- Successful attacks inflict +15% enemy military casualties (but also +10% own offensive casualties)
-- +15% Valor Science Efficiency
+- +2 War Horse Strength (affects NW)
+- All lands hold and produce Horses (8 per acre)
+- +7.5% Defensive Military Efficiency
 - [Plague](../misc/Plague.md) Immunity
+- +25% Strategy Science Efficiency
+
+**Spell Book:**
+
+- Salvation
+- Divine Shield
+- Heroes' Inspiration
+- Illuminate Shadows
+- Wrath
 
 **Starting Bonuses:**
 
 - +800 Soldiers
 - +800 Specialist Credits
 
-**Unique — Divine Blessing** *(Passive)*
-All daily bonuses granted on the 1st of each month are doubled.
+**Unique — Holy Inquisition** *(Passive)*
+Successful attacks in War or Hostile temporarily suppress 15% of the target's science effectiveness and reduce Book Generation by 20% for 6–8 ticks (does not stack, only refreshes).
 
 ---
 
@@ -178,10 +182,10 @@ All daily bonuses granted on the 1st of each month are doubled.
 **Bonuses:**
 
 - +100% Thieves' Dens Effectiveness
-- +15% TPA
+- +20% TPA
 - +1 Stealth Recovery per Tick
 - Access to All Thievery Operations
-- +15% Crime Science Efficiency
+- +25% Crime Science Efficiency
 
 **Starting Bonuses:**
 
@@ -200,9 +204,10 @@ Rogue provinces may perform thievery operations even while overpopulated.
 
 - -15% Attack Time
 - +40% Specialist Credits Gains
+- +25% Draft Speed
+- -50% Ambush Losses
 - No Thieves lost on intel operations
-- +15% Siege Science Efficiency
-- Enhanced Conquest (access regardless of Net Worth)
+- +25% Siege Science Efficiency
 
 **Spell Book:**
 
@@ -213,8 +218,8 @@ Rogue provinces may perform thievery operations even while overpopulated.
 - +800 Soldiers
 - +800 Specialist Credits
 
-**Unique — Dragon's Wrath** *(Passive)*
-When successfully attacking with a dragon, 3% of your raw offense from units also deals damage to the dragon.
+**Unique — Interdiction** *(Passive)*
+Successful attacks in War destroy: 10% of target's gold, 25% of runes, and 20% of food.
 
 ---
 
@@ -224,18 +229,24 @@ When successfully attacking with a dragon, 3% of your raw offense from units als
 
 **Bonuses:**
 
-- -30% Honor Losses
-- Converts Specialists into Elites on Traditional Marches
+- +15% Honor Gains
+- +70% Honor Effects
 - +2 Offensive Specialist Strength (affects NW)
-- +50% Honor Effects
+- +25% Siege Science Efficiency
+
+**Spell Book:**
+
+- Quick Feet
+- Righteous Aggressor
+- Heroes' Inspiration
 
 **Starting Bonuses:**
 
 - +800 Soldiers
 - +800 Specialist Credits
 
-**Unique — Honor & Glory** *(Passive)*
-All successful attacks generate +2.5% additional Honor Gains.
+**Unique — Heroes Culling** *(Passive)*
+Successful Massacres kill +7% additional peasants and an additional 2.5% thieves and wizards.
 
 ---
 
@@ -245,10 +256,11 @@ All successful attacks generate +2.5% additional Honor Gains.
 
 **Bonuses:**
 
-- +10% Offensive Military Efficiency
-- +4 Mercenary & Prisoner Strength
+- +15% Offensive Military Efficiency
+- +5 Mercenary & Prisoner Strength
+- Mercenaries and Prisoners may be sent at 1 for every 4 normal troops
 - -50% Mercenary Cost
-- +15% Tactics Science Efficiency
+- +25% Tactics Science Efficiency
 
 **Spell Book:**
 

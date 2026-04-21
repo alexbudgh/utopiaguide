@@ -17,19 +17,19 @@ Check out the Guide for descriptions: [https://utopia-game.com/guide/](https://u
 |  | Housing | Population Limits | ~0.0262 |
 |  | Production | Food & Rune Production | ~0.2172 |
 |  | Bookkeeping | Wage Reduction | ~0.068 |
-|  | Artisan | Construction Time Reduction, Construction & Raze Cost Reduction | ~0.0478 |
+|  | Artisan | Construction Time Reduction, Construction & Raze Cost Reduction | ~0.04302 |
 | **Military** | Strategy | Defensive Military Efficiency | ~0.0367 |
 |  | Siege | Battle Gains | ~0.0262 |
 |  | Tactics | Offensive Military Efficiency | ~0.0367 |
 |  | Valor | Reduced Military Train Time & Increased Dragon Slaying Strength | ~0.0582 |
 |  | Heroism | Draft Speed & Draft Costs Reduction | ~0.0418 |
-|  | Resilience | Reduced Military Casualties | ~0.0489 |
+|  | Resilience | Reduced Military Casualties | ~0.04401 |
 | **Arcane Arts** | Crime | Thievery Effectiveness | ~0.1557 |
 |  | Channeling | Magic Effectiveness | ~0.1875 |
 |  | Shielding | Reduced Damage from Enemy Thievery and Magic Instant Operations | ~0.0314 |
 |  | Sorcery | Increased Magic Instant Damage | ~0.0314 |
 |  | Cunning | Increased Thievery Operation Damage | ~0.0314 |
-|  | Finesse | Reduced Wizards and Thieves lost on Failed Spells and Operations | ~0.0965 |
+|  | Finesse | Reduced Wizards and Thieves lost on Failed Spells and Operations | ~0.08685 |
 
 ## Science Formula
 

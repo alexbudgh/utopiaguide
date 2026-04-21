@@ -2,7 +2,7 @@
 
 The population of Utopia is made up of 9 Races. Choose carefully — many kingdoms coordinate Race and [Personality](Personality.md) picks as a team to develop a shared strategy.
 
-*Last updated: Age 114 — The Age of Convergence*
+*Last updated: Age 115*
 
 ---
 
@@ -19,11 +19,11 @@ Each Race has a Unique Ability reflecting its core strengths. Abilities are cate
 
 Each Race provides a War Doctrine bonus when your kingdom is at war. Strength scales with how many provinces of that race are in your kingdom.
 
-- **Base Effect** — 1.5% starting bonus from having at least one province of this race
-- **Per Province** — +1.0% per additional province of this race
-- **Maximum** — 7.5% cap (Avian caps at 5.0% reached at 5 provinces; all others at 7 provinces)
+- **1st Province** — +2.0% starting bonus
+- **Per Additional Province** — +1.5% per province
+- **Maximum** — 12.5% cap (reached at 8 provinces)
 
-No doctrine may exceed 7.5% total. Additional provinces beyond the cap provide no further benefit.
+No doctrine may exceed 12.5% total. Additional provinces beyond the cap provide no further benefit.
 
 ---
 
@@ -32,31 +32,30 @@ No doctrine may exceed 7.5% total. Additional provinces beyond the cap provide n
 **Bonuses:**
 
 - -20% Attack Time
-- -40% Training Time
+- -25% Training Time
+- -25% Military Wage Cost
 
 **Penalties:**
 
-- Cannot Ambush
 - No Access to Stables and War Horses
+- -5% Building Efficiency
 
 **Spell Book:**
 
 - Town Watch
 - Illuminate Shadows
-- Divine Shield
-- Salvation
 
-**War Doctrine — Attack Time:** Up to -5.0% Attack Time to your kingdom (cap reached at 5 provinces)
+**War Doctrine — Attack Time / Birth Rates:** Up to -10% Attack Time and +12.5% Birth Rates to your kingdom
 
-**Unique — Opportunistic Raiders** *(Passive)*
-Learn and Plunder attacks return armies 1 tick faster (after modifiers).
+**Unique — Dive Bomb** *(Passive)*
+Offensive specialists gain +2 offense (War only, does not affect NW).
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
-| Griffins *(off spec)* | 13/0 | 5.2 | 350gc |
-| Harpies *(def spec)* | 0/9 | 4.5 | 350gc |
-| Drakes *(elite)* | 16/6 | 8.0 | 900gc |
+| Griffins *(off spec)* | 12/0 | 4.8 | 350gc |
+| Harpies *(def spec)* | 0/10 | 5.0 | 350gc |
+| Drakes *(elite)* | 16/3 | 7.0 | 750gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | n/a | | —[^race-unit-na] |
@@ -68,13 +67,13 @@ Learn and Plunder attacks return armies 1 tick faster (after modifiers).
 
 **Bonuses:**
 
-- +25% Instant Spell Damage
-- -50% Rune Cost (excluding Rituals)
+- +35% Instant Spell Damage
+- -35% Rune Cost (excluding Rituals)
 - Can train Thieves using Specialist Credits
 
 **Penalties:**
 
-- -25% Birth Rates
+- -15% Birth Rates
 
 **Spell Book:**
 
@@ -82,18 +81,18 @@ Learn and Plunder attacks return armies 1 tick faster (after modifiers).
 - Mage's Fury
 - Illuminate Shadows
 - Pitfalls
-- Quick Feet
+- Mind Focus
 
-**War Doctrine — Instant Spell Damage:** Up to +7.5% Instant Spell Damage to your kingdom
+**War Doctrine — Instant Spell Damage / Rune Costs:** Up to +12.5% Instant Spell Damage and -12.5% Rune Costs to your kingdom
 
 **Unique — Mystic Enthusiasts** *(Passive)*
-Successful offensive instant spells refund 20% of the rune cost.
+Successful offensive instant spells refund 40% of the rune cost.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Night Rangers *(off spec)* | 15/0 | 6.0 | 350gc |
-| Druids *(def spec)* | 0/8 | 4.0 | 350gc |
+| Druids *(def spec)* | 0/11 | 5.5 | 350gc |
 | Drows *(elite)* | 4/12 | 7.0 | 750gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
@@ -106,9 +105,8 @@ Successful offensive instant spells refund 20% of the rune cost.
 
 **Bonuses:**
 
-- +25% Building Efficiency
+- +30% Building Efficiency
 - -50% Construction Time
-- +20% Building Credits in Combat
 
 **Penalties:**
 
@@ -120,19 +118,18 @@ Successful offensive instant spells refund 20% of the rune cost.
 - Miner's Mystique
 - Town Watch
 - Reflect Magic
-- Mist
 
-**War Doctrine — Specialist Credits:** Up to +7.5% Specialist Credits gained in combat to your kingdom
+**War Doctrine — Construction Costs / Income:** Up to -12.5% Construction Costs and +12.5% Income to your kingdom
 
 **Unique — Architect's Revenge** *(Passive)*
-Incoming Raze damage is reduced by 15%. Your Raze attacks destroy 20% additional buildings.
+Incoming Raze damage is reduced by 15%. Your Raze attacks deal 20% more damage.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Warriors *(off spec)* | 10/0 | 4.0 | 350gc |
-| Axemen *(def spec)* | 0/11 | 6.0 | 350gc |
-| Berserkers *(elite)* | 15/9 | 8.0 | 900gc |
+| Axemen *(def spec)* | 0/10 | 5.0 | 350gc |
+| Berserkers *(elite)* | 15/5 | 7.0 | 800gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
@@ -144,8 +141,9 @@ Incoming Raze damage is reduced by 15%. Your Raze attacks destroy 20% additional
 
 **Bonuses:**
 
-- +30% Magic Effectiveness (WPA)
+- +40% Magic Effectiveness (WPA)
 - +1 Mana Per Tick in War
+- +40% Rune Production
 
 **Penalties:**
 
@@ -155,20 +153,20 @@ Incoming Raze damage is reduced by 15%. Your Raze attacks destroy 20% additional
 
 - Pitfalls
 - Wrath
-- Fountain of Knowledge
-- Revelation
+- Vermin
+- Sloth
 
-**War Doctrine — Military Casualties Taken:** Up to -7.5% Military Casualties Taken to your kingdom
+**War Doctrine — Offensive WPA / Spell Duration:** Up to +12.5% Offensive WPA and +12.5% Spell Duration to your kingdom
 
 **Unique — Arcane Surge** *(Passive)*
-While mana is below 40%, offensive spells deal +25% spell damage. The boost disappears as soon as mana climbs back above 35%.
+While mana is below 40%, offensive spells deal +25% spell damage. The boost disappears as soon as mana climbs back above 40%.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Rangers *(off spec)* | 10/0 | 4.0 | 350gc |
 | Archers *(def spec)* | 0/13 | 6.5 | 350gc |
-| Elf Lords *(elite)* | 14/6 | 7.0 | 800gc |
+| Elf Lords *(elite)* | 15/4 | 6.0 | 750gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
@@ -181,39 +179,28 @@ While mana is below 40%, offensive spells deal +25% spell damage. The boost disa
 **Bonuses:**
 
 - +25% Spell Duration (offensive and self)
-- +25% WPA
+- +20% WPA
 - +1 Mana Recovery per Tick
 
 **Penalties:**
 
-- -10% Building Efficiency
-- +15% Military Wages
+- -5% Population
 
 **Spell Book:**
 
-- Tree of Gold
-- Quick Feet
-- Town Watch
-- Blizzard
-- Mage's Fury
-- Greater Protection
-- Fountain of Knowledge
-- Miner's Mystique
-- Pitfalls
-- Revelation
-- Animate Dead
+- All Racial Spells
 
-**War Doctrine — Thievery and Magic Damage:** Up to -7.5% damage from enemy Thievery and Magic instant operations to your kingdom
+**War Doctrine — Defensive WPA / Thievery Damage:** Up to +12.5% Defensive WPA and -12.5% Damage from Enemy Thievery Operations to your kingdom
 
 **Unique — Leyline Interference** *(Passive)*
-Enemy spells cast against Faery provinces have a 15% chance to fail completely.
+Enemy spells cast against Faery provinces have a 20% chance to fail completely.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Magicians *(off spec)* | 10/0 | 4.0 | 350gc |
 | Druids *(def spec)* | 0/10 | 5.0 | 350gc |
-| Beastmasters *(elite)* | 8/15 | 9.0 | 900gc |
+| Beastmasters *(elite)* | 4/16 | 8.5 | 1,000gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
@@ -231,25 +218,24 @@ Enemy spells cast against Faery provinces have a 15% chance to fail completely.
 
 **Penalties:**
 
-- +15% Military Casualties (attack and defence)
+- +10% Military Casualties (attack and defence)
 
 **Spell Book:**
 
-- Town Watch
+- Tree of Gold
 - Greater Protection
 
-**War Doctrine — Sabotage Damage:** Up to +7.5% Sabotage damage to your kingdom
+**War Doctrine — Sabotage Damage / Offensive TPA:** Up to +12.5% Sabotage Damage and +12.5% Offensive TPA to your kingdom
 
-**Unique — Sneak Attack** *(Active, Duration)*
-When activated, all thievery operations incur zero thievery losses for 1 tick.
-Cooldown: 23 Hours
+**Unique — Silent Assault** *(Passive)*
+Sabotage operations suffer 50% fewer thievery losses.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Strongarms *(off spec)* | 10/0 | 4.0 | 350gc |
-| Slingers *(def spec)* | 0/11 | 5.5 | 350gc |
-| Brutes *(elite)* | 10/13 | 8.0 | 900gc |
+| Slingers *(def spec)* | 0/10 | 5.0 | 350gc |
+| Brutes *(elite)* | 6/12 | 7.5 | 700gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
@@ -262,14 +248,14 @@ Cooldown: 23 Hours
 **Bonuses:**
 
 - All Lands hold Prisoners — 2 per Acre
-- +1 Stealth In War
-- +15% Science Efficiency
+- +1 Stealth Regeneration Per Tick
+- -30% Damage from Learn Attacks
+- +10% Science Efficiency
 
 **Penalties:**
 
 - Military wage increases take twice as long to fully apply (reductions apply normally)
-- +50% Rune Cost (excluding Rituals)
-- -50% Libraries Building Effectiveness
+- +40% Rune Cost (excluding Rituals)
 
 **Spell Book:**
 
@@ -277,21 +263,22 @@ Cooldown: 23 Hours
 - Revelation
 - Invisibility
 - Guile
+- Steal War Horses
 
-**War Doctrine — Book Generation:** Up to +7.5% Book Generation to your kingdom
+**War Doctrine — Book Generation / Science Effectiveness:** Up to +12.5% Book Generation and +12.5% Science Effectiveness to your kingdom
 
 **Unique — Civil Administration** *(Passive)*
-Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 25%.
+Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 40%.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Swordsmen *(off spec)* | 12/0 | 4.8 | 350gc |
 | Archers *(def spec)* | 0/10 | 5.0 | 350gc |
-| Knights *(elite)* | 14/9 | 8.0 | 1,000gc |
+| Knights *(elite)* | 16/3 | 6.5 | 750gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
-| War Horse | 3/0 | 0.9 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.9 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -300,7 +287,7 @@ Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 
 
 **Bonuses:**
 
-- +15% Battle Gains
+- +5% Battle Gains (OOW) / +15% Battle Gains (In War)
 - -50% Draft Cost
 
 **Penalties:**
@@ -309,20 +296,24 @@ Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 
 
 **Spell Book:**
 
-- Aggression
 - Bloodlust
+- Wrath
 
-**War Doctrine — Enemy Military Casualties:** Up to +7.5% Enemy Military Casualties to your kingdom
+**War Doctrine — Offensive Military Efficiency / Raze Damage:** Up to +10% Offensive Military Efficiency and +12.5% Raze Damage to your kingdom
 
-**Unique — Pillage and Burn** *(Passive)*
-Successful Traditional Marches capture +30% additional Prisoners. Massacre attacks are +15% more effective at killing Wizards.
+**Unique — Carnage** *(Passive)*
+Every successful attack applies one random bonus effect:
+
+- Destroy 25% of enemy resources (gold, runes, food)
+- Increase Military Wages by 25% for 4–6 ticks
+- -30% Military Losses
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Goblins *(off spec)* | 13/0 | 5.2 | 350gc |
 | Trolls *(def spec)* | 0/10 | 5.0 | 350gc |
-| Ogres *(elite)* | 20/1 | 7.0 | 850gc |
+| Ogres *(elite)* | 18/2 | 7.0 | 800gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
@@ -334,29 +325,31 @@ Successful Traditional Marches capture +30% additional Prisoners. Massacre attac
 
 **Bonuses:**
 
-- -40% Military Losses (attack and defence)
+- -45% Military Losses (attack and defence)
 - [Plague](../misc/Plague.md) Immunity
+- Always carries Plague and spreads it
 - No Food Requirement
 
 **Penalties:**
 
-- -5% Offensive Military Efficiency (OME)
+- -10% Science Efficiency
 
 **Spell Book:**
 
 - Animate Dead
+- Aggression
 
-**War Doctrine — Enemy Battle Gains:** Up to -7.5% Enemy Battle Gains to your kingdom
+**War Doctrine — Enemy Battle Gains / Plague Spread:** Up to -12.5% Enemy Battle Gains and +12.5% increased Plague spread chance to your kingdom (does not grant spread ability on its own)
 
-**Unique — Plaguebearers** *(Passive)*
-All successful attacks have a 33% chance to spread plague to the target province.
+**Unique — Death March** *(Passive)*
+Converts 45% of offensive losses into Soldiers instantly.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
 | Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
 | Skeletons *(off spec)* | 11/0 | 4.4 | 350gc |
 | Zombies *(def spec)* | 0/10 | 5.0 | 350gc |
-| Ghouls *(elite)* | 16/7 | 8.0 | 900gc |
+| Ghouls *(elite)* | 17/4 | 7.0 | 800gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
 | War Horse | 2/0 | 0.6 | —[^race-unit-na] |
