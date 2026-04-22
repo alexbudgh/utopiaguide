@@ -23,8 +23,14 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material
 
+      - name: Prepare cache-busted CSS
+        run: |
+          css_hash="${GITHUB_SHA::8}"
+          cp docs/stylesheets/extra.css "docs/stylesheets/extra.${css_hash}.css"
+          sed "s|stylesheets/extra.css|stylesheets/extra.${css_hash}.css|" mkdocs.yml > mkdocs.github-pages.yml
+
       - name: Build site
-        run: mkdocs build --strict
+        run: mkdocs build --strict -f mkdocs.github-pages.yml
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
