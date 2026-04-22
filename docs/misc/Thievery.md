@@ -221,6 +221,7 @@ Steals food from your opponent's storages.
  Available to:       All
  Relations Required: All
  Effect:             Steals up to a max of 31.5% (46% in war) enemy food at the rate of 95 (135 in war) bushels per thief.
+                     10% of the stolen food is lost rather than transferred.
  Operation Message:  Our thieves have returned with X bushels.
  Difficulty:         medium
  Meter Movemement:   0.06
@@ -301,8 +302,15 @@ Assassinates a portion of your enemy's military, both at home and away.
 ```
  Available to:       All
  Relations Required: Unfriendly
- Effect:             Kills up to a maximum of 16.25% enemy soldiers at a rate of 0.67 soldiers per thief.
-                     Also kills a much smaller amount of specialists and elites. Will affect all troops, even those that aren't home.
+ Effect:             Kills enemy soldiers, offensive specialists, defensive specialists, and elites, both at home and away.
+                     War formulas:
+                     - Soldiers: cap 13%, rate ~0.6 soldiers per thief
+                     - Offensive specialists: cap 0.36%, rate ~0.0228 per thief
+                     - Defensive specialists and elites: cap 0.48%, rate 0.022 per thief
+                     Out of war formulas:
+                     - Soldiers: cap ~11%, rate ~0.84 soldiers per thief
+                     - Offensive specialists: cap ?%, rate 0.23 per thief
+                     Will affect all troops, even those that aren't home.
  Operation Message:  Our thieves assassinated X enemy troops.  
  Difficulty:         medium
  Meter Movement:     0.24
