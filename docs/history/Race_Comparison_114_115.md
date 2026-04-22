@@ -25,8 +25,8 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Unique | *(not in Age 114 snapshot)* | Dive Bomb — Off specs +2 offense in War (no NW effect) <span class="badge-new">New</span> |
-| Spells | *(not in Age 114 snapshot)* | Town Watch, Illuminate Shadows <span class="badge-new">New</span> |
+| Unique | — | Dive Bomb — Off specs +2 offense in War (no NW effect) <span class="badge-new">New</span> |
+| Spells | — | Town Watch, Illuminate Shadows <span class="badge-new">New</span> |
 
 **Units**
 
@@ -59,7 +59,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | | Age 114 | Age 115 |
 | --- | --- | --- |
 | Unique | Mystic Enthusiasts — 20% rune refund on successful offensive instant spells | <span class="bonus">Mystic Enthusiasts — 40% rune refund on successful offensive instant spells</span> |
-| Spells | Blizzard, Mage's Fury, Illuminate Shadows, Pitfalls, Quick Feet | Blizzard, Mage's Fury, Illuminate Shadows, Pitfalls, Mind Focus |
+| Spells | Blizzard, Mage's Fury, Illuminate Shadows, Pitfalls, Quick Feet | Blizzard, Mage's Fury, Illuminate Shadows, Pitfalls · <span class="bonus">Mind Focus</span> · <span class="penalty">Removed: Quick Feet</span> |
 
 **Units**
 
@@ -88,7 +88,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Spells | Miner's Mystique, Town Watch, Reflect Magic, Mist | Miner's Mystique, Town Watch, Reflect Magic *(Mist removed)* |
+| Spells | Miner's Mystique, Town Watch, Reflect Magic, Mist | Miner's Mystique, Town Watch, Reflect Magic · <span class="penalty">Removed: Mist</span> |
 
 **Units**
 
@@ -227,7 +227,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Carnage | *(not detailed in Age 114 snapshot)* | Random per attack: destroy 25% resources OR +25% wages for 4–6 ticks OR −30% losses |
+| Carnage | — | Random per attack: destroy 25% resources OR +25% wages for 4–6 ticks OR −30% losses |
 
 **Units**
 

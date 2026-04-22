@@ -33,7 +33,7 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 | Training bonuses | −25% Cost | <span class="penalty">−20% Cost</span> & <span class="bonus">−20% Time</span> |
 | Elite training | With Spec Credits in War only | 1 Elite per 2 Spec Credits (always) |
 | Science Efficiency | +15% Bookkeeping | +15% Military |
-| Spells | Wrath | <span class="bonus">Mist, Wrath</span> |
+| Spells | Wrath | Wrath · <span class="bonus">Mist</span> |
 
 *(Unique — General's Authority — unchanged)*
 
@@ -49,7 +49,7 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 | WPA | — | <span class="bonus">+15%</span> <span class="badge-new">New</span> |
 | Spell Damage | — | <span class="bonus">+20%</span> <span class="badge-new">New</span> |
 | Guild Effectiveness | +50% | <span class="bonus">+75%</span> |
-| Spells | Nightmares, Fools Gold, Invisibility, Steal War Horses, Vermin | Nightmares, Fools Gold, Mage's Fury, Vermin |
+| Spells | Nightmares, Fools Gold, Invisibility, Steal War Horses, Vermin | Nightmares, Fools Gold, Vermin · <span class="bonus">Mage's Fury</span> · <span class="penalty">Removed: Invisibility, Steal War Horses</span> |
 
 **Unique**
 
@@ -68,7 +68,7 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 | --- | --- | --- |
 | Offensive Spell Duration | — | <span class="bonus">+25%</span> <span class="badge-new">New</span> |
 | Channeling Science Efficiency | +15% | <span class="bonus">+25%</span> |
-| Spells | Pitfalls, Meteor Showers, Chastity, Vermin | <span class="penalty">Pitfalls, Meteor Showers, Chastity *(Vermin removed)*</span> |
+| Spells | Pitfalls, Meteor Showers, Chastity, Vermin | Pitfalls, Meteor Showers, Chastity · <span class="penalty">Removed: Vermin</span> |
 
 *(Unique — Focused Channeling — unchanged)*
 
@@ -86,7 +86,7 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 | Military loss conversion | +25% losses → Soldiers *(passive bonus)* | Moved to Unique (Dark Pact) |
 | Channeling Science Efficiency | +15% | <span class="bonus">+25%</span> |
 | Starting Bonuses | +400 Wizards, +400 Spec Credits, +400 Soldiers | <span class="penalty">+400 Wizards, +400 Spec Credits *(−400 Soldiers)*</span> |
-| Spells | Animate Dead, Mystic Aura, Vermin, Pitfalls, Mind Focus | Animate Dead, Mind Focus, Soul Blight, Guile, Nightmares |
+| Spells | Animate Dead, Mystic Aura, Vermin, Pitfalls, Mind Focus | Animate Dead, Mind Focus · <span class="bonus">Soul Blight, Guile, Nightmares</span> · <span class="penalty">Removed: Mystic Aura, Vermin, Pitfalls</span> |
 
 **Unique**
 
