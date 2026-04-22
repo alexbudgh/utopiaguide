@@ -10,16 +10,16 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Building Capacity | +30% | +40% |
-| Building Production | +30% | +40% |
-| +100% Successful Espionage Ops | Bonus | Removed |
-| Immune to Plunder, Greed, Incite Riots | — | New |
+| Building Capacity | +30% | <span class="bonus">+40%</span> |
+| Building Production | +30% | <span class="bonus">+40%</span> |
+| +100% Successful Espionage Ops | Bonus | <span class="penalty">Removed</span> |
+| Immune to Plunder, Greed, Incite Riots | — | <span class="badge-new">New</span> |
 
 **Unique**
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Construction Delays | 6 ticks · −10% enemy BE | 3 ticks · −10% enemy BE |
+| Construction Delays | 6 ticks · −10% enemy BE | <span class="penalty">3 ticks</span> · −10% enemy BE |
 
 ---
 
@@ -29,11 +29,11 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| +20% Specialist Credits Gains | Bonus | Removed |
-| Training reduction | −25% Cost | −20% Cost & Speed |
+| +20% Specialist Credits Gains | Bonus | <span class="penalty">Removed</span> |
+| Training bonuses | −25% Cost | <span class="penalty">−20% Cost</span> & <span class="bonus">−20% Time</span> |
 | Elite training | With Spec Credits in War only | 1 Elite per 2 Spec Credits (always) |
 | Science Efficiency | +15% Bookkeeping | +15% Military |
-| Spells | Wrath | Mist, Wrath |
+| Spells | Wrath | <span class="bonus">Mist, Wrath</span> |
 
 *(Unique — General's Authority — unchanged)*
 
@@ -45,11 +45,10 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| TPA | +25% | +15% |
-| WPA | — | +15% *(new)* |
-| Thief benefit | −40% Thief Cost | −50% Thief Losses |
-| Spell Damage | — | +20% *(new)* |
-| Guild Effectiveness | +50% | +75% |
+| TPA | +25% | <span class="penalty">+15%</span> |
+| WPA | — | <span class="bonus">+15%</span> <span class="badge-new">New</span> |
+| Spell Damage | — | <span class="bonus">+20%</span> <span class="badge-new">New</span> |
+| Guild Effectiveness | +50% | <span class="bonus">+75%</span> |
 | Spells | Nightmares, Fools Gold, Invisibility, Steal War Horses, Vermin | Nightmares, Fools Gold, Mage's Fury, Vermin |
 
 **Unique**
@@ -67,9 +66,9 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Offensive Spell Duration | — | +25% *(new)* |
-| Channeling Science Efficiency | +15% | +25% |
-| Spells | Pitfalls, Meteor Showers, Chastity, Vermin | Pitfalls, Meteor Showers, Chastity *(Vermin removed)* |
+| Offensive Spell Duration | — | <span class="bonus">+25%</span> <span class="badge-new">New</span> |
+| Channeling Science Efficiency | +15% | <span class="bonus">+25%</span> |
+| Spells | Pitfalls, Meteor Showers, Chastity, Vermin | <span class="penalty">Pitfalls, Meteor Showers, Chastity *(Vermin removed)*</span> |
 
 *(Unique — Focused Channeling — unchanged)*
 
@@ -81,12 +80,12 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| WPA | +30% | +35% |
-| OME | — | +5% *(new)* |
-| Rune Cost | — | −50% *(new)* |
+| WPA | +30% | <span class="bonus">+35%</span> |
+| OME | — | <span class="bonus">+5%</span> <span class="badge-new">New</span> |
+| Rune Cost | — | <span class="bonus">−50%</span> <span class="badge-new">New</span> |
 | Military loss conversion | +25% losses → Soldiers *(passive bonus)* | Moved to Unique (Dark Pact) |
-| Channeling Science Efficiency | +15% | +25% |
-| Starting Bonuses | +400 Wizards, +400 Spec Credits, +400 Soldiers | +400 Wizards, +400 Spec Credits *(−400 Soldiers)* |
+| Channeling Science Efficiency | +15% | <span class="bonus">+25%</span> |
+| Starting Bonuses | +400 Wizards, +400 Spec Credits, +400 Soldiers | <span class="penalty">+400 Wizards, +400 Spec Credits *(−400 Soldiers)*</span> |
 | Spells | Animate Dead, Mystic Aura, Vermin, Pitfalls, Mind Focus | Animate Dead, Mind Focus, Soul Blight, Guile, Nightmares |
 
 **Unique**
@@ -104,14 +103,14 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| +5% Population | Bonus | Removed |
-| +50% Stables Capacity & Production | Bonus | Removed |
+| +5% Population | Bonus | <span class="penalty">Removed</span> |
+| +50% Stables Capacity & Production | Bonus | <span class="penalty">Removed</span> |
 | +15% enemy casualties / +10% own casualties on attacks | Effect | Removed |
-| +2 War Horse Strength (affects NW) | — | New |
-| All lands hold and produce Horses (8/acre) | — | New |
-| +7.5% Defensive Military Efficiency | — | New |
-| Science Efficiency | +15% Valor | +25% Strategy |
-| Spells | *(none)* | Salvation, Divine Shield, Heroes' Inspiration, Illuminate Shadows, Wrath |
+| +2 War Horse Strength (affects NW) | — | <span class="badge-new">New</span> |
+| All lands hold and produce Horses (8/acre) | — | <span class="badge-new">New</span> |
+| +7.5% Defensive Military Efficiency | — | <span class="badge-new">New</span> |
+| Science Efficiency | +15% Valor | <span class="bonus">+25% Strategy</span> |
+| Spells | *(none)* | <span class="bonus">Salvation, Divine Shield, Heroes' Inspiration, Illuminate Shadows, Wrath</span> <span class="badge-new">New</span> |
 
 **Unique**
 
@@ -128,8 +127,8 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| TPA | +15% | +20% |
-| Crime Science Efficiency | +15% | +25% |
+| TPA | +15% | <span class="bonus">+20%</span> |
+| Crime Science Efficiency | +15% | <span class="bonus">+25%</span> |
 
 *(Unique — Shadow Persistence — unchanged)*
 
@@ -141,10 +140,10 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Draft Speed | — | +25% *(new)* |
-| Ambush Losses | — | −50% *(new)* |
-| Enhanced Conquest | Bonus | Removed |
-| Siege Science Efficiency | +15% | +25% |
+| Draft Speed | — | <span class="bonus">+25%</span> <span class="badge-new">New</span> |
+| Ambush Losses | — | <span class="bonus">−50%</span> <span class="badge-new">New</span> |
+| Enhanced Conquest | Bonus | <span class="penalty">Removed</span> |
+| Siege Science Efficiency | +15% | <span class="bonus">+25%</span> |
 
 **Unique**
 
@@ -161,12 +160,12 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| −30% Honor Losses | Bonus | Removed |
-| Converts Specs to Elites on Traditional Marches | Bonus | Removed |
-| Honor Gains | — | +15% *(new)* |
-| Honor Effects | +50% | +70% |
-| Siege Science Efficiency | — | +25% *(new)* |
-| Spells | *(none)* | Quick Feet, Righteous Aggressor, Heroes' Inspiration |
+| −30% Honor Losses | Bonus | <span class="penalty">Removed</span> |
+| Converts Specs to Elites on Traditional Marches | Bonus | <span class="penalty">Removed</span> |
+| Honor Gains | — | <span class="bonus">+15%</span> <span class="badge-new">New</span> |
+| Honor Effects | +50% | <span class="bonus">+70%</span> |
+| Siege Science Efficiency | — | <span class="bonus">+25%</span> <span class="badge-new">New</span> |
+| Spells | *(none)* | <span class="bonus">Quick Feet, Righteous Aggressor, Heroes' Inspiration</span> <span class="badge-new">New</span> |
 
 **Unique**
 
@@ -183,10 +182,10 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Offensive Military Efficiency | +10% | +15% |
-| Merc & Prisoner Strength | +4 | +5 |
-| Merc/Prisoner send ratio | — | 1 per 4 normal troops *(new)* |
-| Tactics Science Efficiency | +15% | +25% |
-| Spells | Bloodlust | *(none listed)* |
+| Offensive Military Efficiency | +10% | <span class="bonus">+15%</span> |
+| Merc & Prisoner Strength | +4 | <span class="bonus">+5</span> |
+| Merc/Prisoner send ratio | — | <span class="bonus">1 per 4 normal troops</span> <span class="badge-new">New</span> |
+| Tactics Science Efficiency | +15% | <span class="bonus">+25%</span> |
+| Spells | Bloodlust | <span class="penalty">*(none listed)*</span> |
 
 *(Unique — Battle Cry — unchanged)*
