@@ -1,4 +1,4 @@
-# Spells on Myself (SoM)
+# Spy on Military (SoM)
 
 ## What is a SoM?
 
