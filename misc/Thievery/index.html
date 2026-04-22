@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.49f50676.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.68d37e99.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -6146,6 +6146,7 @@ Nevertheless, sending <strong>5% of your thieves will return completely accurate
 <div class="highlight"><pre><span></span><code> Available to:       All
  Relations Required: All
  Effect:             Steals up to a max of 31.5% (46% in war) enemy food at the rate of 95 (135 in war) bushels per thief.
+                     10% of the stolen food is lost rather than transferred.
  Operation Message:  Our thieves have returned with X bushels.
  Difficulty:         medium
  Meter Movemement:   0.06
@@ -6203,8 +6204,15 @@ Nevertheless, sending <strong>5% of your thieves will return completely accurate
 <p>Assassinates a portion of your enemy's military, both at home and away.</p>
 <div class="highlight"><pre><span></span><code> Available to:       All
  Relations Required: Unfriendly
- Effect:             Kills up to a maximum of 16.25% enemy soldiers at a rate of 0.67 soldiers per thief.
-                     Also kills a much smaller amount of specialists and elites. Will affect all troops, even those that aren&#39;t home.
+ Effect:             Kills enemy soldiers, offensive specialists, defensive specialists, and elites, both at home and away.
+                     War formulas:
+                     - Soldiers: cap 13%, rate ~0.6 soldiers per thief
+                     - Offensive specialists: cap 0.36%, rate ~0.0228 per thief
+                     - Defensive specialists and elites: cap 0.48%, rate 0.022 per thief
+                     Out of war formulas:
+                     - Soldiers: cap ~11%, rate ~0.84 soldiers per thief
+                     - Offensive specialists: cap ?%, rate 0.23 per thief
+                     Will affect all troops, even those that aren&#39;t home.
  Operation Message:  Our thieves assassinated X enemy troops.  
  Difficulty:         medium
  Meter Movement:     0.24
