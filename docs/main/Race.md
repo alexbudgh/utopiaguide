@@ -327,7 +327,7 @@ Every successful attack applies one random bonus effect:
 
 - -45% Military Losses (attack and defence)
 - [Plague](../misc/Plague.md) Immunity
-- Always carries Plague and spreads it
+- Always carries [Plague](../misc/Plague.md) and spreads it through combat, including on defense
 - No Food Requirement
 
 **Penalties:**
@@ -339,7 +339,7 @@ Every successful attack applies one random bonus effect:
 - Animate Dead
 - Aggression
 
-**War Doctrine — Enemy Battle Gains / Plague Spread:** Up to -12.5% Enemy Battle Gains and +12.5% increased Plague spread chance to your kingdom (does not grant spread ability on its own)
+**War Doctrine (In War):** Provides up to -12.5% Enemy Battle Gains and +12.5% Increased Plague spread chance (does not grant the ability to spread Plague)
 
 **Unique — Death March** *(Passive)*
 Converts 45% of offensive losses into Soldiers instantly.

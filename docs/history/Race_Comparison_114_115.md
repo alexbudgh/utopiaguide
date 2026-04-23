@@ -244,7 +244,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | | Age 114 | Age 115 |
 | --- | --- | --- |
 | Military Losses | −40% | <span class="bonus">−45%</span> |
-| Plague spread | 33% chance on successful attacks | <span class="bonus">Always carries and spreads Plague</span> |
+| Plague spread | 33% chance on successful attacks | <span class="bonus">Always carries Plague and spreads it through both attacks and defense</span> |
 | −5% OME | Penalty | <span class="bonus">Removed</span> |
 | Science Efficiency | — | <span class="penalty">−10% penalty</span> <span class="badge-new">New</span> |
 
@@ -257,7 +257,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 **Unique & Spells**
 
 !!! note
-    The old `Plaguebearers` effect was partially folded into the race bonus above as a reworked plague mechanic.
+    Age 114 used an explicit `Plaguebearers` passive: Undead initiated plague only on successful attacks, and Undead did not begin infected by default. In Age 115, Undead always carry plague, while spread is treated as part of the broader plague system rather than a separate attack-only passive.
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |

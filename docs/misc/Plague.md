@@ -4,9 +4,12 @@ Plague is a status effect that can spread through combat. Any province — inclu
 
 ## Immunity
 
-Immunity prevents the penalties below and suppresses the plague indicator on the Throne page, but does **not** prevent a province from carrying or spreading plague.
+Immunity prevents the penalties below and suppresses the plague indicator on the Throne page, but does **not** prevent a province from carrying plague or having a chance to spread it.
 
-Undead normally always carry plague invisibly: they ignore its effects and spread it at the base rate. All other races that contract plague spread it only at a reduced rate, which lowers transmission frequency but not plague strength.
+Undead normally always carry plague invisibly: they ignore its effects and spread it through combat, including on defense. Effects that increase plague spread chance improve that transmission rate, but do not grant spread ability on their own. All other races that contract plague spread it only at a reduced rate, which lowers transmission frequency but not plague strength.
+
+!!! note
+    Before the Age 115 rework, Undead plague initiation was narrower: it came from Undead on successful attacks, and Undead did not start infected by default. Defensive spread was already part of the broader plague system, but at a lower rate than offensive spread.
 
 ## Effects
 
