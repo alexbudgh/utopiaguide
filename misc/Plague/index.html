@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.68d37e99.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.6b7607d3.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -5337,8 +5337,12 @@
 <h1 id="plague">Plague</h1>
 <p>Plague is a status effect that can spread through combat. Any province — including Undead — can catch it. Spread occurs through both attacking and defending.</p>
 <h2 id="immunity">Immunity</h2>
-<p>Immunity prevents the penalties below and suppresses the plague indicator on the Throne page, but does <strong>not</strong> prevent a province from carrying or spreading plague.</p>
-<p>Undead normally always carry plague invisibly: they ignore its effects and spread it at the base rate. All other races that contract plague spread it only at a reduced rate, which lowers transmission frequency but not plague strength.</p>
+<p>Immunity prevents the penalties below and suppresses the plague indicator on the Throne page, but does <strong>not</strong> prevent a province from carrying plague or having a chance to spread it.</p>
+<p>Undead normally always carry plague invisibly: they ignore its effects and spread it through combat, including on defense. Effects that increase plague spread chance improve that transmission rate, but do not grant spread ability on their own. All other races that contract plague spread it only at a reduced rate, which lowers transmission frequency but not plague strength.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Before the Age 115 rework, Undead plague initiation was narrower: it came from Undead on successful attacks, and Undead did not start infected by default. Defensive spread was already part of the broader plague system, but at a lower rate than offensive spread.</p>
+</div>
 <h2 id="effects">Effects</h2>
 <ul>
 <li>No Population Growth</li>
