@@ -278,7 +278,7 @@ Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 
 | Knights *(elite)* | 16/3 | 6.5 | 750gc |
 | Mercenary | 8/0 | 0.0 | 300gc |
 | Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
-| War Horse | 2/0 | 0.9 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
