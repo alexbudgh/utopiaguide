@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.c457480f.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.592abc0b.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -7110,12 +7110,14 @@
 <p>The costs of spells are:</p>
 <ul>
 <li>Self Spells - 3%</li>
+<li><a href="../../misc/Ritual/">Ritual</a> casts - 2%</li>
 <li>Offensive Spells (without relations) - 3%</li>
-<li>Offensive Spells (Hostile relations) - 2%</li>
-<li><a href="../../misc/Ritual/">Ritual</a> Spells - 2%</li>
-<li>Support Spells on others - 2%</li>
-<li>Successful received Support Spells - 2%</li>
+<li>Offensive Spells (Hostile or War relations) - 2%</li>
+<li>Crystal Ball - 1%</li>
 </ul>
+<p>Rune costs vary by spell and include a fixed element and a province-size element:</p>
+<div class="highlight"><pre><span></span><code>Rune Cost = ROUNDDOWN((0.6 * Size + 200) * Spell Cost Multiplier * 1.5)
+</code></pre></div>
 <h3 id="restriction-limits">Restriction &amp; Limits</h3>
 <p>Certain spells are designated Unfriendly, Hostile or <a href="../Relations/">War</a> Only spells -- Because of the destructive nature of these spells, they can be cast only against provinces which have at least a certain level of relations with your kingdom. In addition, you will find that many of these spells are more effective during heightened relations conditions.</p>
 <p>Spells are divided into two categories, as listed below:</p>
@@ -7462,7 +7464,8 @@
 <h2 id="the-spell-book-offensive-spells">The Spell Book: Offensive Spells</h2>
 <p>Listed here is a short reference guide to each of the spells available that can be cast upon your enemies. Any restrictions on usage will be listed under the name.</p>
 <h3 id="abolish-ritual">Abolish Ritual</h3>
-<p>Reduces the strength of an enemy kingdom's province and has a high cost/difficulty</p>
+<p>Reduces the strength of an enemy kingdom's active <a href="../../misc/Ritual/">Ritual</a> and has a high cost/difficulty. Rituals start at 100% strength; each successful cast reduces strength by 2 percentage points. Only the first 10 successful casts on a single province reduce ritual strength, so fully destroying a ritual requires 50 successful casts spread across at least 5 provinces.</p>
+<p>Ritual strength is separate from ritual effect. A ritual at low strength can still have more than 100% effect if it was completed with extra casts. If a ritual reaches 0% strength before its 48 Utopian Day minimum duration, it remains active until that minimum duration expires.</p>
 <p>Is Known: <a href="../../history/Age_73/">Age 73</a> ... now</p>
 <div class="highlight"><pre><span></span><code> Available to: All - with minimum relationship of Unfriendly.
  Effect: Reduces ritual strength by 2%. Limited to 10 casts on a single enemy province.

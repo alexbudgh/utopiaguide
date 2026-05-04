@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.c457480f.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.592abc0b.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1737,10 +1737,43 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#starting-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Starting a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casting-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casting a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#completing-a-ritual" class="md-nav__link">
     <span class="md-ellipsis">
       
         Completing a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#abolishing-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Abolishing a Ritual
       
     </span>
   </a>
@@ -5274,10 +5307,43 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#starting-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Starting a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casting-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Casting a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#completing-a-ritual" class="md-nav__link">
     <span class="md-ellipsis">
       
         Completing a Ritual
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#abolishing-a-ritual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Abolishing a Ritual
       
     </span>
   </a>
@@ -5313,10 +5379,27 @@
 
 
 <h1 id="ritual">Ritual</h1>
-<p>Kingdom Rituals (KR) are a kingdom-wide bonus mechanic. The Monarch or Steward can initiate a ritual. Only one KR can be active at a time, though a new one can be started before the current one expires (it will replace the active one on completion).</p>
+<p>Kingdom Rituals (KR) are kingdom-wide spells that require coordinated casting to provide powerful bonuses for multiple Utopian Months. The Monarch or Steward can start, complete, or abandon a ritual. Only one KR can be active at a time, though a new one can be started before the current one expires; it replaces the active ritual when completed.</p>
+<p>Spy on Throne and Crystal Ball show any active ritual affecting a province and its strength.</p>
 <p><em>Last updated: Age 115</em></p>
+<h2 id="starting-a-ritual">Starting a Ritual</h2>
+<p>The Monarch or Steward chooses one of the available ritual types. Once started, the kingdom has <strong>48 Utopian Days</strong> to complete the ritual.</p>
+<h2 id="casting-a-ritual">Casting a Ritual</h2>
+<p>The kingdom must successfully cast the ritual spell at least:</p>
+<div class="highlight"><pre><span></span><code>Minimum Ritual Casts = max(45, Kingdom Provinces * 3)
+</code></pre></div>
+<p>Each ritual cast has difficulty similar to the hardest self spell, a very expensive rune cost (<strong>Cost Multiplier 6</strong>), and costs <strong>2% Mana</strong>.</p>
+<p>A ritual can be cast beyond the minimum to increase its effect:</p>
+<div class="highlight"><pre><span></span><code>Ritual Effect = 1 + (2 * SQRT(Casts - max(45, Kingdom Provinces * 3))) / 100
+</code></pre></div>
+<p>The effect applies to all bonuses provided by the ritual. For example, Onslaught at 110% effect provides +11% Offensive Military Efficiency and +16.5% enemy casualties.</p>
 <h2 id="completing-a-ritual">Completing a Ritual</h2>
-<p>The kingdom must cast the ritual spell <strong>100 times within 48 hours</strong> of starting. The ritual spell has a high rune cost and difficulty similar to the hardest self spell. A successful ritual lasts <strong>120 hours (5 months)</strong>.</p>
+<p>A ritual automatically completes <strong>48 Utopian Days</strong> after it is started, or it can be completed early by the Monarch or Steward once the minimum casts are reached.</p>
+<p>Once completed, the ritual applies to all provinces in the kingdom. Its effect decays by <strong>0.25% per tick</strong>. Completed rituals last for at least <strong>48 Utopian Days</strong> and up to <strong>120 Utopian Days</strong>.</p>
+<h2 id="abolishing-a-ritual">Abolishing a Ritual</h2>
+<p>Enemy kingdoms can destroy completed rituals with <a href="../../guide/Mystics/#abolish-ritual">Abolish Ritual</a>. Rituals start at <strong>100% strength</strong>, and each successful Abolish Ritual cast reduces strength by <strong>2 percentage points</strong>. Ritual strength is separate from ritual effect; a low-strength ritual can still have more than 100% effect from extra casts.</p>
+<p>Only the first <strong>10 successful Abolish Ritual casts</strong> on each province reduce ritual strength. Destroying a ritual therefore requires <strong>50 successful casts</strong> spread across at least <strong>5 different provinces</strong>.</p>
+<p>Once a ritual reaches 0% strength, it is abolished unless it has not reached its 48 Utopian Day minimum duration. If it reaches 0% strength before then, it remains until the 48th Utopian Day and is then automatically removed.</p>
 <h2 id="ritual-types">Ritual Types</h2>
 <table>
 <thead>
