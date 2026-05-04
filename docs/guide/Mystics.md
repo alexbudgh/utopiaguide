@@ -43,19 +43,7 @@ For example, given a spell with a nominal duration of 24 days:
 
 All spells cost mana, which the province will regenerate each Utopian day up to a maximum of 100%. Once your mana falls below 5% you are unable to cast any more spells until your mana regenerates.
 
-The costs of spells are:
-
-- Self Spells - 3%
-- [Ritual](../misc/Ritual.md) casts - 2%
-- Offensive Spells (without relations) - 3%
-- Offensive Spells (Hostile or War relations) - 2%
-- Crystal Ball - 1%
-
-Rune costs vary by spell and include a fixed element and a province-size element:
-
-```
-Rune Cost = ROUNDDOWN((0.6 * Size + 200) * Spell Cost Multiplier * 1.5)
-```
+For current mana costs and the rune cost formula, see [Magic Formulas](Magic_Formulas.md#mana-costs).
 
 ### Restriction & Limits
 
