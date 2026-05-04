@@ -46,11 +46,16 @@ All spells cost mana, which the province will regenerate each Utopian day up to 
 The costs of spells are:
 
 - Self Spells - 3%
+- [Ritual](../misc/Ritual.md) casts - 2%
 - Offensive Spells (without relations) - 3%
-- Offensive Spells (Hostile relations) - 2%
-- [Ritual](../misc/Ritual.md) Spells - 2%
-- Support Spells on others - 2%
-- Successful received Support Spells - 2%
+- Offensive Spells (Hostile or War relations) - 2%
+- Crystal Ball - 1%
+
+Rune costs vary by spell and include a fixed element and a province-size element:
+
+```
+Rune Cost = ROUNDDOWN((0.6 * Size + 200) * Spell Cost Multiplier * 1.5)
+```
 
 ### Restriction & Limits
 
@@ -579,7 +584,9 @@ Listed here is a short reference guide to each of the spells available that can 
 
 ### Abolish Ritual
 
-Reduces the strength of an enemy kingdom's province and has a high cost/difficulty
+Reduces the strength of an enemy kingdom's active [Ritual](../misc/Ritual.md) and has a high cost/difficulty. Rituals start at 100% strength; each successful cast reduces strength by 2 percentage points. Only the first 10 successful casts on a single province reduce ritual strength, so fully destroying a ritual requires 50 successful casts spread across at least 5 provinces.
+
+Ritual strength is separate from ritual effect. A ritual at low strength can still have more than 100% effect if it was completed with extra casts. If a ritual reaches 0% strength before its 48 Utopian Day minimum duration, it remains active until that minimum duration expires.
 
 Is Known: [Age 73](../history/Age_73.md) ... now
 
