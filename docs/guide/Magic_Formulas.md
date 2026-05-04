@@ -13,7 +13,7 @@ Raw WPA = Number of Wizards / Acres
 ### Mod WPA
 
 ```
-Offensive Modified WPA = Raw WPA * Channeling Science * Racial Mod * Honour Mod * Mage's Fury Mod
+Offensive Modified WPA = Raw WPA * Channeling Science * Racial Mod * Honour Mod * Mage's Fury Mod * Ritual Mod
 ```
 
 ```
@@ -31,8 +31,18 @@ Maximum Wizards Allowed to Train = Peasants * 2
 ## Runes Cost Formula
 
 ```
-Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
+Rune Cost = ROUNDDOWN((0.6 * Size + 200) * Spell Cost Multiplier * 1.5)
 ```
+
+## Mana Costs
+
+| Spell Type | Mana Cost |
+| --- | --- |
+| Self Spells | 3% |
+| [Ritual](../misc/Ritual.md) casts | 2% |
+| Offensive Spells (without relations) | 3% |
+| Offensive Spells (Hostile or War relations) | 2% |
+| Crystal Ball | 1% |
 
 ## The Spell Book
 
