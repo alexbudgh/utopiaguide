@@ -51,7 +51,7 @@
       
     
     
-      <link rel="stylesheet" href="../../stylesheets/extra.817ae2b4.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.9ee61a4f.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -5093,6 +5093,67 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#bot-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bot Commands
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Bot Commands">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Aid
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#armies" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Armies
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kingdom-stats" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kingdom Stats
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#province" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Province
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -5361,6 +5422,67 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#bot-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bot Commands
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Bot Commands">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Aid
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#armies" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Armies
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kingdom-stats" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kingdom Stats
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#province" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Province
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -5432,6 +5554,239 @@
 </ul>
 <h3 id="adding-intel-to-munkbot_1">Adding intel to MunkBot</h3>
 <p>Once ingame, press the Disable Munkbot button or disable text. This will disable the script until you enable it again by clicking the munkbot text again.</p>
+<hr />
+<h2 id="bot-commands">Bot Commands</h2>
+<div class="admonition warning">
+<p class="admonition-title">Known limitation</p>
+<p>Do <strong>not</strong> trust the <code>.bush</code> command — it does not account for new troop values. Always take bush value from the new intelsite instead.</p>
+</div>
+<h3 id="aid">Aid</h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.aid [amount] [type] [comment]</code></td>
+<td>Request aid</td>
+</tr>
+<tr>
+<td><code>.aidfor [prov] [amount] [type] [comment]</code></td>
+<td>Request aid for someone else</td>
+</tr>
+<tr>
+<td><code>.delaid [user]</code></td>
+<td>Delete a requested aid</td>
+</tr>
+</tbody>
+</table>
+<h3 id="armies">Armies</h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.eta [user]</code></td>
+<td>Check a province's army home time</td>
+</tr>
+<tr>
+<td><code>.def [user]</code></td>
+<td>Check a province's defense based on latest intel</td>
+</tr>
+<tr>
+<td><code>.bush [user]</code></td>
+<td>Calculate ambush send amount (<strong>do not trust</strong> — see warning above)</td>
+</tr>
+<tr>
+<td><code>.plunders</code></td>
+<td>Check which kingdoms recently exited EoWCF</td>
+</tr>
+<tr>
+<td><code>.etalist</code></td>
+<td>List incoming armies</td>
+</tr>
+<tr>
+<td><code>.etalist war</code></td>
+<td>List incoming enemy armies</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Intel commands (PM)</strong> — bot sends results via private message:</p>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.sot [user]</code></td>
+<td>Check SoT</td>
+</tr>
+<tr>
+<td><code>.som [user]</code></td>
+<td>Check SoM</td>
+</tr>
+<tr>
+<td><code>.sur [user]</code></td>
+<td>Check survey</td>
+</tr>
+<tr>
+<td><code>.sos [user]</code></td>
+<td>Check science</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Intel commands (channel)</strong> — bot displays results in channel:</p>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.sotc [user]</code></td>
+<td>Check SoT</td>
+</tr>
+<tr>
+<td><code>.somc [user]</code></td>
+<td>Check SoM</td>
+</tr>
+<tr>
+<td><code>.surc [user]</code></td>
+<td>Check survey</td>
+</tr>
+<tr>
+<td><code>.sosc [user]</code></td>
+<td>Check science</td>
+</tr>
+</tbody>
+</table>
+<h3 id="kingdom-stats">Kingdom Stats</h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.bestgains [location] [province]</code></td>
+<td>Check which province in that kingdom is the given province's best gains target</td>
+</tr>
+<tr>
+<td><code>.kdeconwar</code></td>
+<td>Check enemy kingdom total income</td>
+</tr>
+<tr>
+<td><code>.kdecon</code></td>
+<td>Check own kingdom total income</td>
+</tr>
+<tr>
+<td><code>.mintime</code></td>
+<td>Check when WD mintime is</td>
+</tr>
+<tr>
+<td><code>.notactivesince [hrs]</code></td>
+<td>List users who were <strong>not</strong> active within the given hours</td>
+</tr>
+<tr>
+<td><code>.dragon</code></td>
+<td>Check dragon funding details</td>
+</tr>
+<tr>
+<td><code>.dragon [amount]</code></td>
+<td>Show funding based on the given number of hours</td>
+</tr>
+<tr>
+<td><code>.dragonsent</code></td>
+<td>Check dragon killing details</td>
+</tr>
+<tr>
+<td><code>.dragonsent [amount]</code></td>
+<td>Show killing details for the past given hours</td>
+</tr>
+<tr>
+<td><code>.ritual</code></td>
+<td>Check ritual casting details</td>
+</tr>
+<tr>
+<td><code>.ops[hr] [prov name]</code></td>
+<td>Show ops activity of that province for the last X hours</td>
+</tr>
+<tr>
+<td><code>.ops[hr] [loc]</code></td>
+<td>Show ops done by a kingdom in the last X hours</td>
+</tr>
+<tr>
+<td><code>.list [stat] [race/pers]</code></td>
+<td>List every province's stat in your kingdom</td>
+</tr>
+<tr>
+<td><code>.listwar [stat] [race/pers]</code></td>
+<td>List every province's stat in enemy kingdom</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Available stats for <code>.list</code> / <code>.listwar</code>:</strong> <code>gc</code>, <code>gcpa</code>, <code>mtpa</code>, <code>mwpa</code>, <code>tpa</code>, <code>wpa</code>, <code>epa</code>, <code>dspa</code>, <code>ospa</code>, <code>opa</code>, <code>popa</code>, <code>off</code>, <code>poff</code>, <code>dpa</code>, <code>pdpa</code>, <code>pdef</code>, <code>totalbooks</code>, <code>bpa</code>, <code>wages</code>, <code>food</code>, <code>rune</code>, <code>solds</code>, <code>spa</code>, <code>tb</code>, <code>peons</code>, <code>ppa</code>, <code>stealth</code>, <code>mana</code>, <code>mpa</code>, <code>draft</code>, <code>poppa</code>, <code>income</code>, <code>intel</code> (SoT age)</p>
+<h3 id="province">Province</h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>.farms</code></td>
+<td>Check the optimum number of farms required</td>
+</tr>
+<tr>
+<td><code>.econ</code></td>
+<td>Check province econ stats</td>
+</tr>
+<tr>
+<td><code>.prophet</code></td>
+<td>Check future stats when everything is built and trained</td>
+</tr>
+<tr>
+<td><code>.income</code></td>
+<td>Check province income</td>
+</tr>
+<tr>
+<td><code>.wpacalc</code></td>
+<td>NW breakdown of your province; also calculates rWPA from NW (requires survey, SoS, and SoT)</td>
+</tr>
+<tr>
+<td><code>.time</code></td>
+<td>Display current Utopian time</td>
+</tr>
+<tr>
+<td><code>.eff [building] [amount] [BE]</code></td>
+<td>Show the effects of a building at a given amount and BE</td>
+</tr>
+<tr>
+<td><code>.soldswap [user]</code></td>
+<td>Show how many soldiers you can send before the province goes into troop overpop</td>
+</tr>
+<tr>
+<td><code>.max eff [be]</code></td>
+<td>Show the max buildings needed for maximum effect at a given efficiency</td>
+</tr>
+</tbody>
+</table>
 
 
 
