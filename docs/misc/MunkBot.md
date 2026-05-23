@@ -57,3 +57,82 @@ OR
 ### Adding intel to MunkBot
 
 Once ingame, press the Disable Munkbot button or disable text. This will disable the script until you enable it again by clicking the munkbot text again.
+
+---
+
+## Bot Commands
+
+!!! warning "Known limitation"
+    Do **not** trust the `.bush` command — it does not account for new troop values. Always take bush value from the new intelsite instead.
+
+### Aid
+
+| Command | Description |
+|---|---|
+| `.aid [amount] [type] [comment]` | Request aid |
+| `.aidfor [prov] [amount] [type] [comment]` | Request aid for someone else |
+| `.delaid [user]` | Delete a requested aid |
+
+### Armies
+
+| Command | Description |
+|---|---|
+| `.eta [user]` | Check a province's army home time |
+| `.def [user]` | Check a province's defense based on latest intel |
+| `.bush [user]` | Calculate ambush send amount (**do not trust** — see warning above) |
+| `.plunders` | Check which kingdoms recently exited EoWCF |
+| `.etalist` | List incoming armies |
+| `.etalist war` | List incoming enemy armies |
+
+**Intel commands (PM)** — bot sends results via private message:
+
+| Command | Description |
+|---|---|
+| `.sot [user]` | Check SoT |
+| `.som [user]` | Check SoM |
+| `.sur [user]` | Check survey |
+| `.sos [user]` | Check science |
+
+**Intel commands (channel)** — bot displays results in channel:
+
+| Command | Description |
+|---|---|
+| `.sotc [user]` | Check SoT |
+| `.somc [user]` | Check SoM |
+| `.surc [user]` | Check survey |
+| `.sosc [user]` | Check science |
+
+### Kingdom Stats
+
+| Command | Description |
+|---|---|
+| `.bestgains [location] [province]` | Check which province in that kingdom is the given province's best gains target |
+| `.kdeconwar` | Check enemy kingdom total income |
+| `.kdecon` | Check own kingdom total income |
+| `.mintime` | Check when WD mintime is |
+| `.notactivesince [hrs]` | List users who were **not** active within the given hours |
+| `.dragon` | Check dragon funding details |
+| `.dragon [amount]` | Show funding based on the given number of hours |
+| `.dragonsent` | Check dragon killing details |
+| `.dragonsent [amount]` | Show killing details for the past given hours |
+| `.ritual` | Check ritual casting details |
+| `.ops[hr] [prov name]` | Show ops activity of that province for the last X hours |
+| `.ops[hr] [loc]` | Show ops done by a kingdom in the last X hours |
+| `.list [stat] [race/pers]` | List every province's stat in your kingdom |
+| `.listwar [stat] [race/pers]` | List every province's stat in enemy kingdom |
+
+**Available stats for `.list` / `.listwar`:** `gc`, `gcpa`, `mtpa`, `mwpa`, `tpa`, `wpa`, `epa`, `dspa`, `ospa`, `opa`, `popa`, `off`, `poff`, `dpa`, `pdpa`, `pdef`, `totalbooks`, `bpa`, `wages`, `food`, `rune`, `solds`, `spa`, `tb`, `peons`, `ppa`, `stealth`, `mana`, `mpa`, `draft`, `poppa`, `income`, `intel` (SoT age)
+
+### Province
+
+| Command | Description |
+|---|---|
+| `.farms` | Check the optimum number of farms required |
+| `.econ` | Check province econ stats |
+| `.prophet` | Check future stats when everything is built and trained |
+| `.income` | Check province income |
+| `.wpacalc` | NW breakdown of your province; also calculates rWPA from NW (requires survey, SoS, and SoT) |
+| `.time` | Display current Utopian time |
+| `.eff [building] [amount] [BE]` | Show the effects of a building at a given amount and BE |
+| `.soldswap [user]` | Show how many soldiers you can send before the province goes into troop overpop |
+| `.max eff [be]` | Show the max buildings needed for maximum effect at a given efficiency |
