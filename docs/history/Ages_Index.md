@@ -133,3 +133,5 @@ A complete list of all Utopia ages on the World of Legends server.
 | 112 | Age of First Strike | [Age 112](Age_112.md) |
 | 113 | Age of Merry Mayhems | [Age 113](Age_113.md) |
 | 114 | The Age of Convergence | [Age 114](Age_114.md) |
+| 115 | Age 115 | [Age 115](Age_115.md) |
+| 116 | Age 116 | [Age 116](Age_116.md) |

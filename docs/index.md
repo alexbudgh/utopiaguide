@@ -8,12 +8,12 @@ This site is a community-maintained guide for [Utopia](https://utopia-game.com),
 
 !!! tip "Getting Started"
     - [Getting Started with Utopia](guide/Getting_Started_with_Utopia.md)
-    - **Current Age: [Age 115](history/Age_115.md)**
+    - **Current Age: [Age 116](history/Age_116.md)**
     - [Race](main/Race.md) · [Personality](main/Personality.md) · [Unique Abilities](main/Unique_Abilities.md) · [Units](main/Units.md)
     - [Game Rules](misc/Game_Rules.md) · [Genesis](history/Genesis.md) · [Gold Status](misc/Gold_Status.md)
 
-!!! note "Age 115 Highlights"
-    **New this age:** [War Doctrine](main/Race.md#war-doctrines) scaling reworked (2.0% + 1.5% per province, max 12.5%) · DFCF reintroduced · Hostile meter decay · [Benediction ritual](misc/Ritual.md) replaces Expedient · Celestite Dragon removed; remaining [5 dragons](main/Dragons.md) gain periodic tick effects · New spell: Soul Blight · Castles, Resilience, Artisan, and Finesse science all tuned down
+!!! note "Age 116 Highlights"
+    **New this age:** New race [Dryad](history/Age_116.md#dryad) · Cleric returns, new [Sage](history/Age_116.md#the-sage) personality, Paladin removed · [War Doctrine](main/Race.md#war-doctrines) per-province increment reduced to +1% (Elf/Faery/Halfling keep +2%) · DFCF replaced by FCF with new thresholds · Hostile meter decay reverts to pre-Age 111 rules · Cunning and Sorcery merged into a single Arcana science tree · Dragon per-dragon cost modifiers replaced by a flat +15% Gold/Food cost outside War
 
 !!! info "Guides by In-game Menus"
     **Province Information** — [Economy](main/Economy.md), [Food](main/Food.md), [Honor](main/Honor.md), [Networth](main/Networth.md)
